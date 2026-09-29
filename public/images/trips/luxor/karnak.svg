@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Karnak Temple</title><desc id="desc">Stylised Karnak temple columns</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5eb2c4"/><stop offset="1" stop-color="#f1bd77"/></linearGradient><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#031b24" stop-opacity=".18"/><stop offset="1" stop-color="#031b24" stop-opacity="0"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#sky)"/><circle cx="1260" cy="210" r="95" fill="#ffd064" opacity=".9"/><path d="M0 720 C250 650 420 740 650 690 C900 635 1110 705 1600 630 V1000 H0 Z" fill="#b17a3e"/>
+<g fill="#b47a3f"><rect x="250" y="350" width="110" height="420"/><rect x="480" y="300" width="120" height="470"/><rect x="720" y="360" width="110" height="410"/><rect x="950" y="285" width="120" height="485"/><rect x="1200" y="340" width="110" height="430"/></g><g fill="#d6a25d"><rect x="220" y="330" width="170" height="50"/><rect x="450" y="280" width="180" height="50"/><rect x="920" y="265" width="180" height="50"/></g>
+<rect width="1600" height="1000" fill="url(#fade)"/>
+</svg>

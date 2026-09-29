@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "trips": "Escursioni",
+    "contact": "Contatti",
+    "book": "Prenota ora",
+    "language": "Lingua",
+    "cairo": "Il Cairo",
+    "luxor": "Luxor",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu"
+  },
+  "hero": {
+    "title1": "Scopri l’Egitto",
+    "title2": "da Hurghada.",
+    "badge": "Escursioni da Hurghada",
+    "description": "Scopri Il Cairo, Luxor e il Mar Rosso con dettagli chiari, richieste di prenotazione semplici e contatto diretto pensato per chi viaggia.",
+    "cairo": "Scopri Il Cairo",
+    "luxor": "Scopri Luxor",
+    "contact": "Contattaci",
+    "easy": "Richieste semplici",
+    "mobile": "Design mobile-first",
+    "local": "Focus sulle escursioni locali",
+    "featured": "Viaggio in evidenza",
+    "cairoDay": "Il Cairo in un giorno",
+    "cairoPlaces": "Piramidi · Sfinge · Museo",
+    "destination": "Destinazione",
+    "fromHurghada": "Da Hurghada"
+  },
+  "home": {
+    "popular": "Escursioni popolari",
+    "allTrips": "Vedi tutte le escursioni",
+    "title": "Il modo più semplice per iniziare a esplorare da Hurghada.",
+    "description": "Inizia dalle opzioni più richieste. Per altre idee, la pagina completa delle escursioni è organizzata in categorie semplici."
+  },
+  "language": {
+    "title": "Lingua",
+    "search": "Cerca lingue",
+    "all": "Tutte le lingue",
+    "current": "Lingua corrente",
+    "close": "Chiudi"
+  },
+  "forms": {
+    "trip": "Escursione",
+    "selectTrip": "Seleziona un’escursione",
+    "preferredDate": "Data preferita",
+    "adults": "Adulti",
+    "children": "Bambini",
+    "hotel": "Nome hotel",
+    "roomOptional": "Numero camera — facoltativo",
+    "name": "Nome",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "country": "Paese",
+    "specialRequest": "Richiesta speciale",
+    "message": "Messaggio",
+    "generalEnquiry": "Richiesta generale",
+    "sending": "Invio…",
+    "sendBooking": "Invia richiesta di prenotazione",
+    "sendMessage": "Invia messaggio",
+    "bookingSuccess": "Richiesta di prenotazione inviata con successo.",
+    "contactSuccess": "Messaggio inviato con successo.",
+    "sendError": "Invio non disponibile. Riprova o contattaci su WhatsApp.",
+    "bookingIntro": "Non è richiesto alcun pagamento online. Invia i dettagli preferiti e conferma il programma finale direttamente con il team.",
+    "contactIntro": "Chiedi informazioni su un’escursione, il prelievo, la disponibilità o qualsiasi cosa ti serva prima di prenotare."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Richiesta giornaliera",
+    "from": "Da",
+    "priceOnRequest": "Prezzo su richiesta",
+    "bookTrip": "Prenota questa escursione",
+    "viewItinerary": "Vedi itinerario",
+    "gallery": "Galleria",
+    "highlights": "Punti salienti",
+    "itinerary": "Itinerario",
+    "included": "Incluso",
+    "notIncluded": "Non incluso",
+    "whatToBring": "Cosa portare",
+    "bookNow": "Prenota ora",
+    "sendEnquiry": "Invia richiesta",
+    "contact": "Contatti",
+    "galleryTitle": "Un’anteprima dell’esperienza",
+    "galleryCopy": "Le immagini di anteprima possono essere sostituite dalla libreria immagini dell’amministrazione.",
+    "highlightsTitle": "I luoghi che rendono speciale la giornata",
+    "itineraryTitle": "La tua giornata, passo dopo passo",
+    "itineraryCopy": "L’ordine esatto può cambiare per motivi operativi. I dettagli finali del prelievo e il programma confermato vengono forniti con la prenotazione.",
+    "knowBefore": "Prima di prenotare",
+    "includedTitle": "Incluso e non incluso",
+    "bringTitle": "Alcuni elementi essenziali per una giornata comoda",
+    "ready": "Pronti quando lo sei tu",
+    "askAbout": "Chiedi informazioni su {trip}",
+    "bookingCopy": "Indicaci la data preferita, l’hotel e il numero di partecipanti. In questa fase non è richiesto alcun pagamento online.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Viaggia con chiarezza",
+    "title": "Tutto ciò che conta, facile da trovare.",
+    "description": "L’esperienza è costruita intorno alle domande che i viaggiatori vogliono chiarire prima di inviare una richiesta di prenotazione.",
+    "pickup": "Prelievo dall’hotel",
+    "guides": "Guide professionali",
+    "booking": "Prenotazione facile",
+    "direct": "Contatto diretto",
+    "clear": "Informazioni chiare"
+  },
+  "how": {
+    "kicker": "Semplice per scelta",
+    "title": "Dalla ricerca alla richiesta in pochi minuti.",
+    "description": "Nessun account, nessun checkout complicato e nessun pagamento online nella prima versione. Puoi concentrarti prima sull’escursione.",
+    "choose": "Scegli l’escursione",
+    "date": "Scegli la data",
+    "confirm": "Conferma i dettagli"
+  },
+  "contact": {
+    "kicker": "Contatti e prenotazioni",
+    "title": "Pronto a organizzare la tua prossima esperienza a Hurghada?",
+    "description": "Invia una richiesta di prenotazione, contattaci direttamente o usa WhatsApp per una domanda veloce.",
+    "choose": "Scegli un’escursione",
+    "whatsapp": "WhatsApp disponibile",
+    "message": "Invia un messaggio"
+  },
+  "trips": {
+    "kicker": "Escursioni da Hurghada",
+    "title": "Trova la tua escursione senza perderti tra le opzioni.",
+    "description": "Scegli una categoria semplice e apri l’escursione che ti interessa. I prezzi in USD mostrati in questa versione di sviluppo sono di esempio e modificabili dal pannello admin.",
+    "samplePrice": "Prezzo di esempio",
+    "viewTrip": "Vedi escursione",
+    "bookNow": "Prenota ora",
+    "empty": "Al momento non ci sono escursioni disponibili. Riprova più tardi."
+  },
+  "footer": {
+    "trips": "Escursioni",
+    "information": "Informazioni",
+    "privacy": "Privacy Policy",
+    "terms": "Termini",
+    "fromHurghada": "Da Hurghada",
+    "rights": "Tutti i diritti riservati.",
+    "fast": "Progettato per scoprire rapidamente le escursioni da mobile.",
+    "redSea": "Esperienze Mar Rosso ed Egitto"
+  },
+  "categories": {
+    "culture": {
+      "label": "Cultura e storia",
+      "description": "Escursioni giornaliere al Cairo e a Luxor."
+    },
+    "islands": {
+      "label": "Isole e snorkeling",
+      "description": "Giornate in barca, spiagge e barriere del Mar Rosso."
+    },
+    "diving": {
+      "label": "Diving e mare",
+      "description": "Immersioni, snorkeling e attività acquatiche."
+    },
+    "desert": {
+      "label": "Deserto e avventura",
+      "description": "Quad, safari ed esperienze nel deserto."
+    },
+    "family": {
+      "label": "Famiglia e città",
+      "description": "Attività semplici, visite in città e opzioni per famiglie."
+    },
+    "private": {
+      "label": "Escursioni private",
+      "description": "Esperienze private flessibili per il tuo gruppo."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Informativa sulla privacy",
+    "privacyIntro": "Raccogliamo solo le informazioni che scegli di inviare quando fai una domanda o presenti una richiesta di prenotazione.",
+    "privacyData": "Possono includere nome, contatti, paese, hotel, numero di camera se fornito, escursione scelta, data preferita, numero di partecipanti e messaggio.",
+    "privacyUse": "Usiamo queste informazioni per rispondere alle richieste, organizzare i dettagli del servizio, comunicare sulle prenotazioni e gestire il sito in sicurezza.",
+    "privacySharing": "Non vendiamo i dati delle richieste. Le informazioni vengono condivise solo quando ragionevolmente necessario per il servizio richiesto o quando previsto dalla legge.",
+    "privacyRetention": "I dati vengono conservati solo per il tempo ragionevolmente necessario a richieste, prenotazioni, registri operativi e obblighi legali applicabili.",
+    "privacyRights": "Puoi contattarci per chiedere accesso, correzione o cancellazione dei tuoi dati personali, nel rispetto dei requisiti legali applicabili.",
+    "termsTitle": "Termini",
+    "termsIntro": "Questo sito fornisce informazioni sulle escursioni e permette di inviare richieste e domande di prenotazione da Hurghada.",
+    "termsBooking": "L’invio di un modulo non crea da solo una prenotazione confermata. La prenotazione è confermata solo dopo la conferma diretta dei dettagli finali, della disponibilità e degli accordi.",
+    "termsPrices": "Prezzi, inclusioni, orari e attività facoltative possono cambiare. Prezzo finale e servizi confermati vengono comunicati prima dell’accettazione della prenotazione.",
+    "termsChanges": "L’ordine dell’escursione, gli orari di prelievo o parti dell’itinerario possono cambiare per motivi operativi, meteo, sicurezza o fornitori. Le modifiche sostanziali vengono comunicate quando note.",
+    "termsGuest": "Gli ospiti devono fornire dati corretti, seguire le istruzioni di sicurezza e portare i documenti necessari per l’escursione scelta.",
+    "termsContact": "Se qualcosa non è chiaro, contattaci prima della conferma così da concordare per iscritto il programma finale."
+  },
+  "reviews": {
+    "kicker": "Recensioni degli ospiti",
+    "title": "Feedback reale dei viaggiatori",
+    "tripTitle": "Recensioni per questa escursione",
+    "description": "Qui vengono mostrate solo recensioni basate su feedback autentici dei clienti e pubblicate dall’amministratore del sito."
+  },
+  "search": {
+    "label": "Cerca escursioni",
+    "placeholder": "Cerca per escursione, attività o luogo",
+    "clear": "Cancella ricerca",
+    "noResults": "Nessuna escursione corrisponde alla ricerca.",
+    "results": "{count} escursioni trovate"
+  }
+}

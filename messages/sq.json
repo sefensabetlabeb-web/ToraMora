@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Kreu",
+    "trips": "Ekskursione",
+    "contact": "Kontakt",
+    "book": "Rezervo tani",
+    "language": "Gjuha",
+    "cairo": "Kajro",
+    "luxor": "Luksor",
+    "openMenu": "Hap menunë",
+    "closeMenu": "Mbyll menunë"
+  },
+  "hero": {
+    "title1": "Zbuloni Egjiptin",
+    "title2": "nga Hurghada.",
+    "badge": "Ekskursione nga Hurghada",
+    "description": "Zbuloni Kajron, Luksorin dhe Detin e Kuq me informacione të qarta, kërkesa të thjeshta rezervimi dhe kontakt të drejtpërdrejtë.",
+    "cairo": "Zbuloni Kajron",
+    "luxor": "Zbuloni Luksorin",
+    "contact": "Na kontaktoni",
+    "easy": "Kërkesa të thjeshta",
+    "mobile": "Dizajn për celular",
+    "local": "Ekskursione lokale",
+    "featured": "Udhëtim i veçuar",
+    "cairoDay": "Kajro në një ditë",
+    "cairoPlaces": "Piramidat · Sfinksi · Muzeu",
+    "destination": "Destinacioni",
+    "fromHurghada": "Nga Hurghada"
+  },
+  "home": {
+    "popular": "Ekskursione të njohura",
+    "allTrips": "Shiko të gjitha",
+    "title": "Mënyra më e thjeshtë për të nisur eksplorimin nga Hurghada.",
+    "description": "Filloni me opsionet më të kërkuara. Ekskursionet e tjera janë të organizuara në kategori të thjeshta."
+  },
+  "language": {
+    "title": "Gjuha",
+    "search": "Kërko gjuhë",
+    "all": "Të gjitha gjuhët",
+    "current": "Gjuha aktuale",
+    "close": "Mbyll"
+  },
+  "forms": {
+    "trip": "Ekskursion",
+    "selectTrip": "Zgjidhni ekskursionin",
+    "preferredDate": "Data e preferuar",
+    "adults": "Të rritur",
+    "children": "Fëmijë",
+    "hotel": "Emri i hotelit",
+    "roomOptional": "Numri i dhomës — opsional",
+    "name": "Emri",
+    "phone": "Telefoni",
+    "email": "Email",
+    "country": "Shteti",
+    "specialRequest": "Kërkesë e veçantë",
+    "message": "Mesazh",
+    "generalEnquiry": "Pyetje e përgjithshme",
+    "sending": "Duke dërguar…",
+    "sendBooking": "Dërgo kërkesën e rezervimit",
+    "sendMessage": "Dërgo mesazh",
+    "bookingSuccess": "Kërkesa e rezervimit u dërgua me sukses.",
+    "contactSuccess": "Mesazhi u dërgua me sukses.",
+    "sendError": "Nuk mund të dërgohet tani. Provoni përsëri ose përdorni WhatsApp.",
+    "bookingIntro": "Nuk kërkohet pagesë online. Dërgoni të dhënat dhe konfirmoni programin përfundimtar drejtpërdrejt me ekipin.",
+    "contactIntro": "Pyetni për ekskursionin, marrjen, disponueshmërinë ose çdo gjë para rezervimit."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Pyetje ditore",
+    "from": "Nga",
+    "priceOnRequest": "Çmimi sipas kërkesës",
+    "bookTrip": "Rezervo këtë ekskursion",
+    "viewItinerary": "Shiko itinerarin",
+    "gallery": "Galeria",
+    "highlights": "Pikat kryesore",
+    "itinerary": "Itinerari",
+    "included": "Përfshihet",
+    "notIncluded": "Nuk përfshihet",
+    "whatToBring": "Çfarë të merrni",
+    "bookNow": "Rezervo tani",
+    "sendEnquiry": "Dërgo pyetje",
+    "contact": "Kontakt",
+    "galleryTitle": "Një pamje paraprake e përvojës",
+    "galleryCopy": "Imazhet mund të zëvendësohen nga biblioteka e administratorit.",
+    "highlightsTitle": "Vendet që formojnë ditën tuaj",
+    "itineraryTitle": "Dita juaj, hap pas hapi",
+    "itineraryCopy": "Rendi i saktë mund të ndryshojë për arsye operative. Detajet përfundimtare të marrjes dhe programi i konfirmuar jepen me rezervimin.",
+    "knowBefore": "Para rezervimit",
+    "includedTitle": "Të përfshira dhe jo të përfshira",
+    "bringTitle": "Disa gjëra bazë për një ditë të rehatshme",
+    "ready": "Gati kur të jeni ju",
+    "askAbout": "Pyet për {trip}",
+    "bookingCopy": "Na tregoni datën, hotelin dhe numrin e personave. Pagesa online nuk kërkohet në këtë fazë.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Udhëtoni me qartësi",
+    "title": "Gjithçka e rëndësishme, lehtë për t’u gjetur.",
+    "description": "Faqja është ndërtuar rreth pyetjeve që udhëtarët zakonisht duan të sqarojnë para rezervimit.",
+    "pickup": "Marrje nga hoteli",
+    "guides": "Guida profesionale",
+    "booking": "Rezervim i lehtë",
+    "direct": "Kontakt i drejtpërdrejtë",
+    "clear": "Informacion i qartë"
+  },
+  "how": {
+    "kicker": "E thjeshtë me qëllim",
+    "title": "Nga shfletimi te kërkesa në pak minuta.",
+    "description": "Pa llogari, checkout të komplikuar apo pagesë online në versionin e parë. Së pari përqendrohuni te ekskursioni.",
+    "choose": "Zgjidhni ekskursionin",
+    "date": "Zgjidhni datën",
+    "confirm": "Konfirmoni detajet"
+  },
+  "contact": {
+    "kicker": "Kontakt dhe rezervim",
+    "title": "Gati për përvojën e ardhshme në Hurghada?",
+    "description": "Dërgoni kërkesë rezervimi, na kontaktoni drejtpërdrejt ose përdorni WhatsApp për një pyetje të shpejtë.",
+    "choose": "Zgjidhni ekskursion",
+    "whatsapp": "WhatsApp i disponueshëm",
+    "message": "Dërgo mesazh"
+  },
+  "trips": {
+    "kicker": "Ekskursione nga Hurghada",
+    "title": "Gjeni ekskursionin pa u humbur mes zgjedhjeve.",
+    "description": "Zgjidhni një kategori dhe hapni ekskursionin që ju intereson. Çmimet USD në versionin e zhvillimit janë shembull dhe mund të ndryshohen nga admini.",
+    "samplePrice": "Çmim shembull",
+    "viewTrip": "Shiko ekskursionin",
+    "bookNow": "Rezervo tani",
+    "empty": "Nuk ka ekskursione të disponueshme tani. Kontrolloni më vonë."
+  },
+  "footer": {
+    "trips": "Ekskursione",
+    "information": "Informacion",
+    "privacy": "Politika e privatësisë",
+    "terms": "Kushtet",
+    "fromHurghada": "Nga Hurghada",
+    "rights": "Të gjitha të drejtat e rezervuara.",
+    "fast": "Ndërtuar për zbulim të shpejtë të ekskursioneve në celular.",
+    "redSea": "Përvoja në Detin e Kuq dhe Egjipt"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kulturë dhe histori",
+      "description": "Ekskursione njëditore në Kajro dhe Luksor."
+    },
+    "islands": {
+      "label": "Ishuj dhe snorkeling",
+      "description": "Udhëtime me varkë, plazhe dhe shkëmbinj në Detin e Kuq."
+    },
+    "diving": {
+      "label": "Zhytje dhe det",
+      "description": "Zhytje, snorkeling dhe aktivitete ujore."
+    },
+    "desert": {
+      "label": "Shkretëtirë dhe aventurë",
+      "description": "Quad, safari dhe përvoja në shkretëtirë."
+    },
+    "family": {
+      "label": "Familje dhe qytet",
+      "description": "Aktivitete të lehta, vizita në qytet dhe opsione familjare."
+    },
+    "private": {
+      "label": "Ekskursione private",
+      "description": "Përvoja private fleksibël për grupin tuaj."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Politika e privatësisë",
+    "privacyIntro": "Mbledhim vetëm informacionet që zgjidhni të dërgoni kur bëni pyetje ose kërkesë rezervimi.",
+    "privacyData": "Mund të përfshijnë emrin, kontaktin, vendin, hotelin, dhomën, ekskursionin, datën, madhësinë e grupit dhe mesazhin.",
+    "privacyUse": "I përdorim për përgjigje, organizim shërbimi, komunikim rezervimesh dhe funksionim të sigurt të faqes.",
+    "privacySharing": "Nuk i shesim të dhënat. I ndajmë vetëm kur nevojiten për shërbimin ose kërkohen me ligj.",
+    "privacyRetention": "Të dhënat ruhen vetëm aq sa nevojitet për kërkesa, rezervime, operacione dhe detyrime ligjore.",
+    "privacyRights": "Mund të kërkoni qasje, korrigjim ose fshirje të të dhënave personale sipas ligjit.",
+    "termsTitle": "Kushtet",
+    "termsIntro": "Faqja jep informacione për ekskursione dhe mundëson dërgimin e pyetjeve dhe kërkesave nga Hurghada.",
+    "termsBooking": "Dërgimi i formularit nuk krijon vetvetiu rezervim të konfirmuar. Konfirmimi bëhet pasi bien dakord detajet dhe disponueshmëria.",
+    "termsPrices": "Çmimet, përfshirjet, oraret dhe aktivitetet opsionale mund të ndryshojnë. Çmimi final jepet para pranimit.",
+    "termsChanges": "Rendi, oraret e marrjes ose pjesë të programit mund të ndryshojnë për arsye operative, moti, sigurie ose furnizuesi.",
+    "termsGuest": "Vizitorët janë përgjegjës për të dhëna të sakta, udhëzimet e sigurisë dhe dokumentet e nevojshme.",
+    "termsContact": "Nëse diçka nuk është e qartë, na kontaktoni para konfirmimit që programi final të bihet dakord me shkrim."
+  },
+  "reviews": {
+    "kicker": "Vlerësime nga vizitorët",
+    "title": "Përshtypje reale nga udhëtarët",
+    "tripTitle": "Vlerësime për këtë ekskursion",
+    "description": "Këtu shfaqen vetëm vlerësime nga komente reale të klientëve dhe të publikuara nga administratori i faqes."
+  },
+  "search": {
+    "label": "Kërko ekskursione",
+    "placeholder": "Kërko sipas ekskursionit, aktivitetit ose vendit",
+    "clear": "Pastro kërkimin",
+    "noResults": "Asnjë ekskursion nuk përputhet me kërkimin.",
+    "results": "U gjetën {count} ekskursione"
+  }
+}

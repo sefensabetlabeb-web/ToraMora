@@ -1,0 +1,4 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=path.resolve('messages');const base=JSON.parse(fs.readFileSync(path.join(root,'en.json'),'utf8'));
+function keys(obj,prefix=''){return Object.entries(obj).flatMap(([k,v])=>{const p=prefix?`${prefix}.${k}`:k;return v&&typeof v==='object'&&!Array.isArray(v)?keys(v,p):[p]})}
+const expected=new Set(keys(base));let missingTotal=0;for(const file of fs.readdirSync(root).filter(x=>x.endsWith('.json')&&x!=='en.json').sort()){const data=JSON.parse(fs.readFileSync(path.join(root,file),'utf8'));const actual=new Set(keys(data));const missing=[...expected].filter(k=>!actual.has(k));missingTotal+=missing.length;console.log(`${file.padEnd(10)} explicit ${String(expected.size-missing.length).padStart(3)}/${expected.size} | fallback ${missing.length}`)}console.log(`\nFallback keys across locales: ${missingTotal}`);process.exit(0);

@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Etusivu",
+    "trips": "Retket",
+    "contact": "Yhteystiedot",
+    "book": "Varaa nyt",
+    "language": "Kieli",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Avaa valikko",
+    "closeMenu": "Sulje valikko"
+  },
+  "hero": {
+    "title1": "Tutustu Egyptiin",
+    "title2": "Hurghadasta.",
+    "badge": "Retket Hurghadasta",
+    "description": "Tutustu Kairoon, Luxoriin ja Punaiseenmereen selkeillä retkitiedoilla, helpoilla varauspyynnöillä ja suoralla yhteydenpidolla.",
+    "cairo": "Tutustu Kairoon",
+    "luxor": "Tutustu Luxoriin",
+    "contact": "Ota yhteyttä",
+    "easy": "Helppo tiedustelu",
+    "mobile": "Mobiili ensin",
+    "local": "Paikalliset retket",
+    "featured": "Suositeltu retki",
+    "cairoDay": "Kairo yhdessä päivässä",
+    "cairoPlaces": "Pyramidit · Sfinksi · Museo",
+    "destination": "Kohde",
+    "fromHurghada": "Hurghadasta"
+  },
+  "home": {
+    "popular": "Suositut retket",
+    "allTrips": "Näytä kaikki retket",
+    "title": "Helpoin tapa aloittaa tutustuminen Hurghadasta.",
+    "description": "Aloita suosituimmista vaihtoehdoista. Lisää retkiä löydät selkeisiin luokkiin jaetulta retkisivulta."
+  },
+  "language": {
+    "title": "Kieli",
+    "search": "Hae kieliä",
+    "all": "Kaikki kielet",
+    "current": "Nykyinen kieli",
+    "close": "Sulje"
+  },
+  "forms": {
+    "trip": "Retki",
+    "selectTrip": "Valitse retki",
+    "preferredDate": "Toivottu päivämäärä",
+    "adults": "Aikuiset",
+    "children": "Lapset",
+    "hotel": "Hotellin nimi",
+    "roomOptional": "Huoneen numero — valinnainen",
+    "name": "Nimi",
+    "phone": "Puhelin",
+    "email": "Sähköposti",
+    "country": "Maa",
+    "specialRequest": "Erityistoive",
+    "message": "Viesti",
+    "generalEnquiry": "Yleinen tiedustelu",
+    "sending": "Lähetetään…",
+    "sendBooking": "Lähetä varauspyyntö",
+    "sendMessage": "Lähetä viesti",
+    "bookingSuccess": "Varauspyyntö lähetettiin onnistuneesti.",
+    "contactSuccess": "Viesti lähetettiin onnistuneesti.",
+    "sendError": "Lähetys ei onnistu juuri nyt. Yritä uudelleen tai käytä WhatsAppia.",
+    "bookingIntro": "Verkkomaksua ei tarvita. Lähetä toivotut tiedot ja vahvista lopullinen ohjelma suoraan tiimin kanssa.",
+    "contactIntro": "Kysy retkestä, noudosta, saatavuudesta tai muusta ennen varaamista."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Päivittäinen tiedustelu",
+    "from": "Alkaen",
+    "priceOnRequest": "Hinta pyynnöstä",
+    "bookTrip": "Varaa tämä retki",
+    "viewItinerary": "Näytä ohjelma",
+    "gallery": "Galleria",
+    "highlights": "Kohokohdat",
+    "itinerary": "Ohjelma",
+    "included": "Sisältyy",
+    "notIncluded": "Ei sisälly",
+    "whatToBring": "Mitä ottaa mukaan",
+    "bookNow": "Varaa nyt",
+    "sendEnquiry": "Lähetä tiedustelu",
+    "contact": "Yhteystiedot",
+    "galleryTitle": "Esikatselu elämyksestä",
+    "galleryCopy": "Esikatselukuvat voidaan vaihtaa hallinnan kuvakirjastosta.",
+    "highlightsTitle": "Päiväsi tärkeät paikat",
+    "itineraryTitle": "Päiväsi vaihe vaiheelta",
+    "itineraryCopy": "Tarkka järjestys voi muuttua toiminnallisista syistä. Lopulliset noutotiedot ja vahvistettu ohjelma annetaan varauksen yhteydessä.",
+    "knowBefore": "Hyvä tietää ennen varausta",
+    "includedTitle": "Sisältyy ja ei sisälly",
+    "bringTitle": "Muutama tärkeä asia mukavaan päivään",
+    "ready": "Valmiina, kun sinä olet",
+    "askAbout": "Kysy retkestä {trip}",
+    "bookingCopy": "Kerro toivottu päivä, hotelli ja osallistujamäärä. Verkkomaksua ei tarvita tässä vaiheessa.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Matkusta selkein tiedoin",
+    "title": "Kaikki tärkeä helposti löydettävissä.",
+    "description": "Sivusto vastaa kysymyksiin, jotka matkailijat yleensä haluavat selvittää ennen varauspyyntöä.",
+    "pickup": "Nouto hotellilta",
+    "guides": "Ammattitaitoiset oppaat",
+    "booking": "Helppo varaus",
+    "direct": "Suora yhteys",
+    "clear": "Selkeät tiedot"
+  },
+  "how": {
+    "kicker": "Tarkoituksella yksinkertainen",
+    "title": "Selailusta tiedusteluun muutamassa minuutissa.",
+    "description": "Ei tiliä, monimutkaista kassaa tai verkkomaksua ensimmäisessä versiossa. Voit keskittyä ensin retkeen.",
+    "choose": "Valitse retki",
+    "date": "Valitse päivä",
+    "confirm": "Vahvista tiedot"
+  },
+  "contact": {
+    "kicker": "Yhteys ja varaus",
+    "title": "Valmis suunnittelemaan seuraavan Hurghada-kokemuksen?",
+    "description": "Lähetä varauspyyntö, ota suoraan yhteyttä tai kysy nopeasti WhatsAppissa.",
+    "choose": "Valitse retki",
+    "whatsapp": "WhatsApp käytettävissä",
+    "message": "Lähetä viesti"
+  },
+  "trips": {
+    "kicker": "Retket Hurghadasta",
+    "title": "Löydä retkesi ilman vaihtoehtojen sekavuutta.",
+    "description": "Valitse selkeä luokka ja avaa kiinnostava retki. Tämän kehitysversion USD-hinnat ovat esimerkkejä ja muokattavissa hallinnassa.",
+    "samplePrice": "Esimerkkihinta",
+    "viewTrip": "Näytä retki",
+    "bookNow": "Varaa nyt",
+    "empty": "Retkiä ei ole juuri nyt saatavilla. Tarkista myöhemmin uudelleen."
+  },
+  "footer": {
+    "trips": "Retket",
+    "information": "Tiedot",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Ehdot",
+    "fromHurghada": "Hurghadasta",
+    "rights": "Kaikki oikeudet pidätetään.",
+    "fast": "Rakennettu nopeaan retkien löytämiseen mobiilissa.",
+    "redSea": "Punaisenmeren ja Egyptin elämykset"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kulttuuri ja historia",
+      "description": "Päiväretket Kairoon ja Luxoriin."
+    },
+    "islands": {
+      "label": "Saaret ja snorklaus",
+      "description": "Veneretket, rannat ja Punaisenmeren riutat."
+    },
+    "diving": {
+      "label": "Sukellus ja meri",
+      "description": "Sukellus, snorklaus ja vesiaktiviteetit."
+    },
+    "desert": {
+      "label": "Aavikko ja seikkailu",
+      "description": "Mönkijät, safari ja aavikkoelämykset."
+    },
+    "family": {
+      "label": "Perhe ja kaupunki",
+      "description": "Helppoja aktiviteetteja, kaupunkikäyntejä ja perhevaihtoehtoja."
+    },
+    "private": {
+      "label": "Yksityisretket",
+      "description": "Joustavia yksityisiä elämyksiä ryhmällesi."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Tietosuojakäytäntö",
+    "privacyIntro": "Keräämme vain tiedot, jotka päätät lähettää kysymyksen tai varauspyynnön yhteydessä.",
+    "privacyData": "Tietoja voivat olla nimi, yhteystiedot, maa, hotelli, huone, valittu retki, päivä, ryhmän koko ja viesti.",
+    "privacyUse": "Käytämme tietoja kyselyihin vastaamiseen, palvelun järjestämiseen, varausviestintään ja sivuston turvalliseen käyttöön.",
+    "privacySharing": "Emme myy tietoja. Jaamme niitä vain palvelun toteuttamiseksi tarpeellisessa määrin tai lain niin vaatiessa.",
+    "privacyRetention": "Säilytämme tietoja vain kohtuullisen tarpeellisen ajan kyselyitä, varauksia, toimintaa ja lakisääteisiä velvoitteita varten.",
+    "privacyRights": "Voit pyytää henkilötietojesi tarkastusta, korjausta tai poistamista sovellettavan lain mukaisesti.",
+    "termsTitle": "Ehdot",
+    "termsIntro": "Sivusto tarjoaa retkitietoja ja mahdollisuuden lähettää kyselyitä ja varauspyyntöjä Hurghadasta.",
+    "termsBooking": "Lomakkeen lähettäminen ei yksin vahvista varausta. Varaus vahvistuu, kun lopulliset tiedot ja saatavuus on sovittu kanssasi.",
+    "termsPrices": "Hinnat, sisällöt, aikataulut ja lisäaktiviteetit voivat muuttua. Lopullinen hinta ilmoitetaan ennen hyväksyntää.",
+    "termsChanges": "Järjestys, noutoajat tai ohjelman osat voivat muuttua toiminnan, sään, turvallisuuden tai toimittajien vuoksi.",
+    "termsGuest": "Vieraat vastaavat oikeista tiedoista, turvallisuusohjeiden noudattamisesta ja tarvittavista asiakirjoista.",
+    "termsContact": "Jos jokin on epäselvää, ota yhteyttä ennen vahvistusta, jotta lopullinen ohjelma voidaan sopia kirjallisesti."
+  },
+  "reviews": {
+    "kicker": "Asiakasarviot",
+    "title": "Aitoja kokemuksia matkailijoilta",
+    "tripTitle": "Arviot tästä retkestä",
+    "description": "Tässä näytetään vain aidosta asiakaspalautteesta peräisin olevia arvioita, jotka sivuston ylläpitäjä on julkaissut."
+  },
+  "search": {
+    "label": "Hae retkiä",
+    "placeholder": "Hae retken, aktiviteetin tai paikan mukaan",
+    "clear": "Tyhjennä haku",
+    "noResults": "Hakua vastaavia retkiä ei löytynyt.",
+    "results": "Retkiä löytyi: {count}"
+  }
+}

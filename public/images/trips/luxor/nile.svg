@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Nile in Luxor</title><desc id="desc">Stylised Nile landscape</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#53b2c6"/><stop offset="1" stop-color="#edc384"/></linearGradient><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#031b24" stop-opacity=".18"/><stop offset="1" stop-color="#031b24" stop-opacity="0"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#sky)"/><circle cx="1260" cy="210" r="95" fill="#ffd46b" opacity=".9"/><path d="M0 720 C250 650 420 740 650 690 C900 635 1110 705 1600 630 V1000 H0 Z" fill="#517b55"/>
+<path d="M0 740 C320 680 540 780 820 720 C1100 660 1350 730 1600 680 V1000 H0 Z" fill="#348da1"/><g fill="#3e6b46"><path d="M190 710 q45-180 90 0z"/><path d="M1320 690 q50-210 100 0z"/></g><path d="M690 640 l150 0 95 70 -330 0z" fill="#e2d2ac"/><rect x="750" y="560" width="10" height="85" fill="#5d4b3a"/><path d="M760 560 l100 65 -100 0z" fill="#f7f1df"/>
+<rect width="1600" height="1000" fill="url(#fade)"/>
+</svg>

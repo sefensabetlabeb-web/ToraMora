@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Kezdőlap",
+    "trips": "Kirándulások",
+    "contact": "Kapcsolat",
+    "book": "Foglalás",
+    "language": "Nyelv",
+    "cairo": "Kairó",
+    "luxor": "Luxor",
+    "openMenu": "Menü megnyitása",
+    "closeMenu": "Menü bezárása"
+  },
+  "hero": {
+    "title1": "Fedezze fel Egyiptomot",
+    "title2": "Hurghadából.",
+    "badge": "Kirándulások Hurghadából",
+    "description": "Fedezze fel Kairót, Luxort és a Vörös-tengert világos programleírásokkal, egyszerű foglalási kéréssel és közvetlen kapcsolattal.",
+    "cairo": "Kairó felfedezése",
+    "luxor": "Luxor felfedezése",
+    "contact": "Kapcsolat",
+    "easy": "Egyszerű érdeklődés",
+    "mobile": "Mobilra optimalizálva",
+    "local": "Helyi kirándulások",
+    "featured": "Kiemelt program",
+    "cairoDay": "Kairó egy nap alatt",
+    "cairoPlaces": "Piramisok · Szfinx · Múzeum",
+    "destination": "Úti cél",
+    "fromHurghada": "Hurghadából"
+  },
+  "home": {
+    "popular": "Népszerű kirándulások",
+    "allTrips": "Összes kirándulás",
+    "title": "A legegyszerűbb módja, hogy Hurghadából felfedezőútra induljon.",
+    "description": "Kezdje a legnépszerűbb lehetőségekkel. A teljes kínálat egyszerű kategóriákba rendezve érhető el."
+  },
+  "language": {
+    "title": "Nyelv",
+    "search": "Nyelvek keresése",
+    "all": "Összes nyelv",
+    "current": "Aktuális nyelv",
+    "close": "Bezárás"
+  },
+  "forms": {
+    "trip": "Kirándulás",
+    "selectTrip": "Válasszon kirándulást",
+    "preferredDate": "Kívánt dátum",
+    "adults": "Felnőttek",
+    "children": "Gyermekek",
+    "hotel": "Szálloda neve",
+    "roomOptional": "Szobaszám — opcionális",
+    "name": "Név",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "country": "Ország",
+    "specialRequest": "Különleges kérés",
+    "message": "Üzenet",
+    "generalEnquiry": "Általános érdeklődés",
+    "sending": "Küldés…",
+    "sendBooking": "Foglalási kérelem küldése",
+    "sendMessage": "Üzenet küldése",
+    "bookingSuccess": "A foglalási kérelem sikeresen elküldve.",
+    "contactSuccess": "Az üzenet sikeresen elküldve.",
+    "sendError": "Most nem küldhető el. Próbálja újra vagy használja a WhatsAppot.",
+    "bookingIntro": "Online fizetés nem szükséges. Küldje el a kívánt adatokat, és a végleges programot közvetlenül a csapattal erősítse meg.",
+    "contactIntro": "Kérdezzen a programról, felvételről, elérhetőségről vagy bármiről foglalás előtt."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Napi érdeklődés",
+    "from": "Ettől",
+    "priceOnRequest": "Ár kérésre",
+    "bookTrip": "Kirándulás foglalása",
+    "viewItinerary": "Útiterv megtekintése",
+    "gallery": "Galéria",
+    "highlights": "Főbb látnivalók",
+    "itinerary": "Útiterv",
+    "included": "Tartalmazza",
+    "notIncluded": "Nem tartalmazza",
+    "whatToBring": "Mit hozzon",
+    "bookNow": "Foglalás",
+    "sendEnquiry": "Érdeklődés küldése",
+    "contact": "Kapcsolat",
+    "galleryTitle": "Ízelítő az élményből",
+    "galleryCopy": "Az előnézeti képek az admin képtárban cserélhetők.",
+    "highlightsTitle": "A nap legfontosabb helyszínei",
+    "itineraryTitle": "A nap lépésről lépésre",
+    "itineraryCopy": "A pontos sorrend működési okokból változhat. A végleges felvételi részleteket és programot a foglalással kapja meg.",
+    "knowBefore": "Tudnivalók foglalás előtt",
+    "includedTitle": "Tartalmazza és nem tartalmazza",
+    "bringTitle": "Néhány alapvető dolog egy kényelmes naphoz",
+    "ready": "Készen állunk, amikor Ön is",
+    "askAbout": "Érdeklődés: {trip}",
+    "bookingCopy": "Adja meg a kívánt dátumot, szállodát és létszámot. Ebben a szakaszban nincs online fizetés.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Utazzon átláthatóan",
+    "title": "Minden fontos információ könnyen megtalálható.",
+    "description": "Az oldal azokra a kérdésekre épül, amelyeket az utazók foglalási kérés előtt általában tisztázni szeretnének.",
+    "pickup": "Szállodai felvétel",
+    "guides": "Profi idegenvezetők",
+    "booking": "Egyszerű foglalás",
+    "direct": "Közvetlen kapcsolat",
+    "clear": "Világos információk"
+  },
+  "how": {
+    "kicker": "Tudatosan egyszerű",
+    "title": "Néhány perc a böngészéstől az érdeklődésig.",
+    "description": "Nincs fiók, bonyolult pénztár vagy online fizetés az első verzióban. Először a kirándulást választhatja ki.",
+    "choose": "Válasszon kirándulást",
+    "date": "Válasszon dátumot",
+    "confirm": "Erősítse meg a részleteket"
+  },
+  "contact": {
+    "kicker": "Kapcsolat és foglalás",
+    "title": "Készen áll a következő hurghadai élmény megtervezésére?",
+    "description": "Küldjön foglalási kérést, lépjen kapcsolatba velünk közvetlenül, vagy kérdezzen WhatsAppon.",
+    "choose": "Kirándulás választása",
+    "whatsapp": "WhatsApp elérhető",
+    "message": "Üzenet küldése"
+  },
+  "trips": {
+    "kicker": "Kirándulások Hurghadából",
+    "title": "Találja meg a megfelelő programot felesleges bonyodalom nélkül.",
+    "description": "Válasszon kategóriát, majd nyissa meg az érdekes programot. A fejlesztői verzió USD árai mintaárak és az admin felületen módosíthatók.",
+    "samplePrice": "Mintaár",
+    "viewTrip": "Program megtekintése",
+    "bookNow": "Foglalás",
+    "empty": "Jelenleg nincs elérhető kirándulás. Kérjük, nézzen vissza később."
+  },
+  "footer": {
+    "trips": "Kirándulások",
+    "information": "Információ",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Feltételek",
+    "fromHurghada": "Hurghadából",
+    "rights": "Minden jog fenntartva.",
+    "fast": "Gyors, mobilbarát kiránduláskereséshez készült.",
+    "redSea": "Vörös-tenger és Egyiptom élmények"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultúra és történelem",
+      "description": "Egynapos kirándulások Kairóba és Luxorba."
+    },
+    "islands": {
+      "label": "Szigetek és sznorkel",
+      "description": "Hajókirándulások, strandok és vörös-tengeri zátonyok."
+    },
+    "diving": {
+      "label": "Búvárkodás és tenger",
+      "description": "Búvárkodás, sznorkel és vízi programok."
+    },
+    "desert": {
+      "label": "Sivatag és kaland",
+      "description": "Quad, szafari és sivatagi élmények."
+    },
+    "family": {
+      "label": "Család és város",
+      "description": "Könnyű programok, városnézés és családi lehetőségek."
+    },
+    "private": {
+      "label": "Privát kirándulások",
+      "description": "Rugalmas privát programok a csoport számára."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Adatvédelmi irányelvek",
+    "privacyIntro": "Csak azokat az adatokat gyűjtjük, amelyeket kérdés vagy foglalási kérés során önként elküld.",
+    "privacyData": "Ide tartozhat név, elérhetőség, ország, szálloda, szobaszám, választott program, dátum, csoportlétszám és üzenet.",
+    "privacyUse": "Az adatokat válaszadásra, a szolgáltatás szervezésére, foglalási kommunikációra és a weboldal biztonságos működtetésére használjuk.",
+    "privacySharing": "Az érdeklődési adatokat nem adjuk el. Csak a szolgáltatáshoz szükséges mértékben vagy jogszabály alapján osztjuk meg.",
+    "privacyRetention": "Az adatokat csak a kérdések, foglalások, működési nyilvántartás és jogi kötelezettségek indokolt idejéig őrizzük.",
+    "privacyRights": "A vonatkozó jogszabályok szerint kérheti személyes adatainak megtekintését, javítását vagy törlését.",
+    "termsTitle": "Feltételek",
+    "termsIntro": "Ez az oldal kirándulási információkat nyújt, és lehetővé teszi érdeklődések és foglalási kérések küldését Hurghadából.",
+    "termsBooking": "Az űrlap elküldése önmagában nem jelent megerősített foglalást. A foglalás a végleges részletek és elérhetőség közvetlen megerősítése után válik véglegessé.",
+    "termsPrices": "Az árak, szolgáltatások, időpontok és opcionális programok változhatnak. A végleges árat elfogadás előtt közöljük.",
+    "termsChanges": "A sorrend, felvételi idők vagy programpontok működési, időjárási, biztonsági vagy szolgáltatói okból módosulhatnak.",
+    "termsGuest": "A vendég felelős a pontos adatokért, a biztonsági utasítások betartásáért és a szükséges dokumentumokért.",
+    "termsContact": "Ha valami nem egyértelmű, megerősítés előtt lépjen kapcsolatba velünk, hogy a végleges programot írásban egyeztethessük."
+  },
+  "reviews": {
+    "kicker": "Vendégértékelések",
+    "title": "Valódi utazói visszajelzések",
+    "tripTitle": "Értékelések erről a kirándulásról",
+    "description": "Itt csak valódi ügyfél-visszajelzésekből származó, a webhely adminisztrátora által közzétett értékelések jelennek meg."
+  },
+  "search": {
+    "label": "Kirándulások keresése",
+    "placeholder": "Keressen kirándulás, program vagy hely szerint",
+    "clear": "Keresés törlése",
+    "noResults": "Nincs a keresésnek megfelelő kirándulás.",
+    "results": "Találatok: {count}"
+  }
+}

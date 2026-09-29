@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Stylized Karnak Temple</title><desc id="desc">Warm sandstone columns inspired by Karnak Temple in Luxor.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5cb9d0"/><stop offset="1" stop-color="#d9edf0"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2c27a"/><stop offset="1" stop-color="#9e5c2f"/></linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <circle cx="1320" cy="165" r="90" fill="#fff0b5" opacity=".95"/>
+  <path d="M0 820 C390 760 770 820 1100 785 C1300 765 1460 790 1600 805 V1000 H0Z" fill="#c58a4b"/>
+  <g fill="url(#stone)">
+    <rect x="110" y="250" width="220" height="650" rx="18"/><rect x="390" y="150" width="255" height="750" rx="18"/><rect x="715" y="195" width="250" height="705" rx="18"/><rect x="1030" y="110" width="260" height="790" rx="18"/><rect x="1350" y="280" width="175" height="620" rx="18"/>
+  </g>
+  <g fill="#bc7a3b"><rect x="85" y="220" width="270" height="70" rx="12"/><rect x="360" y="115" width="315" height="75" rx="12"/><rect x="680" y="160" width="320" height="75" rx="12"/><rect x="995" y="75" width="330" height="80" rx="12"/><rect x="1320" y="245" width="230" height="70" rx="12"/></g>
+  <g stroke="#6e4029" opacity=".27" fill="none" stroke-width="10"><path d="M160 410h120M160 500h120M160 590h120M450 330h130M450 430h130M450 530h130M780 365h125M780 465h125M1085 300h145M1085 410h145M1085 520h145"/></g>
+</svg>

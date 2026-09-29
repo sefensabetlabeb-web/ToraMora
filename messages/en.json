@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "trips": "Trips",
+    "cairo": "Cairo",
+    "luxor": "Luxor",
+    "contact": "Contact",
+    "book": "Book Now",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "badge": "Trips starting from Hurghada",
+    "title1": "Explore Egypt",
+    "title2": "from Hurghada.",
+    "description": "Discover Cairo, Luxor and Red Sea experiences with clear trip details, simple booking requests and direct communication designed for travellers on the go.",
+    "cairo": "Explore Cairo",
+    "luxor": "Explore Luxor",
+    "contact": "Contact Us",
+    "easy": "Easy enquiries",
+    "mobile": "Mobile-first design",
+    "local": "Local trip focus",
+    "featured": "Featured journey",
+    "cairoDay": "Cairo in one day",
+    "cairoPlaces": "Pyramids · Sphinx · Museum",
+    "destination": "Destination",
+    "fromHurghada": "From Hurghada"
+  },
+  "home": {
+    "popular": "Popular trips",
+    "title": "The easiest way to start exploring from Hurghada.",
+    "description": "Start with the most requested options. If you want more, the full trips page is organised into simple categories.",
+    "allTrips": "View all trips"
+  },
+  "trust": {
+    "kicker": "Travel with clarity",
+    "title": "Everything important, easy to find.",
+    "description": "The experience is designed around the questions travellers usually need answered before they send a booking request.",
+    "pickup": "Hotel Pickup",
+    "guides": "Professional Guides",
+    "booking": "Easy Booking",
+    "direct": "Direct Contact",
+    "clear": "Clear Information"
+  },
+  "how": {
+    "kicker": "Simple by design",
+    "title": "From browsing to enquiry in minutes.",
+    "description": "No account, no complicated checkout and no payment step in the first release. Travellers can focus on the trip first.",
+    "choose": "Choose your trip",
+    "date": "Pick your date",
+    "confirm": "Confirm the details"
+  },
+  "contact": {
+    "kicker": "Contact & booking",
+    "title": "Ready to plan your next Hurghada experience?",
+    "description": "Send a booking request, contact us directly, or use WhatsApp for a quick question.",
+    "choose": "Choose a trip",
+    "whatsapp": "WhatsApp available",
+    "message": "Send a message"
+  },
+  "trips": {
+    "kicker": "Trips from Hurghada",
+    "title": "Find your trip without getting lost in choices.",
+    "description": "Choose a simple category, then open the trip that interests you. Prices shown in this development version are sample USD prices and will be editable from the admin dashboard.",
+    "samplePrice": "Sample price",
+    "viewTrip": "View Trip",
+    "bookNow": "Book Now",
+    "empty": "No trips are available right now. Please check again later."
+  },
+  "footer": {
+    "trips": "Trips",
+    "information": "Information",
+    "privacy": "Privacy Policy",
+    "terms": "Terms",
+    "fromHurghada": "From Hurghada",
+    "rights": "All rights reserved.",
+    "fast": "Built for fast, mobile-first trip discovery.",
+    "redSea": "Red Sea & Egypt experiences"
+  },
+  "language": {
+    "title": "Choose language",
+    "search": "Search languages",
+    "all": "All languages",
+    "current": "Current language",
+    "close": "Close"
+  },
+  "forms": {
+    "trip": "Trip",
+    "selectTrip": "Select a trip",
+    "preferredDate": "Preferred Date",
+    "adults": "Adults",
+    "children": "Children",
+    "hotel": "Hotel Name",
+    "roomOptional": "Room Number — Optional",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "country": "Country",
+    "specialRequest": "Special Request",
+    "message": "Message",
+    "generalEnquiry": "General enquiry",
+    "sending": "Sending…",
+    "sendBooking": "Send Booking Request",
+    "sendMessage": "Send Message",
+    "bookingSuccess": "Booking request sent successfully.",
+    "contactSuccess": "Message sent successfully.",
+    "sendError": "Unable to send right now. Please try again or contact us on WhatsApp.",
+    "bookingIntro": "No online payment is required. Send your preferred details and confirm the final program directly with the team.",
+    "contactIntro": "Ask about a trip, pickup, availability or anything you need before booking."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Daily enquiry",
+    "from": "From",
+    "priceOnRequest": "Price on request",
+    "bookTrip": "Book this trip",
+    "viewItinerary": "View itinerary",
+    "gallery": "Trip gallery",
+    "galleryTitle": "A preview of the experience",
+    "galleryCopy": "Preview images can be replaced from the admin image library.",
+    "highlights": "Trip highlights",
+    "highlightsTitle": "The places that shape your day",
+    "itinerary": "Itinerary",
+    "itineraryTitle": "Your day, step by step",
+    "itineraryCopy": "The exact order may change for operational reasons. Final pickup details and the confirmed program are provided with your booking.",
+    "knowBefore": "Know before you book",
+    "includedTitle": "Included and not included",
+    "included": "Included",
+    "notIncluded": "Not included",
+    "whatToBring": "What to bring",
+    "bringTitle": "A few essentials for a comfortable day",
+    "ready": "Ready when you are",
+    "askAbout": "Ask about {trip}",
+    "bookingCopy": "Tell us your preferred date, hotel and number of guests. No online payment is required at this stage.",
+    "sendEnquiry": "Send an enquiry",
+    "bookNow": "Book now",
+    "whatsapp": "WhatsApp",
+    "contact": "Contact"
+  },
+  "categories": {
+    "culture": {
+      "label": "Culture & History",
+      "description": "Cairo and Luxor day trips."
+    },
+    "islands": {
+      "label": "Islands & Snorkeling",
+      "description": "Boat days, beaches and Red Sea reefs."
+    },
+    "diving": {
+      "label": "Diving & Sea",
+      "description": "Diving, snorkeling and water activities."
+    },
+    "desert": {
+      "label": "Desert & Adventure",
+      "description": "Quad, safari and desert experiences."
+    },
+    "family": {
+      "label": "Family & City",
+      "description": "Easy activities, city visits and family options."
+    },
+    "private": {
+      "label": "Private Trips",
+      "description": "Flexible private experiences for your group."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyIntro": "We collect only the information you choose to send when you ask a question or submit a booking request.",
+    "privacyData": "This may include your name, contact details, country, hotel, room number when provided, selected trip, preferred date, group size and your message.",
+    "privacyUse": "We use this information to answer enquiries, arrange requested trip details, communicate about bookings and operate the website securely.",
+    "privacySharing": "We do not sell enquiry data. Information is shared only when reasonably necessary to handle the requested service or when required by law.",
+    "privacyRetention": "Records are kept only for as long as reasonably needed for enquiries, bookings, operational records and applicable legal obligations.",
+    "privacyRights": "You may contact us to ask about, correct or request deletion of personal information we hold, subject to applicable legal requirements.",
+    "termsTitle": "Terms",
+    "termsIntro": "This website provides trip information and a way to send enquiries and booking requests from Hurghada.",
+    "termsBooking": "Submitting a form does not by itself create a confirmed booking. A booking is confirmed only after the final trip details, availability and arrangements are confirmed directly with you.",
+    "termsPrices": "Prices, inclusions, schedules and optional activities may change. The final price and confirmed inclusions are provided before you accept the booking.",
+    "termsChanges": "Trip order, pickup times or parts of an itinerary may change for operational, weather, safety or supplier reasons. Material changes should be communicated when known.",
+    "termsGuest": "Guests are responsible for providing accurate booking information, following safety instructions and carrying any documents required for their selected trip.",
+    "termsContact": "If anything is unclear, contact us before confirming your booking so the final program can be agreed in writing."
+  },
+  "reviews": {
+    "kicker": "Guest reviews",
+    "title": "Real feedback from travellers",
+    "tripTitle": "Reviews for this trip",
+    "description": "Only reviews added from genuine customer feedback and published by the site administrator are shown here."
+  },
+  "search": {
+    "label": "Search trips",
+    "placeholder": "Search by trip, activity or place",
+    "clear": "Clear search",
+    "noResults": "No trips match your search.",
+    "results": "{count} trips found"
+  }
+}

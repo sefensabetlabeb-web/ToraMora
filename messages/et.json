@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Avaleht",
+    "trips": "Ekskursioonid",
+    "contact": "Kontakt",
+    "book": "Broneeri",
+    "language": "Keel",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Ava menüü",
+    "closeMenu": "Sulge menüü"
+  },
+  "hero": {
+    "title1": "Avasta Egiptust",
+    "title2": "Hurghadast.",
+    "badge": "Ekskursioonid Hurghadast",
+    "description": "Avasta Kairo, Luxor ja Punase mere elamused selge reisikirjelduse, lihtsa broneerimispäringu ja otsesuhtlusega.",
+    "cairo": "Avasta Kairo",
+    "luxor": "Avasta Luxor",
+    "contact": "Võta ühendust",
+    "easy": "Lihtsad päringud",
+    "mobile": "Mobiilisõbralik disain",
+    "local": "Kohalikud reisid",
+    "featured": "Soovitatud reis",
+    "cairoDay": "Kairo ühe päevaga",
+    "cairoPlaces": "Püramiidid · Sfinks · Muuseum",
+    "destination": "Sihtkoht",
+    "fromHurghada": "Hurghadast"
+  },
+  "home": {
+    "popular": "Populaarsed ekskursioonid",
+    "allTrips": "Vaata kõiki",
+    "title": "Lihtsaim viis alustada Hurghadast avastamist.",
+    "description": "Alusta kõige populaarsematest valikutest. Rohkem reise leiad kõigi ekskursioonide lehelt, kus need on jaotatud lihtsatesse kategooriatesse."
+  },
+  "language": {
+    "title": "Keel",
+    "search": "Otsi keeli",
+    "all": "Kõik keeled",
+    "current": "Praegune keel",
+    "close": "Sulge"
+  },
+  "forms": {
+    "trip": "Ekskursioon",
+    "selectTrip": "Valige ekskursioon",
+    "preferredDate": "Soovitud kuupäev",
+    "adults": "Täiskasvanud",
+    "children": "Lapsed",
+    "hotel": "Hotelli nimi",
+    "roomOptional": "Toa number — valikuline",
+    "name": "Nimi",
+    "phone": "Telefon",
+    "email": "E-post",
+    "country": "Riik",
+    "specialRequest": "Erisoov",
+    "message": "Sõnum",
+    "generalEnquiry": "Üldine päring",
+    "sending": "Saatmine…",
+    "sendBooking": "Saada broneeringupäring",
+    "sendMessage": "Saada sõnum",
+    "bookingSuccess": "Broneeringupäring saadeti edukalt.",
+    "contactSuccess": "Sõnum saadeti edukalt.",
+    "sendError": "Praegu ei saa saata. Proovige uuesti või kasutage WhatsAppi.",
+    "bookingIntro": "Veebimakset pole vaja. Saada soovitud andmed ja kinnita lõplik programm otse meeskonnaga.",
+    "contactIntro": "Küsi reisi, pealevõtu, saadavuse või muu vajaliku kohta enne broneerimist."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Igapäevane päring",
+    "from": "Alates",
+    "priceOnRequest": "Hind päringu alusel",
+    "bookTrip": "Broneeri ekskursioon",
+    "viewItinerary": "Vaata programmi",
+    "gallery": "Galerii",
+    "highlights": "Tähtsaimad kohad",
+    "itinerary": "Programm",
+    "included": "Sisaldab",
+    "notIncluded": "Ei sisalda",
+    "whatToBring": "Mida kaasa võtta",
+    "bookNow": "Broneeri",
+    "sendEnquiry": "Saada päring",
+    "contact": "Kontakt",
+    "galleryTitle": "Eelvaade elamusest",
+    "galleryCopy": "Eelvaatepilte saab administraatori pildikogus asendada.",
+    "highlightsTitle": "Paigad, mis kujundavad sinu päeva",
+    "itineraryTitle": "Sinu päev samm-sammult",
+    "itineraryCopy": "Täpne järjekord võib korralduslikel põhjustel muutuda. Lõplik pealevõtuaeg ja kinnitatud programm antakse koos broneeringuga.",
+    "knowBefore": "Enne broneerimist",
+    "includedTitle": "Hinna sees ja mitte hinna sees",
+    "bringTitle": "Mõned vajalikud asjad mugavaks päevaks",
+    "ready": "Kui oled valmis",
+    "askAbout": "Küsi reisi {trip} kohta",
+    "bookingCopy": "Anna teada soovitud kuupäev, hotell ja külaliste arv. Selles etapis pole veebimakset vaja.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Reisi selge infoga",
+    "title": "Kõik oluline on lihtsasti leitav.",
+    "description": "Leht vastab küsimustele, mida reisijad tavaliselt enne broneerimispäringu saatmist küsivad.",
+    "pickup": "Hotellist pealevõtt",
+    "guides": "Professionaalsed giidid",
+    "booking": "Lihtne broneerimine",
+    "direct": "Otsesuhtlus",
+    "clear": "Selge teave"
+  },
+  "how": {
+    "kicker": "Teadlikult lihtne",
+    "title": "Sirvimisest päringuni mõne minutiga.",
+    "description": "Esimeses versioonis pole vaja kontot, keerulist ostukorvi ega veebimakset. Vali esmalt sobiv reis.",
+    "choose": "Vali reis",
+    "date": "Vali kuupäev",
+    "confirm": "Kinnita üksikasjad"
+  },
+  "contact": {
+    "kicker": "Kontakt ja broneerimine",
+    "title": "Kas oled valmis planeerima järgmist Hurghada elamust?",
+    "description": "Saada broneerimispäring, võta meiega otse ühendust või küsi kiirelt WhatsAppis.",
+    "choose": "Vali reis",
+    "whatsapp": "WhatsApp saadaval",
+    "message": "Saada sõnum"
+  },
+  "trips": {
+    "kicker": "Ekskursioonid Hurghadast",
+    "title": "Leia sobiv reis ilma valikutesse kadumata.",
+    "description": "Vali lihtne kategooria ja ava huvipakkuv reis. Selle arendusversiooni hinnad on näidishinnad USA dollarites ja neid saab muuta administraatori paneelil.",
+    "samplePrice": "Näidishind",
+    "viewTrip": "Vaata reisi",
+    "bookNow": "Broneeri",
+    "empty": "Praegu pole reise saadaval. Vaata hiljem uuesti."
+  },
+  "footer": {
+    "trips": "Ekskursioonid",
+    "information": "Teave",
+    "privacy": "Privaatsuspoliitika",
+    "terms": "Tingimused",
+    "fromHurghada": "Hurghadast",
+    "rights": "Kõik õigused kaitstud.",
+    "fast": "Loodud kiireks ja mobiilisõbralikuks reiside leidmiseks.",
+    "redSea": "Punase mere ja Egiptuse elamused"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultuur ja ajalugu",
+      "description": "Ühepäevareisid Kairosse ja Luxorisse."
+    },
+    "islands": {
+      "label": "Saared ja snorgeldamine",
+      "description": "Paadipäevad, rannad ja Punase mere rifid."
+    },
+    "diving": {
+      "label": "Sukeldumine ja meri",
+      "description": "Sukeldumine, snorgeldamine ja veealased tegevused."
+    },
+    "desert": {
+      "label": "Kõrb ja seiklus",
+      "description": "ATV-d, safarid ja kõrbeseiklused."
+    },
+    "family": {
+      "label": "Pere ja linn",
+      "description": "Lihtsad tegevused, linnakülastused ja perevalikud."
+    },
+    "private": {
+      "label": "Privaatsed reisid",
+      "description": "Paindlikud privaatsed elamused sinu grupile."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Privaatsuspoliitika",
+    "privacyIntro": "Kogume ainult teavet, mille otsustad ise saata küsimuse või broneerimispäringu esitamisel.",
+    "privacyData": "See võib hõlmata nime, kontaktandmeid, riiki, hotelli, toa numbrit kui see on antud, valitud reisi, soovitud kuupäeva, grupi suurust ja sõnumit.",
+    "privacyUse": "Kasutame neid andmeid päringutele vastamiseks, soovitud reisi korraldamiseks, broneeringute suhtluseks ja veebisaidi turvaliseks käitamiseks.",
+    "privacySharing": "Me ei müü päringuandmeid. Teavet jagatakse ainult siis, kui see on teenuse osutamiseks mõistlikult vajalik või seadusega nõutud.",
+    "privacyRetention": "Andmeid säilitatakse ainult nii kaua, kui see on mõistlikult vajalik päringute, broneeringute, tegevusandmete ja seadusest tulenevate kohustuste jaoks.",
+    "privacyRights": "Võid meiega ühendust võtta, et küsida, parandada või taotleda sinu isikuandmete kustutamist vastavalt kehtivatele nõuetele.",
+    "termsTitle": "Tingimused",
+    "termsIntro": "See veebisait annab teavet reiside kohta ja võimaldab saata Hurghadast päringuid ning broneerimistaotlusi.",
+    "termsBooking": "Vormi saatmine ei tähenda iseenesest kinnitatud broneeringut. Broneering kinnitatakse alles pärast saadavuse, lõplike detailide ja korralduse kokkuleppimist.",
+    "termsPrices": "Hinnad, hinna sees olevad teenused, ajakavad ja lisategevused võivad muutuda. Lõplik hind ja kinnitatud teenused antakse enne broneeringu vastuvõtmist.",
+    "termsChanges": "Reisi järjekord, pealevõtuajad või marsruudi osad võivad muutuda korralduslikel, ilmastiku-, ohutus- või tarnijapõhjustel. Olulistest muudatustest teavitatakse, kui need on teada.",
+    "termsGuest": "Külalised vastutavad korrektsete broneerimisandmete esitamise, ohutusjuhiste järgimise ja vajalike dokumentide kaasavõtmise eest.",
+    "termsContact": "Kui miski pole selge, võta enne kinnitamist ühendust, et lõplik programm saaks kirjalikult kokku lepitud."
+  },
+  "reviews": {
+    "kicker": "Külaliste arvustused",
+    "title": "Reisijate ehtne tagasiside",
+    "tripTitle": "Selle reisi arvustused",
+    "description": "Siin kuvatakse ainult ehtne klientide tagasiside, mille saidi administraator on lisanud ja avaldanud."
+  },
+  "search": {
+    "label": "Otsi ekskursioone",
+    "placeholder": "Otsi ekskursiooni, tegevuse või koha järgi",
+    "clear": "Tühjenda otsing",
+    "noResults": "Ükski ekskursioon ei vasta otsingule.",
+    "results": "Leitud ekskursioone: {count}"
+  }
+}

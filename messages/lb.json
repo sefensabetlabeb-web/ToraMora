@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Startsäit",
+    "trips": "Ausflich",
+    "contact": "Kontakt",
+    "book": "Elo buchen",
+    "language": "Sprooch",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Menü opmaachen",
+    "closeMenu": "Menü zoumaachen"
+  },
+  "hero": {
+    "title1": "Entdeckt Ägypten",
+    "title2": "vun Hurghada aus.",
+    "badge": "Ausflich vun Hurghada",
+    "description": "Entdeckt Kairo, Luxor an d’Rout-Mier-Erfarungen mat kloeren Trip-Detailer, einfache Buchungsufroen an direktem Kontakt.",
+    "cairo": "Kairo entdecken",
+    "luxor": "Luxor entdecken",
+    "contact": "Kontaktéiert eis",
+    "easy": "Einfach Ufroen",
+    "mobile": "Fir Handy optiméiert",
+    "local": "Lokal Ausflich",
+    "featured": "Recommandéiert Rees",
+    "cairoDay": "Kairo an engem Dag",
+    "cairoPlaces": "Pyramiden · Sphinx · Musée",
+    "destination": "Destinatioun",
+    "fromHurghada": "Vun Hurghada"
+  },
+  "home": {
+    "popular": "Beléift Ausflich",
+    "allTrips": "All Ausflich weisen",
+    "title": "Deen einfachste Wee fir vun Hurghada aus ze entdecken.",
+    "description": "Start mat de beléiftsten Optiounen. Méi Ausflich fannt Dir op der kompletter Säit, a klore Kategorien organiséiert."
+  },
+  "language": {
+    "title": "Sprooch",
+    "search": "Sprooche sichen",
+    "all": "All Sproochen",
+    "current": "Aktuell Sprooch",
+    "close": "Zoumaachen"
+  },
+  "forms": {
+    "trip": "Ausfluch",
+    "selectTrip": "Wielt en Ausfluch",
+    "preferredDate": "Gewënschten Datum",
+    "adults": "Erwuessener",
+    "children": "Kanner",
+    "hotel": "Numm vum Hotel",
+    "roomOptional": "Zëmmernummer — optional",
+    "name": "Numm",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "country": "Land",
+    "specialRequest": "Spezial Ufro",
+    "message": "Message",
+    "generalEnquiry": "Allgemeng Ufro",
+    "sending": "Gëtt geschéckt…",
+    "sendBooking": "Buchungsufro schécken",
+    "sendMessage": "Message schécken",
+    "bookingSuccess": "Buchungsufro gouf erfollegräich geschéckt.",
+    "contactSuccess": "Message gouf erfollegräich geschéckt.",
+    "sendError": "Kann elo net geschéckt ginn. Probéiert nach eng Kéier oder benotzt WhatsApp.",
+    "bookingIntro": "Keng Online-Bezuelung ass néideg. Schéckt Är gewënschten Detailer a confirméiert de finale Programm direkt mam Team.",
+    "contactIntro": "Frot no engem Ausfluch, Ofhuelen, Disponibilitéit oder alles wat Dir virum Buchen wësse wëllt."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Deeglech Ufro",
+    "from": "Vun",
+    "priceOnRequest": "Präis op Ufro",
+    "bookTrip": "Dësen Ausfluch buchen",
+    "viewItinerary": "Programm kucken",
+    "gallery": "Galerie",
+    "highlights": "Highlights",
+    "itinerary": "Programm",
+    "included": "Abegraff",
+    "notIncluded": "Net abegraff",
+    "whatToBring": "Wat matbréngen",
+    "bookNow": "Elo buchen",
+    "sendEnquiry": "Ufro schécken",
+    "contact": "Kontakt",
+    "galleryTitle": "En Abléck an d’Erfarung",
+    "galleryCopy": "D’Virschau-Biller kënnen an der Admin-Billerbibliothéik ersat ginn.",
+    "highlightsTitle": "D’Plazen, déi Ären Dag prägen",
+    "itineraryTitle": "Ären Dag, Schrëtt fir Schrëtt",
+    "itineraryCopy": "Déi genee Reiefolleg kann aus operationelle Grënn änneren. Finale Ofhuel-Detailer an de confirméierte Programm kritt Dir mat der Buchung.",
+    "knowBefore": "Virum Buchen ze wëssen",
+    "includedTitle": "Abegraff an net abegraff",
+    "bringTitle": "E puer Wichtegkeete fir e bequemen Dag",
+    "ready": "Wann Dir prett sidd",
+    "askAbout": "No {trip} froen",
+    "bookingCopy": "Nennt Ären gewënschten Datum, Hotel an d’Zuel vun de Gäscht. Op dëser Etapp ass keng Online-Bezuelung néideg.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Mat Kloerheet reesen",
+    "title": "Alles Wichteges ass einfach ze fannen.",
+    "description": "D’Säit ass ronderëm déi Froen opgebaut, déi Reesender normalerweis virun enger Buchungsufro hunn.",
+    "pickup": "Ofhuele beim Hotel",
+    "guides": "Professionell Guiden",
+    "booking": "Einfach Buchung",
+    "direct": "Direkte Kontakt",
+    "clear": "Kloer Informatioun"
+  },
+  "how": {
+    "kicker": "Bewosst einfach",
+    "title": "Vum Kucken bis zur Ufro an e puer Minutten.",
+    "description": "Keen Account, kee komplizéierte Checkout a keng Online-Bezuelung an der éischter Versioun. Wielt fir d’éischt Ären Ausfluch.",
+    "choose": "Wielt Ären Ausfluch",
+    "date": "Wielt den Datum",
+    "confirm": "Detailer confirméieren"
+  },
+  "contact": {
+    "kicker": "Kontakt a Buchung",
+    "title": "Prett fir Är nächst Hurghada-Erfarung ze plangen?",
+    "description": "Schéckt eng Buchungsufro, kontaktéiert eis direkt oder stellt eng séier Fro iwwer WhatsApp.",
+    "choose": "Ausfluch wielen",
+    "whatsapp": "WhatsApp verfügbar",
+    "message": "Noriicht schécken"
+  },
+  "trips": {
+    "kicker": "Ausflich vun Hurghada",
+    "title": "Fannt Ären Ausfluch ouni Iech an den Optiounen ze verléieren.",
+    "description": "Wielt eng einfach Kategorie an da den Ausfluch, deen Iech interesséiert. D’Präisser an dëser Entwécklungsversioun si Beispillpräisser an USD a kënnen am Admin-Beräich geännert ginn.",
+    "samplePrice": "Beispillpräis",
+    "viewTrip": "Ausfluch kucken",
+    "bookNow": "Elo buchen",
+    "empty": "Aktuell si keng Ausflich verfügbar. Kuckt w.e.g. méi spéit nach eng Kéier."
+  },
+  "footer": {
+    "trips": "Ausflich",
+    "information": "Informatioun",
+    "privacy": "Dateschutz",
+    "terms": "Konditiounen",
+    "fromHurghada": "Vun Hurghada",
+    "rights": "All Rechter reservéiert.",
+    "fast": "Fir séier, mobil-frëndlech Ausfluchssich gebaut.",
+    "redSea": "Rout Mier & Ägypten Erfarungen"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultur & Geschicht",
+      "description": "Dagesausflich op Kairo a Luxor."
+    },
+    "islands": {
+      "label": "Inselen & Schnorchelen",
+      "description": "Bootsdeeg, Plagen a Riffer am Roude Mier."
+    },
+    "diving": {
+      "label": "Tauchen & Mier",
+      "description": "Tauchen, Schnorchelen a Waasseraktivitéiten."
+    },
+    "desert": {
+      "label": "Wüst & Abenteuer",
+      "description": "Quads, Safari a Wüstenerfarungen."
+    },
+    "family": {
+      "label": "Famill & Stad",
+      "description": "Einfach Aktivitéiten, Stadvisitten a Familljenoptiounen."
+    },
+    "private": {
+      "label": "Privat Ausflich",
+      "description": "Flexibel privat Erfarunge fir Är Grupp."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Dateschutz",
+    "privacyIntro": "Mir sammelen nëmmen d’Informatioun, déi Dir fräiwëlleg schéckt wann Dir eng Fro oder eng Buchungsufro stellt.",
+    "privacyData": "Dat kann Numm, Kontaktdaten, Land, Hotel, Zëmmernummer wann uginn, gewielten Ausfluch, gewënschten Datum, Gruppengréisst an Är Noriicht enthalen.",
+    "privacyUse": "Mir benotzen dës Informatioun fir Ufroen ze beäntweren, den ugefroten Ausfluch ze organiséieren, iwwer Buchungen ze kommunizéieren an d’Websäit sécher ze bedreiwen.",
+    "privacySharing": "Mir verkafen keng Ufro-Daten. Informatioun gëtt nëmme gedeelt wann dat fir de gefrote Service raisonnabel néideg ass oder vum Gesetz verlaangt gëtt.",
+    "privacyRetention": "Donnéeë ginn nëmme sou laang gespäichert wéi raisonnabel néideg fir Ufroen, Buchungen, operationell Opzeechnungen a gesetzlech Flichten.",
+    "privacyRights": "Dir kënnt eis kontaktéieren fir Informatioun iwwer Är perséinlech Donnéeën ze kréien, se ze korrigéieren oder hir Läschung ze froen, am Kader vum uwendbare Recht.",
+    "termsTitle": "Konditiounen",
+    "termsIntro": "Dës Websäit bitt Informatioun iwwer Ausflich an eng Méiglechkeet fir Ufroen a Buchungsufroe vun Hurghada ze schécken.",
+    "termsBooking": "D’Schécke vun engem Formulaire bedeit net automatesch eng confirméiert Buchung. Eng Buchung ass eréischt confirméiert nodeems Disponibilitéit, Detailer an Organisatioun ofgeschwat goufen.",
+    "termsPrices": "Präisser, abegraff Leeschtungen, Zäiten an optional Aktivitéite kënnen änneren. De finale Präis an déi confirméiert Leeschtunge ginn Iech virun der Akzeptanz vun der Buchung matgedeelt.",
+    "termsChanges": "D’Reiefolleg vum Ausfluch, Ofhuelzäiten oder Deeler vum Programm kënnen aus operationellen, Wieder-, Sécherheets- oder Fournisseursgrënn änneren. Wichteg Ännerunge ginn matgedeelt soubal se bekannt sinn.",
+    "termsGuest": "Gäscht si verantwortlech fir korrekt Buchungsinformatioun, d’Befollege vu Sécherheetsinstruktiounen an déi néideg Dokumenter.",
+    "termsContact": "Wann eppes net kloer ass, kontaktéiert eis virum Confirméieren, fir datt de finale Programm schrëftlech ofgeschwat ka ginn."
+  },
+  "reviews": {
+    "kicker": "Bewäertunge vun de Gäscht",
+    "title": "Echt Feedback vu Reesender",
+    "tripTitle": "Bewäertunge fir dësen Ausfluch",
+    "description": "Hei ginn nëmme richteg Cliente-Bewäertungen ugewisen, déi vum Site-Administrator derbäigesat a publizéiert goufen."
+  },
+  "search": {
+    "label": "Ausflich sichen",
+    "placeholder": "No Ausfluch, Aktivitéit oder Plaz sichen",
+    "clear": "Sich läschen",
+    "noResults": "Keng Ausflich passen op Är Sich.",
+    "results": "{count} Ausflich fonnt"
+  }
+}

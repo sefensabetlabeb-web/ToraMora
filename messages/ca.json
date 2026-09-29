@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Inici",
+    "trips": "Excursions",
+    "contact": "Contacte",
+    "book": "Reserva ara",
+    "language": "Idioma",
+    "cairo": "El Caire",
+    "luxor": "Luxor",
+    "openMenu": "Obre el menú",
+    "closeMenu": "Tanca el menú"
+  },
+  "hero": {
+    "title1": "Descobreix Egipte",
+    "title2": "des d’Hurghada.",
+    "badge": "Excursions des de Hurghada",
+    "description": "Descobreix el Caire, Luxor i experiències al mar Roig amb informació clara, sol·licituds de reserva senzilles i comunicació directa pensada per a viatgers.",
+    "cairo": "Explora el Caire",
+    "luxor": "Explora Luxor",
+    "contact": "Contacta amb nosaltres",
+    "easy": "Consultes fàcils",
+    "mobile": "Disseny per a mòbil",
+    "local": "Enfocament local",
+    "featured": "Viatge destacat",
+    "cairoDay": "El Caire en un dia",
+    "cairoPlaces": "Piràmides · Esfinx · Museu",
+    "destination": "Destinació",
+    "fromHurghada": "Des de Hurghada"
+  },
+  "home": {
+    "popular": "Excursions populars",
+    "allTrips": "Veure totes les excursions",
+    "title": "La manera més fàcil de començar a explorar des de Hurghada.",
+    "description": "Comença amb les opcions més sol·licitades. Si en vols més, la pàgina de totes les excursions està organitzada en categories senzilles."
+  },
+  "language": {
+    "title": "Idioma",
+    "search": "Cerca idiomes",
+    "all": "Tots els idiomes",
+    "current": "Idioma actual",
+    "close": "Tanca"
+  },
+  "forms": {
+    "trip": "Excursió",
+    "selectTrip": "Tria una excursió",
+    "preferredDate": "Data preferida",
+    "adults": "Adults",
+    "children": "Infants",
+    "hotel": "Nom de l’hotel",
+    "roomOptional": "Número d’habitació — opcional",
+    "name": "Nom",
+    "phone": "Telèfon",
+    "email": "Correu electrònic",
+    "country": "País",
+    "specialRequest": "Petició especial",
+    "message": "Missatge",
+    "generalEnquiry": "Consulta general",
+    "sending": "Enviant…",
+    "sendBooking": "Envia la sol·licitud de reserva",
+    "sendMessage": "Envia el missatge",
+    "bookingSuccess": "Sol·licitud de reserva enviada correctament.",
+    "contactSuccess": "Missatge enviat correctament.",
+    "sendError": "Ara no es pot enviar. Torna-ho a provar o utilitza WhatsApp.",
+    "bookingIntro": "No cal pagament en línia. Envia les teves preferències i confirma el programa final directament amb l’equip.",
+    "contactIntro": "Pregunta sobre una excursió, recollida, disponibilitat o qualsevol dubte abans de reservar."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Consulta diària",
+    "from": "Des de",
+    "priceOnRequest": "Preu a consultar",
+    "bookTrip": "Reserva aquesta excursió",
+    "viewItinerary": "Veure itinerari",
+    "gallery": "Galeria",
+    "highlights": "Destacats",
+    "itinerary": "Itinerari",
+    "included": "Inclòs",
+    "notIncluded": "No inclòs",
+    "whatToBring": "Què cal portar",
+    "bookNow": "Reserva ara",
+    "sendEnquiry": "Envia consulta",
+    "contact": "Contacte",
+    "galleryTitle": "Un avanç de l’experiència",
+    "galleryCopy": "Les imatges de mostra es poden substituir des de la biblioteca d’imatges de l’administració.",
+    "highlightsTitle": "Els llocs que donen forma al teu dia",
+    "itineraryTitle": "El teu dia, pas a pas",
+    "itineraryCopy": "L’ordre exacte pot canviar per motius operatius. Els detalls finals de recollida i el programa confirmat s’envien amb la reserva.",
+    "knowBefore": "Abans de reservar",
+    "includedTitle": "Inclòs i no inclòs",
+    "bringTitle": "Alguns imprescindibles per a un dia còmode",
+    "ready": "Quan vulguis",
+    "askAbout": "Pregunta per {trip}",
+    "bookingCopy": "Indica la data preferida, l’hotel i el nombre de persones. En aquesta etapa no cal pagament en línia.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Viatja amb claredat",
+    "title": "Tot el que importa, fàcil de trobar.",
+    "description": "L’experiència està pensada al voltant de les preguntes que els viatgers solen fer abans d’enviar una reserva.",
+    "pickup": "Recollida a l’hotel",
+    "guides": "Guies professionals",
+    "booking": "Reserva fàcil",
+    "direct": "Contacte directe",
+    "clear": "Informació clara"
+  },
+  "how": {
+    "kicker": "Simple per disseny",
+    "title": "De mirar a consultar en minuts.",
+    "description": "Sense compte, sense pagament complicat i sense pas de pagament a la primera versió. Primer centra’t en l’excursió.",
+    "choose": "Tria la teva excursió",
+    "date": "Tria la data",
+    "confirm": "Confirma els detalls"
+  },
+  "contact": {
+    "kicker": "Contacte i reserves",
+    "title": "Preparat per planificar la teva pròxima experiència a Hurghada?",
+    "description": "Envia una sol·licitud de reserva, contacta directament o fes una pregunta ràpida per WhatsApp.",
+    "choose": "Tria una excursió",
+    "whatsapp": "WhatsApp disponible",
+    "message": "Envia un missatge"
+  },
+  "trips": {
+    "kicker": "Excursions des de Hurghada",
+    "title": "Troba la teva excursió sense perdre’t entre opcions.",
+    "description": "Tria una categoria i obre l’excursió que t’interessa. Els preus d’aquesta versió de desenvolupament són preus de mostra en USD i es poden editar des del panell d’administració.",
+    "samplePrice": "Preu de mostra",
+    "viewTrip": "Veure excursió",
+    "bookNow": "Reserva ara",
+    "empty": "Ara mateix no hi ha excursions disponibles. Torna-ho a provar més tard."
+  },
+  "footer": {
+    "trips": "Excursions",
+    "information": "Informació",
+    "privacy": "Política de privacitat",
+    "terms": "Condicions",
+    "fromHurghada": "Des de Hurghada",
+    "rights": "Tots els drets reservats.",
+    "fast": "Creat per descobrir excursions ràpidament des del mòbil.",
+    "redSea": "Experiències al mar Roig i Egipte"
+  },
+  "categories": {
+    "culture": {
+      "label": "Cultura i història",
+      "description": "Excursions d’un dia al Caire i Luxor."
+    },
+    "islands": {
+      "label": "Illes i snorkel",
+      "description": "Dies en vaixell, platges i esculls del mar Roig."
+    },
+    "diving": {
+      "label": "Busseig i mar",
+      "description": "Busseig, snorkel i activitats aquàtiques."
+    },
+    "desert": {
+      "label": "Desert i aventura",
+      "description": "Quads, safaris i experiències al desert."
+    },
+    "family": {
+      "label": "Família i ciutat",
+      "description": "Activitats suaus, visites urbanes i opcions familiars."
+    },
+    "private": {
+      "label": "Excursions privades",
+      "description": "Experiències privades flexibles per al teu grup."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Política de privacitat",
+    "privacyIntro": "Només recollim la informació que decideixes enviar quan fas una pregunta o una sol·licitud de reserva.",
+    "privacyData": "Pot incloure nom, dades de contacte, país, hotel, número d’habitació si l’indiques, excursió triada, data preferida, mida del grup i missatge.",
+    "privacyUse": "Utilitzem aquesta informació per respondre consultes, organitzar els detalls sol·licitats, comunicar-nos sobre reserves i operar el web de manera segura.",
+    "privacySharing": "No venem dades de consultes. Només es comparteixen quan és raonablement necessari per gestionar el servei sol·licitat o quan ho exigeix la llei.",
+    "privacyRetention": "Les dades es conserven només el temps raonablement necessari per a consultes, reserves, registres operatius i obligacions legals aplicables.",
+    "privacyRights": "Pots contactar-nos per consultar, corregir o demanar l’eliminació de les dades personals que tinguem, subjecte a la normativa aplicable.",
+    "termsTitle": "Condicions",
+    "termsIntro": "Aquest web ofereix informació d’excursions i una manera d’enviar consultes i sol·licituds de reserva des de Hurghada.",
+    "termsBooking": "Enviar un formulari no crea per si sol una reserva confirmada. La reserva només queda confirmada després d’acordar disponibilitat, detalls i organització.",
+    "termsPrices": "Els preus, serveis inclosos, horaris i activitats opcionals poden canviar. El preu final i els serveis confirmats es comuniquen abans que acceptis la reserva.",
+    "termsChanges": "L’ordre de l’excursió, els horaris de recollida o parts de l’itinerari poden canviar per motius operatius, meteorològics, de seguretat o de proveïdor. Els canvis importants es comunicaran quan es coneguin.",
+    "termsGuest": "Els clients són responsables de facilitar dades correctes, seguir les instruccions de seguretat i portar els documents necessaris per a l’excursió escollida.",
+    "termsContact": "Si alguna cosa no és clara, contacta amb nosaltres abans de confirmar perquè el programa final pugui quedar acordat per escrit."
+  },
+  "reviews": {
+    "kicker": "Opinions dels clients",
+    "title": "Comentaris reals de viatgers",
+    "tripTitle": "Opinions sobre aquesta excursió",
+    "description": "Aquí només es mostren opinions reals de clients afegides i publicades per l’administrador del lloc."
+  },
+  "search": {
+    "label": "Cerca excursions",
+    "placeholder": "Cerca per excursió, activitat o lloc",
+    "clear": "Neteja la cerca",
+    "noResults": "No hi ha excursions que coincideixin amb la cerca.",
+    "results": "S’han trobat {count} excursions"
+  }
+}

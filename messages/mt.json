@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Bidu",
+    "trips": "Vjaġġi",
+    "contact": "Kuntatt",
+    "book": "Ibbukkja issa",
+    "language": "Lingwa",
+    "cairo": "Il-Kajr",
+    "luxor": "Luxor",
+    "openMenu": "Iftaħ il-menu",
+    "closeMenu": "Agħlaq il-menu"
+  },
+  "hero": {
+    "title1": "Skopri l-Eġittu",
+    "title2": "minn Hurghada.",
+    "badge": "Vjaġġi minn Hurghada",
+    "description": "Skopri l-Kajr, Luxor u esperjenzi tal-Baħar l-Aħmar b’dettalji ċari, talbiet ta’ prenotazzjoni sempliċi u komunikazzjoni diretta għall-vjaġġaturi.",
+    "cairo": "Skopri l-Kajr",
+    "luxor": "Skopri Luxor",
+    "contact": "Ikkuntattjana",
+    "easy": "Mistoqsijiet faċli",
+    "mobile": "Disinn għall-mowbajl",
+    "local": "Vjaġġi lokali",
+    "featured": "Vjaġġ rakkomandat",
+    "cairoDay": "Il-Kajr f’ġurnata waħda",
+    "cairoPlaces": "Piramidi · Sphinx · Mużew",
+    "destination": "Destinazzjoni",
+    "fromHurghada": "Minn Hurghada"
+  },
+  "home": {
+    "popular": "Vjaġġi popolari",
+    "allTrips": "Ara l-vjaġġi kollha",
+    "title": "L-eħfef mod biex tibda tesplora minn Hurghada.",
+    "description": "Ibda bl-aktar għażliet mitluba. Jekk trid aktar, il-paġna tal-vjaġġi kollha hija organizzata f’kategoriji sempliċi."
+  },
+  "language": {
+    "title": "Lingwa",
+    "search": "Fittex lingwi",
+    "all": "Il-lingwi kollha",
+    "current": "Lingwa attwali",
+    "close": "Agħlaq"
+  },
+  "forms": {
+    "trip": "Vjaġġ",
+    "selectTrip": "Agħżel vjaġġ",
+    "preferredDate": "Data preferuta",
+    "adults": "Adulti",
+    "children": "Tfal",
+    "hotel": "Isem il-lukanda",
+    "roomOptional": "Numru tal-kamra — fakultattiv",
+    "name": "Isem",
+    "phone": "Telefon",
+    "email": "Email",
+    "country": "Pajjiż",
+    "specialRequest": "Talba speċjali",
+    "message": "Messaġġ",
+    "generalEnquiry": "Mistoqsija ġenerali",
+    "sending": "Qed jintbagħat…",
+    "sendBooking": "Ibgħat talba għall-booking",
+    "sendMessage": "Ibgħat messaġġ",
+    "bookingSuccess": "It-talba għall-booking intbagħtet b’suċċess.",
+    "contactSuccess": "Il-messaġġ intbagħat b’suċċess.",
+    "sendError": "Ma jistax jintbagħat issa. Erġa’ pprova jew uża WhatsApp.",
+    "bookingIntro": "M’hemmx bżonn ta’ ħlas online. Ibgħat id-dettalji preferuti tiegħek u kkonferma l-programm finali direttament mat-tim.",
+    "contactIntro": "Staqsi dwar vjaġġ, ġbir, disponibbiltà jew kull ħaġa li għandek bżonn qabel tibbukkja."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Mistoqsija ta’ kuljum",
+    "from": "Minn",
+    "priceOnRequest": "Prezz fuq talba",
+    "bookTrip": "Ibbukkja dan il-vjaġġ",
+    "viewItinerary": "Ara l-programm",
+    "gallery": "Gallerija",
+    "highlights": "Punti ewlenin",
+    "itinerary": "Programm",
+    "included": "Inkluż",
+    "notIncluded": "Mhux inkluż",
+    "whatToBring": "X’għandek iġġib",
+    "bookNow": "Ibbukkja issa",
+    "sendEnquiry": "Ibgħat mistoqsija",
+    "contact": "Kuntatt",
+    "galleryTitle": "Ħarsa minn qabel lejn l-esperjenza",
+    "galleryCopy": "L-immaġini ta’ preview jistgħu jinbidlu mil-librerija tal-immaġini tal-admin.",
+    "highlightsTitle": "Il-postijiet li jagħtu forma lill-ġurnata tiegħek",
+    "itineraryTitle": "Il-ġurnata tiegħek, pass pass",
+    "itineraryCopy": "L-ordni eżatta tista’ tinbidel għal raġunijiet operattivi. Id-dettalji finali tal-ġbir u l-programm ikkonfermat jingħataw mal-prenotazzjoni tiegħek.",
+    "knowBefore": "X’għandek tkun taf qabel tibbukkja",
+    "includedTitle": "Inkluż u mhux inkluż",
+    "bringTitle": "Ftit affarijiet essenzjali għal ġurnata komda",
+    "ready": "Meta tkun lest",
+    "askAbout": "Staqsi dwar {trip}",
+    "bookingCopy": "Għidilna d-data preferuta, il-lukanda u n-numru ta’ mistednin. F’dan l-istadju m’hemmx bżonn ta’ ħlas online.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Ivvjaġġa b’ċarezza",
+    "title": "Dak kollu importanti, faċli biex issibu.",
+    "description": "L-esperjenza hija mfassla madwar il-mistoqsijiet li l-vjaġġaturi normalment ikollhom qabel jibagħtu talba ta’ prenotazzjoni.",
+    "pickup": "Ġbir mill-lukanda",
+    "guides": "Gwidi professjonali",
+    "booking": "Prenotazzjoni faċli",
+    "direct": "Kuntatt dirett",
+    "clear": "Informazzjoni ċara"
+  },
+  "how": {
+    "kicker": "Sempliċi bid-disinn",
+    "title": "Mill-ibbrawżjar sal-mistoqsija fi ftit minuti.",
+    "description": "L-ebda kont, l-ebda checkout ikkumplikat u l-ebda ħlas online fl-ewwel verżjoni. Iffoka fuq il-vjaġġ l-ewwel.",
+    "choose": "Agħżel il-vjaġġ tiegħek",
+    "date": "Agħżel id-data",
+    "confirm": "Ikkonferma d-dettalji"
+  },
+  "contact": {
+    "kicker": "Kuntatt u prenotazzjoni",
+    "title": "Lest biex tippjana l-esperjenza li jmiss tiegħek f’Hurghada?",
+    "description": "Ibgħat talba ta’ prenotazzjoni, ikkuntattjana direttament jew staqsi mistoqsija malajr fuq WhatsApp.",
+    "choose": "Agħżel vjaġġ",
+    "whatsapp": "WhatsApp disponibbli",
+    "message": "Ibgħat messaġġ"
+  },
+  "trips": {
+    "kicker": "Vjaġġi minn Hurghada",
+    "title": "Sib il-vjaġġ tiegħek mingħajr ma tintilef fl-għażliet.",
+    "description": "Agħżel kategorija sempliċi u iftaħ il-vjaġġ li jinteressak. Il-prezzijiet f’din il-verżjoni ta’ żvilupp huma prezzijiet ta’ prova f’USD u jistgħu jinbidlu mill-dashboard tal-admin.",
+    "samplePrice": "Prezz ta’ prova",
+    "viewTrip": "Ara l-vjaġġ",
+    "bookNow": "Ibbukkja issa",
+    "empty": "Bħalissa m’hemmx vjaġġi disponibbli. Iċċekkja aktar tard."
+  },
+  "footer": {
+    "trips": "Vjaġġi",
+    "information": "Informazzjoni",
+    "privacy": "Politika tal-privatezza",
+    "terms": "Termini",
+    "fromHurghada": "Minn Hurghada",
+    "rights": "Id-drittijiet kollha riżervati.",
+    "fast": "Mibni għal skoperta mgħaġġla ta’ vjaġġi fuq il-mowbajl.",
+    "redSea": "Esperjenzi tal-Baħar l-Aħmar u l-Eġittu"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura u storja",
+      "description": "Vjaġġi ta’ ġurnata lejn il-Kajr u Luxor."
+    },
+    "islands": {
+      "label": "Gżejjer u snorkeling",
+      "description": "Jiem bid-dgħajsa, bajjiet u sikek tal-Baħar l-Aħmar."
+    },
+    "diving": {
+      "label": "Għadis u baħar",
+      "description": "Għadis, snorkeling u attivitajiet tal-ilma."
+    },
+    "desert": {
+      "label": "Deżert u avventura",
+      "description": "Quad bikes, safari u esperjenzi fid-deżert."
+    },
+    "family": {
+      "label": "Familja u belt",
+      "description": "Attivitajiet faċli, żjarat fil-belt u għażliet għall-familja."
+    },
+    "private": {
+      "label": "Vjaġġi privati",
+      "description": "Esperjenzi privati flessibbli għall-grupp tiegħek."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Politika tal-privatezza",
+    "privacyIntro": "Aħna niġbru biss l-informazzjoni li tagħżel li tibgħat meta tistaqsi mistoqsija jew tibgħat talba ta’ prenotazzjoni.",
+    "privacyData": "Dan jista’ jinkludi ismek, dettalji ta’ kuntatt, pajjiż, lukanda, numru tal-kamra jekk jingħata, il-vjaġġ magħżul, data preferuta, daqs tal-grupp u l-messaġġ tiegħek.",
+    "privacyUse": "Nużaw din l-informazzjoni biex inwieġbu mistoqsijiet, norganizzaw id-dettalji tal-vjaġġ, nikkomunikaw dwar prenotazzjonijiet u nħaddmu s-sit b’mod sigur.",
+    "privacySharing": "Ma nbigħux data ta’ mistoqsijiet. L-informazzjoni tinqasam biss meta tkun raġonevolment meħtieġa biex jingħata s-servizz jew meta tkun meħtieġa bil-liġi.",
+    "privacyRetention": "Ir-rekords jinżammu biss kemm ikun raġonevolment meħtieġ għal mistoqsijiet, prenotazzjonijiet, rekords operattivi u obbligi legali applikabbli.",
+    "privacyRights": "Tista’ tikkuntattjana biex tistaqsi dwar, tikkoreġi jew titlob it-tħassir ta’ informazzjoni personali li għandna, skont ir-rekwiżiti legali applikabbli.",
+    "termsTitle": "Termini",
+    "termsIntro": "Dan is-sit jipprovdi informazzjoni dwar vjaġġi u mod kif tibgħat mistoqsijiet u talbiet ta’ prenotazzjoni minn Hurghada.",
+    "termsBooking": "Li tibgħat formola ma joħloqx waħdu prenotazzjoni kkonfermata. Prenotazzjoni tiġi kkonfermata biss wara li d-disponibbiltà, id-dettalji finali u l-arranġamenti jiġu kkonfermati miegħek.",
+    "termsPrices": "Il-prezzijiet, dak inkluż, l-iskedi u l-attivitajiet fakultattivi jistgħu jinbidlu. Il-prezz finali u dak ikkonfermat bħala inkluż jingħataw qabel taċċetta l-prenotazzjoni.",
+    "termsChanges": "L-ordni tal-vjaġġ, il-ħinijiet tal-ġbir jew partijiet mill-itinerarju jistgħu jinbidlu għal raġunijiet operattivi, tat-temp, tas-sigurtà jew tal-fornitur. Bidliet importanti għandhom jiġu kkomunikati meta jkunu magħrufa.",
+    "termsGuest": "Il-mistednin huma responsabbli biex jipprovdu informazzjoni korretta tal-prenotazzjoni, isegwu l-istruzzjonijiet tas-sigurtà u jġorru d-dokumenti meħtieġa għall-vjaġġ magħżul.",
+    "termsContact": "Jekk xi ħaġa mhix ċara, ikkuntattjana qabel tikkonferma sabiex il-programm finali jkun jista’ jiġi miftiehem bil-miktub."
+  },
+  "reviews": {
+    "kicker": "Reviżjonijiet tal-mistednin",
+    "title": "Feedback reali minn vjaġġaturi",
+    "tripTitle": "Reviżjonijiet għal dan il-vjaġġ",
+    "description": "Hawn jintwerew biss reviżjonijiet reali ta’ klijenti, miżjuda u ppubblikati mill-amministratur tas-sit."
+  },
+  "search": {
+    "label": "Fittex eskursjonijiet",
+    "placeholder": "Fittex skont eskursjoni, attività jew post",
+    "clear": "Ħassar it-tfittxija",
+    "noResults": "L-ebda eskursjoni ma taqbel mat-tfittxija.",
+    "results": "Instabu {count} eskursjonijiet"
+  }
+}

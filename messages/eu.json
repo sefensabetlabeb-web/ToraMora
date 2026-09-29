@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Hasiera",
+    "trips": "Txangoak",
+    "contact": "Kontaktua",
+    "book": "Erreserbatu",
+    "language": "Hizkuntza",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Ireki menua",
+    "closeMenu": "Itxi menua"
+  },
+  "hero": {
+    "title1": "Ezagutu Egipto",
+    "title2": "Hurghadatik.",
+    "badge": "Hurghadatik abiatzen diren txangoak",
+    "description": "Ezagutu Kairo, Luxor eta Itsaso Gorriko esperientziak informazio argiarekin, erreserba-eskaera errazekin eta bidaiarientzako zuzeneko harremanarekin.",
+    "cairo": "Ezagutu Kairo",
+    "luxor": "Ezagutu Luxor",
+    "contact": "Jarri gurekin harremanetan",
+    "easy": "Kontsulta errazak",
+    "mobile": "Mugikorretarako diseinua",
+    "local": "Tokiko txangoak",
+    "featured": "Nabarmendutako bidaia",
+    "cairoDay": "Kairo egun batean",
+    "cairoPlaces": "Piramideak · Esfingea · Museoa",
+    "destination": "Helmuga",
+    "fromHurghada": "Hurghadatik"
+  },
+  "home": {
+    "popular": "Txango ezagunak",
+    "allTrips": "Ikusi txango guztiak",
+    "title": "Hurghadatik esploratzen hasteko modurik errazena.",
+    "description": "Hasi gehien eskatzen diren aukerekin. Gehiago nahi baduzu, txango guztien orria kategoria errazetan antolatuta dago."
+  },
+  "language": {
+    "title": "Hizkuntza",
+    "search": "Bilatu hizkuntzak",
+    "all": "Hizkuntza guztiak",
+    "current": "Uneko hizkuntza",
+    "close": "Itxi"
+  },
+  "forms": {
+    "trip": "Txangoa",
+    "selectTrip": "Aukeratu txangoa",
+    "preferredDate": "Nahi den data",
+    "adults": "Helduak",
+    "children": "Haurrak",
+    "hotel": "Hotelaren izena",
+    "roomOptional": "Gela zenbakia — aukerakoa",
+    "name": "Izena",
+    "phone": "Telefonoa",
+    "email": "E-posta",
+    "country": "Herrialdea",
+    "specialRequest": "Eskaera berezia",
+    "message": "Mezua",
+    "generalEnquiry": "Kontsulta orokorra",
+    "sending": "Bidaltzen…",
+    "sendBooking": "Bidali erreserba eskaera",
+    "sendMessage": "Bidali mezua",
+    "bookingSuccess": "Erreserba eskaera ondo bidali da.",
+    "contactSuccess": "Mezua ondo bidali da.",
+    "sendError": "Ezin da orain bidali. Saiatu berriro edo erabili WhatsApp.",
+    "bookingIntro": "Ez da online ordainketarik behar. Bidali nahi dituzun xehetasunak eta berretsi azken programa zuzenean taldearekin.",
+    "contactIntro": "Galdetu txangoari, bilketari, erabilgarritasunari edo erreserbatu aurretik behar duzunari buruz."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Eguneroko kontsulta",
+    "from": "-tik",
+    "priceOnRequest": "Prezioa eskaeraren arabera",
+    "bookTrip": "Erreserbatu txangoa",
+    "viewItinerary": "Ikusi ibilbidea",
+    "gallery": "Galeria",
+    "highlights": "Nabarmenenak",
+    "itinerary": "Ibilbidea",
+    "included": "Barne",
+    "notIncluded": "Ez dago barne",
+    "whatToBring": "Zer eraman",
+    "bookNow": "Erreserbatu",
+    "sendEnquiry": "Bidali kontsulta",
+    "contact": "Kontaktua",
+    "galleryTitle": "Esperientziaren aurrerapena",
+    "galleryCopy": "Aurrebista-irudiak administrazioko irudi-liburutegitik ordezka daitezke.",
+    "highlightsTitle": "Zure eguna osatzen duten lekuak",
+    "itineraryTitle": "Zure eguna, pausoz pauso",
+    "itineraryCopy": "Ordena zehatza arrazoi operatiboengatik alda daiteke. Azken bilketa-datuak eta programa baieztatua erreserbarekin ematen dira.",
+    "knowBefore": "Erreserbatu aurretik jakitekoa",
+    "includedTitle": "Barne dagoena eta ez dagoena",
+    "bringTitle": "Egun eroso baterako oinarrizko gauzak",
+    "ready": "Prest zaudenean",
+    "askAbout": "Galdetu {trip}i buruz",
+    "bookingCopy": "Esan nahi duzun data, hotela eta gonbidatu kopurua. Une honetan ez da online ordainketarik behar.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Bidaiatu argitasunez",
+    "title": "Garrantzitsuena, erraz aurkitzeko.",
+    "description": "Esperientzia bidaiariek erreserba-eskaera egin aurretik izaten dituzten galderen inguruan diseinatuta dago.",
+    "pickup": "Hoteleko bilketa",
+    "guides": "Gida profesionalak",
+    "booking": "Erreserba erraza",
+    "direct": "Zuzeneko kontaktua",
+    "clear": "Informazio argia"
+  },
+  "how": {
+    "kicker": "Sinplea diseinuz",
+    "title": "Begiratzetik kontsultara, minutu gutxitan.",
+    "description": "Konturik gabe, ordainketa-prozesu konplexurik gabe eta lehen bertsioan online ordainketarik gabe. Lehenik txangoa aukeratu.",
+    "choose": "Aukeratu txangoa",
+    "date": "Aukeratu data",
+    "confirm": "Berretsi xehetasunak"
+  },
+  "contact": {
+    "kicker": "Kontaktua eta erreserbak",
+    "title": "Prest Hurghadako hurrengo esperientzia planifikatzeko?",
+    "description": "Bidali erreserba-eskaera, jarri gurekin zuzenean harremanetan edo egin galdera azkar bat WhatsApp bidez.",
+    "choose": "Aukeratu txangoa",
+    "whatsapp": "WhatsApp erabilgarri",
+    "message": "Bidali mezua"
+  },
+  "trips": {
+    "kicker": "Hurghadatik txangoak",
+    "title": "Aurkitu zure txangoa aukeren artean galdu gabe.",
+    "description": "Aukeratu kategoria bat eta ireki interesatzen zaizun txangoa. Garapen-bertsio honetako prezioak USDko adibide-prezioak dira eta administrazio-paneletik editatu daitezke.",
+    "samplePrice": "Adibide-prezioa",
+    "viewTrip": "Ikusi txangoa",
+    "bookNow": "Erreserbatu",
+    "empty": "Une honetan ez dago txangorik erabilgarri. Saiatu berriro geroago."
+  },
+  "footer": {
+    "trips": "Txangoak",
+    "information": "Informazioa",
+    "privacy": "Pribatutasun politika",
+    "terms": "Baldintzak",
+    "fromHurghada": "Hurghadatik",
+    "rights": "Eskubide guztiak erreserbatuta.",
+    "fast": "Mugikorretik txangoak azkar aurkitzeko sortua.",
+    "redSea": "Itsaso Gorriko eta Egiptoko esperientziak"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura eta historia",
+      "description": "Kairo eta Luxorrerako egun bateko txangoak."
+    },
+    "islands": {
+      "label": "Uharteak eta snorkela",
+      "description": "Itsasontzi-egunak, hondartzak eta Itsaso Gorriko arrezifeak."
+    },
+    "diving": {
+      "label": "Urpekaritza eta itsasoa",
+      "description": "Urpekaritza, snorkela eta ur-jarduerak."
+    },
+    "desert": {
+      "label": "Basamortua eta abentura",
+      "description": "Quad-ak, safariak eta basamortuko esperientziak."
+    },
+    "family": {
+      "label": "Familia eta hiria",
+      "description": "Jarduera errazak, hiriko bisitak eta familientzako aukerak."
+    },
+    "private": {
+      "label": "Txango pribatuak",
+      "description": "Zure taldearentzako esperientzia pribatu malguak."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Pribatutasun politika",
+    "privacyIntro": "Galdera edo erreserba-eskaera bat bidaltzean zuk ematea aukeratzen duzun informazioa soilik biltzen dugu.",
+    "privacyData": "Izen-abizenak, kontaktu-datuak, herrialdea, hotela, logela-zenbakia emanez gero, aukeratutako txangoa, nahi den data, taldearen tamaina eta mezua izan daitezke.",
+    "privacyUse": "Informazio hori kontsultei erantzuteko, eskatutako txangoa antolatzeko, erreserbei buruz komunikatzeko eta webgunea segurtasunez kudeatzeko erabiltzen dugu.",
+    "privacySharing": "Ez ditugu kontsulta-datuak saltzen. Informazioa soilik partekatzen da eskatutako zerbitzua kudeatzeko arrazoiz beharrezkoa denean edo legeak hala eskatzen duenean.",
+    "privacyRetention": "Erregistroak kontsultak, erreserbak, eragiketa-erregistroak eta lege-betebeharrak kudeatzeko arrazoiz behar den denboran bakarrik gordetzen dira.",
+    "privacyRights": "Gurekin harremanetan jar zaitezke gordetzen ditugun datu pertsonalei buruz galdetzeko, zuzentzeko edo ezabatzea eskatzeko, aplikagarri den legediaren arabera.",
+    "termsTitle": "Baldintzak",
+    "termsIntro": "Webgune honek txangoei buruzko informazioa eta Hurghadatik kontsultak eta erreserba-eskaerak bidaltzeko aukera eskaintzen ditu.",
+    "termsBooking": "Formulario bat bidaltzeak ez du berez erreserba baieztatzen. Erreserba erabilgarritasuna, xehetasunak eta antolaketa zurekin behin betiko adostu ondoren bakarrik baieztatzen da.",
+    "termsPrices": "Prezioak, barne dauden zerbitzuak, ordutegiak eta aukerako jarduerak alda daitezke. Azken prezioa eta barne dauden zerbitzuak erreserba onartu aurretik jakinarazten dira.",
+    "termsChanges": "Txangoaren ordena, bilketa-orduak edo ibilbidearen zatiak arrazoi operatibo, meteorologiko, segurtasuneko edo hornitzaileengatik alda daitezke. Aldaketa garrantzitsuak jakiten direnean komunikatuko dira.",
+    "termsGuest": "Gonbidatuak erreserba-datu zuzenak emateaz, segurtasun-argibideak betetzeaz eta aukeratutako txangorako beharrezko dokumentuak eramateaz arduratzen dira.",
+    "termsContact": "Zerbait argi ez badago, jarri gurekin harremanetan baieztatu aurretik azken programa idatziz adosteko."
+  },
+  "reviews": {
+    "kicker": "Gonbidatuen iritziak",
+    "title": "Bidaiarien benetako iritziak",
+    "tripTitle": "Txango honi buruzko iritziak",
+    "description": "Benetako bezeroen iritziak soilik erakusten dira, webguneko administratzaileak gehitu eta argitaratutakoak."
+  },
+  "search": {
+    "label": "Bilatu txangoak",
+    "placeholder": "Bilatu txango, jarduera edo lekuaren arabera",
+    "clear": "Garbitu bilaketa",
+    "noResults": "Ez dago bilaketarekin bat datorren txangorik.",
+    "results": "{count} txango aurkitu dira"
+  }
+}

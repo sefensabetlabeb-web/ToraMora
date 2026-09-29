@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Početna",
+    "trips": "Izleti",
+    "contact": "Kontakt",
+    "book": "Rezerviraj",
+    "language": "Jezik",
+    "cairo": "Kairo",
+    "luxor": "Luksor",
+    "openMenu": "Otvori izbornik",
+    "closeMenu": "Zatvori izbornik"
+  },
+  "hero": {
+    "title1": "Otkrijte Egipat",
+    "title2": "iz Hurghade.",
+    "badge": "Izleti iz Hurghade",
+    "description": "Otkrijte Kairo, Luksor i Crveno more uz jasne informacije, jednostavne upite za rezervaciju i izravan kontakt.",
+    "cairo": "Istraži Kairo",
+    "luxor": "Istraži Luksor",
+    "contact": "Kontaktirajte nas",
+    "easy": "Jednostavni upiti",
+    "mobile": "Prilagođeno mobitelima",
+    "local": "Lokalni izleti",
+    "featured": "Istaknuti izlet",
+    "cairoDay": "Kairo u jednom danu",
+    "cairoPlaces": "Piramide · Sfinga · Muzej",
+    "destination": "Odredište",
+    "fromHurghada": "Iz Hurghade"
+  },
+  "home": {
+    "popular": "Popularni izleti",
+    "allTrips": "Prikaži sve izlete",
+    "title": "Najjednostavniji način za istraživanje iz Hurghade.",
+    "description": "Počnite s najtraženijim opcijama. Ostali izleti složeni su u jednostavne kategorije."
+  },
+  "language": {
+    "title": "Jezik",
+    "search": "Pretraži jezike",
+    "all": "Svi jezici",
+    "current": "Trenutni jezik",
+    "close": "Zatvori"
+  },
+  "forms": {
+    "trip": "Izlet",
+    "selectTrip": "Odaberite izlet",
+    "preferredDate": "Željeni datum",
+    "adults": "Odrasli",
+    "children": "Djeca",
+    "hotel": "Naziv hotela",
+    "roomOptional": "Broj sobe — neobavezno",
+    "name": "Ime",
+    "phone": "Telefon",
+    "email": "E-pošta",
+    "country": "Država",
+    "specialRequest": "Poseban zahtjev",
+    "message": "Poruka",
+    "generalEnquiry": "Opći upit",
+    "sending": "Slanje…",
+    "sendBooking": "Pošalji zahtjev za rezervaciju",
+    "sendMessage": "Pošalji poruku",
+    "bookingSuccess": "Zahtjev za rezervaciju uspješno je poslan.",
+    "contactSuccess": "Poruka je uspješno poslana.",
+    "sendError": "Trenutno nije moguće poslati. Pokušajte ponovno ili koristite WhatsApp.",
+    "bookingIntro": "Online plaćanje nije potrebno. Pošaljite željene podatke i završni program potvrdite izravno s timom.",
+    "contactIntro": "Pitajte o izletu, preuzimanju, dostupnosti ili bilo čemu prije rezervacije."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Dnevni upit",
+    "from": "Od",
+    "priceOnRequest": "Cijena na upit",
+    "bookTrip": "Rezerviraj izlet",
+    "viewItinerary": "Pogledaj program",
+    "gallery": "Galerija",
+    "highlights": "Istaknuto",
+    "itinerary": "Program",
+    "included": "Uključeno",
+    "notIncluded": "Nije uključeno",
+    "whatToBring": "Što ponijeti",
+    "bookNow": "Rezerviraj",
+    "sendEnquiry": "Pošalji upit",
+    "contact": "Kontakt",
+    "galleryTitle": "Pregled iskustva",
+    "galleryCopy": "Slike pregleda mogu se zamijeniti u administratorskoj biblioteci.",
+    "highlightsTitle": "Mjesta koja oblikuju vaš dan",
+    "itineraryTitle": "Vaš dan, korak po korak",
+    "itineraryCopy": "Točan redoslijed može se promijeniti iz operativnih razloga. Završne detalje preuzimanja i potvrđeni program dobivate uz rezervaciju.",
+    "knowBefore": "Dobro je znati prije rezervacije",
+    "includedTitle": "Uključeno i nije uključeno",
+    "bringTitle": "Nekoliko stvari za ugodan dan",
+    "ready": "Spremni smo kad i vi",
+    "askAbout": "Pitajte za {trip}",
+    "bookingCopy": "Pošaljite željeni datum, hotel i broj gostiju. U ovoj fazi online plaćanje nije potrebno.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Putujte uz jasne informacije",
+    "title": "Sve važno lako je pronaći.",
+    "description": "Stranica je osmišljena oko pitanja koja putnici obično žele razjasniti prije zahtjeva za rezervaciju.",
+    "pickup": "Preuzimanje iz hotela",
+    "guides": "Profesionalni vodiči",
+    "booking": "Jednostavna rezervacija",
+    "direct": "Izravan kontakt",
+    "clear": "Jasne informacije"
+  },
+  "how": {
+    "kicker": "Namjerno jednostavno",
+    "title": "Od pregledavanja do upita u nekoliko minuta.",
+    "description": "Bez računa, komplicirane naplate ili online plaćanja u prvoj verziji. Prvo se usredotočite na izlet.",
+    "choose": "Odaberite izlet",
+    "date": "Odaberite datum",
+    "confirm": "Potvrdite detalje"
+  },
+  "contact": {
+    "kicker": "Kontakt i rezervacija",
+    "title": "Spremni za sljedeće iskustvo u Hurghadi?",
+    "description": "Pošaljite zahtjev za rezervaciju, kontaktirajte nas izravno ili koristite WhatsApp za brzo pitanje.",
+    "choose": "Odaberite izlet",
+    "whatsapp": "WhatsApp dostupan",
+    "message": "Pošalji poruku"
+  },
+  "trips": {
+    "kicker": "Izleti iz Hurghade",
+    "title": "Pronađite izlet bez gubljenja među opcijama.",
+    "description": "Odaberite kategoriju i otvorite izlet koji vas zanima. USD cijene u razvojnoj verziji su primjeri i mogu se uređivati u adminu.",
+    "samplePrice": "Primjer cijene",
+    "viewTrip": "Pogledaj izlet",
+    "bookNow": "Rezerviraj",
+    "empty": "Trenutno nema dostupnih izleta. Provjerite kasnije."
+  },
+  "footer": {
+    "trips": "Izleti",
+    "information": "Informacije",
+    "privacy": "Pravila privatnosti",
+    "terms": "Uvjeti",
+    "fromHurghada": "Iz Hurghade",
+    "rights": "Sva prava pridržana.",
+    "fast": "Napravljeno za brzo pronalaženje izleta na mobitelu.",
+    "redSea": "Doživljaji Crvenog mora i Egipta"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura i povijest",
+      "description": "Jednodnevni izleti u Kairo i Luksor."
+    },
+    "islands": {
+      "label": "Otoci i ronjenje s maskom",
+      "description": "Izleti brodom, plaže i grebeni Crvenog mora."
+    },
+    "diving": {
+      "label": "Ronjenje i more",
+      "description": "Ronjenje, snorkeling i vodene aktivnosti."
+    },
+    "desert": {
+      "label": "Pustinja i avantura",
+      "description": "Quad, safari i pustinjska iskustva."
+    },
+    "family": {
+      "label": "Obitelj i grad",
+      "description": "Lagane aktivnosti, gradski posjeti i obiteljske opcije."
+    },
+    "private": {
+      "label": "Privatni izleti",
+      "description": "Fleksibilna privatna iskustva za vašu grupu."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Pravila privatnosti",
+    "privacyIntro": "Prikupljamo samo podatke koje sami pošaljete uz pitanje ili zahtjev za rezervaciju.",
+    "privacyData": "Mogu uključivati ime, kontakt, državu, hotel, sobu, izlet, datum, veličinu grupe i poruku.",
+    "privacyUse": "Podatke koristimo za odgovore, organizaciju usluge, komunikaciju o rezervaciji i siguran rad stranice.",
+    "privacySharing": "Ne prodajemo podatke. Dijelimo ih samo kada je potrebno za uslugu ili prema zakonu.",
+    "privacyRetention": "Podatke čuvamo samo razumno potrebno vrijeme za upite, rezervacije, poslovanje i pravne obveze.",
+    "privacyRights": "Možete zatražiti pristup, ispravak ili brisanje osobnih podataka prema važećem zakonu.",
+    "termsTitle": "Uvjeti",
+    "termsIntro": "Stranica pruža informacije o izletima i omogućuje slanje upita i zahtjeva za rezervaciju iz Hurghade.",
+    "termsBooking": "Slanje obrasca samo po sebi ne potvrđuje rezervaciju. Potvrda slijedi nakon dogovora o završnim detaljima i dostupnosti.",
+    "termsPrices": "Cijene, uključene usluge, rasporedi i dodatne aktivnosti mogu se promijeniti. Završna cijena daje se prije prihvaćanja.",
+    "termsChanges": "Redoslijed, vrijeme preuzimanja ili dijelovi programa mogu se promijeniti zbog operativnih, vremenskih, sigurnosnih ili dobavljačkih razloga.",
+    "termsGuest": "Gosti su odgovorni za točne podatke, sigurnosne upute i potrebne dokumente.",
+    "termsContact": "Ako nešto nije jasno, kontaktirajte nas prije potvrde kako bi završni program bio dogovoren pisanim putem."
+  },
+  "reviews": {
+    "kicker": "Recenzije gostiju",
+    "title": "Stvarna iskustva putnika",
+    "tripTitle": "Recenzije ovog izleta",
+    "description": "Ovdje se prikazuju samo recenzije iz stvarnih povratnih informacija kupaca koje je objavio administrator stranice."
+  },
+  "search": {
+    "label": "Pretraži izlete",
+    "placeholder": "Pretraži po izletu, aktivnosti ili mjestu",
+    "clear": "Očisti pretragu",
+    "noResults": "Nijedan izlet ne odgovara pretrazi.",
+    "results": "Pronađeno izleta: {count}"
+  }
+}

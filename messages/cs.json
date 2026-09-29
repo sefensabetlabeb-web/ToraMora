@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Domů",
+    "trips": "Výlety",
+    "contact": "Kontakt",
+    "book": "Rezervovat",
+    "language": "Jazyk",
+    "cairo": "Káhira",
+    "luxor": "Luxor",
+    "openMenu": "Otevřít menu",
+    "closeMenu": "Zavřít menu"
+  },
+  "hero": {
+    "title1": "Objevte Egypt",
+    "title2": "z Hurghady.",
+    "badge": "Výlety z Hurghady",
+    "description": "Objevte Káhiru, Luxor a Rudé moře s přehlednými informacemi, jednoduchými žádostmi o rezervaci a přímou komunikací.",
+    "cairo": "Objevit Káhiru",
+    "luxor": "Objevit Luxor",
+    "contact": "Kontaktujte nás",
+    "easy": "Snadné dotazy",
+    "mobile": "Design pro mobil",
+    "local": "Místní výlety",
+    "featured": "Doporučený výlet",
+    "cairoDay": "Káhira za jeden den",
+    "cairoPlaces": "Pyramidy · Sfinga · Muzeum",
+    "destination": "Destinace",
+    "fromHurghada": "Z Hurghady"
+  },
+  "home": {
+    "popular": "Oblíbené výlety",
+    "allTrips": "Zobrazit všechny výlety",
+    "title": "Nejjednodušší způsob, jak začít objevovat z Hurghady.",
+    "description": "Začněte nejoblíbenějšími možnostmi. Další výlety jsou na stránce přehledně rozděleny do jednoduchých kategorií."
+  },
+  "language": {
+    "title": "Jazyk",
+    "search": "Hledat jazyky",
+    "all": "Všechny jazyky",
+    "current": "Aktuální jazyk",
+    "close": "Zavřít"
+  },
+  "forms": {
+    "trip": "Výlet",
+    "selectTrip": "Vyberte výlet",
+    "preferredDate": "Preferované datum",
+    "adults": "Dospělí",
+    "children": "Děti",
+    "hotel": "Název hotelu",
+    "roomOptional": "Číslo pokoje — volitelné",
+    "name": "Jméno",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "country": "Země",
+    "specialRequest": "Speciální požadavek",
+    "message": "Zpráva",
+    "generalEnquiry": "Obecný dotaz",
+    "sending": "Odesílání…",
+    "sendBooking": "Odeslat žádost o rezervaci",
+    "sendMessage": "Odeslat zprávu",
+    "bookingSuccess": "Žádost o rezervaci byla úspěšně odeslána.",
+    "contactSuccess": "Zpráva byla úspěšně odeslána.",
+    "sendError": "Nyní nelze odeslat. Zkuste to znovu nebo použijte WhatsApp.",
+    "bookingIntro": "Online platba není nutná. Pošlete preferované údaje a finální program potvrďte přímo s týmem.",
+    "contactIntro": "Zeptejte se na výlet, vyzvednutí, dostupnost nebo cokoli, co potřebujete vědět před rezervací."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Denní dotaz",
+    "from": "Od",
+    "priceOnRequest": "Cena na vyžádání",
+    "bookTrip": "Rezervovat výlet",
+    "viewItinerary": "Zobrazit itinerář",
+    "gallery": "Galerie",
+    "highlights": "Hlavní body",
+    "itinerary": "Itinerář",
+    "included": "Zahrnuto",
+    "notIncluded": "Nezahrnuto",
+    "whatToBring": "Co si vzít",
+    "bookNow": "Rezervovat",
+    "sendEnquiry": "Odeslat dotaz",
+    "contact": "Kontakt",
+    "galleryTitle": "Náhled zážitku",
+    "galleryCopy": "Náhledové obrázky lze nahradit v knihovně obrázků administrace.",
+    "highlightsTitle": "Místa, která tvoří váš den",
+    "itineraryTitle": "Váš den krok za krokem",
+    "itineraryCopy": "Přesné pořadí se může z provozních důvodů změnit. Konečné údaje o vyzvednutí a potvrzený program dostanete s rezervací.",
+    "knowBefore": "Co vědět před rezervací",
+    "includedTitle": "Zahrnuto a nezahrnuto",
+    "bringTitle": "Několik věcí pro pohodlný den",
+    "ready": "Jsme připraveni, až budete vy",
+    "askAbout": "Zeptat se na {trip}",
+    "bookingCopy": "Napište nám preferované datum, hotel a počet hostů. V této fázi není online platba nutná.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Cestujte s jasnými informacemi",
+    "title": "Vše důležité snadno najdete.",
+    "description": "Stránka je navržena kolem otázek, které cestovatelé obvykle chtějí vyřešit před odesláním žádosti o rezervaci.",
+    "pickup": "Vyzvednutí v hotelu",
+    "guides": "Profesionální průvodci",
+    "booking": "Snadná rezervace",
+    "direct": "Přímý kontakt",
+    "clear": "Jasné informace"
+  },
+  "how": {
+    "kicker": "Záměrně jednoduché",
+    "title": "Od prohlížení k dotazu během několika minut.",
+    "description": "Bez účtu, složité pokladny a online platby v první verzi. Nejdříve si vyberete samotný výlet.",
+    "choose": "Vyberte výlet",
+    "date": "Vyberte datum",
+    "confirm": "Potvrďte údaje"
+  },
+  "contact": {
+    "kicker": "Kontakt a rezervace",
+    "title": "Připraveni naplánovat další zážitek v Hurghadě?",
+    "description": "Pošlete žádost o rezervaci, kontaktujte nás přímo nebo použijte WhatsApp pro rychlý dotaz.",
+    "choose": "Vybrat výlet",
+    "whatsapp": "WhatsApp k dispozici",
+    "message": "Poslat zprávu"
+  },
+  "trips": {
+    "kicker": "Výlety z Hurghady",
+    "title": "Najděte svůj výlet bez zmatku z příliš mnoha možností.",
+    "description": "Vyberte jednoduchou kategorii a otevřete výlet, který vás zajímá. Ceny v USD v této vývojové verzi jsou ukázkové a lze je upravit v administraci.",
+    "samplePrice": "Ukázková cena",
+    "viewTrip": "Zobrazit výlet",
+    "bookNow": "Rezervovat",
+    "empty": "Momentálně nejsou dostupné žádné výlety. Zkuste to prosím později."
+  },
+  "footer": {
+    "trips": "Výlety",
+    "information": "Informace",
+    "privacy": "Zásady ochrany soukromí",
+    "terms": "Podmínky",
+    "fromHurghada": "Z Hurghady",
+    "rights": "Všechna práva vyhrazena.",
+    "fast": "Vytvořeno pro rychlé vyhledání výletů na mobilu.",
+    "redSea": "Zážitky u Rudého moře a v Egyptě"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura a historie",
+      "description": "Jednodenní výlety do Káhiry a Luxoru."
+    },
+    "islands": {
+      "label": "Ostrovy a šnorchlování",
+      "description": "Plavby, pláže a útesy Rudého moře."
+    },
+    "diving": {
+      "label": "Potápění a moře",
+      "description": "Potápění, šnorchlování a vodní aktivity."
+    },
+    "desert": {
+      "label": "Poušť a dobrodružství",
+      "description": "Čtyřkolky, safari a pouštní zážitky."
+    },
+    "family": {
+      "label": "Rodina a město",
+      "description": "Nenáročné aktivity, městské výlety a rodinné možnosti."
+    },
+    "private": {
+      "label": "Soukromé výlety",
+      "description": "Flexibilní soukromé zážitky pro vaši skupinu."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Zásady ochrany soukromí",
+    "privacyIntro": "Shromažďujeme pouze informace, které se rozhodnete odeslat při dotazu nebo žádosti o rezervaci.",
+    "privacyData": "Mohou zahrnovat jméno, kontakty, zemi, hotel, číslo pokoje pokud ho uvedete, vybraný výlet, preferované datum, velikost skupiny a zprávu.",
+    "privacyUse": "Tyto údaje používáme k odpovědím, organizaci požadovaných služeb, komunikaci o rezervacích a bezpečnému provozu webu.",
+    "privacySharing": "Údaje z dotazů neprodáváme. Sdílíme je pouze tehdy, když je to rozumně nutné pro požadovanou službu nebo vyžadované zákonem.",
+    "privacyRetention": "Záznamy uchováváme jen po dobu rozumně nutnou pro dotazy, rezervace, provozní evidenci a platné právní povinnosti.",
+    "privacyRights": "Můžete nás kontaktovat a požádat o přístup, opravu nebo smazání osobních údajů, které uchováváme, v rozsahu platných právních požadavků.",
+    "termsTitle": "Podmínky",
+    "termsIntro": "Tento web poskytuje informace o výletech a umožňuje posílat dotazy a žádosti o rezervaci z Hurghady.",
+    "termsBooking": "Odeslání formuláře samo o sobě nevytváří potvrzenou rezervaci. Rezervace je potvrzena až po přímém potvrzení konečných detailů, dostupnosti a podmínek.",
+    "termsPrices": "Ceny, zahrnuté služby, časy a volitelné aktivity se mohou změnit. Konečná cena a potvrzené služby jsou sděleny před přijetím rezervace.",
+    "termsChanges": "Pořadí výletu, časy vyzvednutí nebo části programu se mohou změnit z provozních, povětrnostních, bezpečnostních či dodavatelských důvodů. Důležité změny budou oznámeny, jakmile budou známy.",
+    "termsGuest": "Hosté odpovídají za správné rezervační údaje, dodržování bezpečnostních pokynů a potřebné dokumenty pro zvolený výlet.",
+    "termsContact": "Pokud něco není jasné, kontaktujte nás před potvrzením, aby mohl být konečný program dohodnut písemně."
+  },
+  "reviews": {
+    "kicker": "Hodnocení hostů",
+    "title": "Skutečné zkušenosti cestovatelů",
+    "tripTitle": "Hodnocení této výpravy",
+    "description": "Zobrazují se zde pouze recenze založené na skutečné zpětné vazbě zákazníků a zveřejněné administrátorem webu."
+  },
+  "search": {
+    "label": "Hledat výlety",
+    "placeholder": "Hledejte podle výletu, aktivity nebo místa",
+    "clear": "Vymazat hledání",
+    "noResults": "Žádné výlety neodpovídají vašemu hledání.",
+    "results": "Nalezeno výletů: {count}"
+  }
+}

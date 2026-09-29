@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Domov",
+    "trips": "Výlety",
+    "contact": "Kontakt",
+    "book": "Rezervovať",
+    "language": "Jazyk",
+    "cairo": "Káhira",
+    "luxor": "Luxor",
+    "openMenu": "Otvoriť menu",
+    "closeMenu": "Zavrieť menu"
+  },
+  "hero": {
+    "title1": "Objavte Egypt",
+    "title2": "z Hurghady.",
+    "badge": "Výlety z Hurghady",
+    "description": "Objavte Káhiru, Luxor a Červené more s jasnými informáciami, jednoduchými žiadosťami o rezerváciu a priamym kontaktom.",
+    "cairo": "Objaviť Káhiru",
+    "luxor": "Objaviť Luxor",
+    "contact": "Kontaktujte nás",
+    "easy": "Jednoduché otázky",
+    "mobile": "Dizajn pre mobil",
+    "local": "Miestne výlety",
+    "featured": "Odporúčaný výlet",
+    "cairoDay": "Káhira za jeden deň",
+    "cairoPlaces": "Pyramídy · Sfinga · Múzeum",
+    "destination": "Destinácia",
+    "fromHurghada": "Z Hurghady"
+  },
+  "home": {
+    "popular": "Obľúbené výlety",
+    "allTrips": "Zobraziť všetky výlety",
+    "title": "Najjednoduchší spôsob, ako začať objavovať z Hurghady.",
+    "description": "Začnite najžiadanejšími možnosťami. Ďalšie výlety sú prehľadne rozdelené do jednoduchých kategórií."
+  },
+  "language": {
+    "title": "Jazyk",
+    "search": "Hľadať jazyky",
+    "all": "Všetky jazyky",
+    "current": "Aktuálny jazyk",
+    "close": "Zavrieť"
+  },
+  "forms": {
+    "trip": "Výlet",
+    "selectTrip": "Vyberte výlet",
+    "preferredDate": "Preferovaný dátum",
+    "adults": "Dospelí",
+    "children": "Deti",
+    "hotel": "Názov hotela",
+    "roomOptional": "Číslo izby — voliteľné",
+    "name": "Meno",
+    "phone": "Telefón",
+    "email": "E-mail",
+    "country": "Krajina",
+    "specialRequest": "Špeciálna požiadavka",
+    "message": "Správa",
+    "generalEnquiry": "Všeobecný dopyt",
+    "sending": "Odosielanie…",
+    "sendBooking": "Odoslať žiadosť o rezerváciu",
+    "sendMessage": "Odoslať správu",
+    "bookingSuccess": "Žiadosť o rezerváciu bola úspešne odoslaná.",
+    "contactSuccess": "Správa bola úspešne odoslaná.",
+    "sendError": "Teraz sa nedá odoslať. Skúste znova alebo použite WhatsApp.",
+    "bookingIntro": "Online platba nie je potrebná. Pošlite svoje údaje a konečný program potvrďte priamo s tímom.",
+    "contactIntro": "Spýtajte sa na výlet, vyzdvihnutie, dostupnosť alebo čokoľvek pred rezerváciou."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Denný dopyt",
+    "from": "Od",
+    "priceOnRequest": "Cena na vyžiadanie",
+    "bookTrip": "Rezervovať výlet",
+    "viewItinerary": "Zobraziť itinerár",
+    "gallery": "Galéria",
+    "highlights": "Hlavné body",
+    "itinerary": "Itinerár",
+    "included": "Zahrnuté",
+    "notIncluded": "Nezahrnuté",
+    "whatToBring": "Čo si vziať",
+    "bookNow": "Rezervovať",
+    "sendEnquiry": "Odoslať dopyt",
+    "contact": "Kontakt",
+    "galleryTitle": "Ukážka zážitku",
+    "galleryCopy": "Náhľadové obrázky možno nahradiť v knižnici obrázkov administrácie.",
+    "highlightsTitle": "Miesta, ktoré tvoria váš deň",
+    "itineraryTitle": "Váš deň krok za krokom",
+    "itineraryCopy": "Presné poradie sa môže z prevádzkových dôvodov zmeniť. Konečné údaje o vyzdvihnutí a potvrdený program dostanete s rezerváciou.",
+    "knowBefore": "Čo vedieť pred rezerváciou",
+    "includedTitle": "Zahrnuté a nezahrnuté",
+    "bringTitle": "Pár vecí pre pohodlný deň",
+    "ready": "Sme pripravení, keď vy",
+    "askAbout": "Opýtať sa na {trip}",
+    "bookingCopy": "Napíšte nám dátum, hotel a počet hostí. V tejto fáze online platba nie je potrebná.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Cestujte s jasnými informáciami",
+    "title": "Všetko dôležité ľahko nájdete.",
+    "description": "Stránka je navrhnutá podľa otázok, ktoré cestovatelia zvyčajne riešia pred odoslaním rezervácie.",
+    "pickup": "Vyzdvihnutie v hoteli",
+    "guides": "Profesionálni sprievodcovia",
+    "booking": "Jednoduchá rezervácia",
+    "direct": "Priamy kontakt",
+    "clear": "Jasné informácie"
+  },
+  "how": {
+    "kicker": "Zámerne jednoduché",
+    "title": "Od prehliadania k otázke za pár minút.",
+    "description": "Bez účtu, zložitého nákupu a online platby v prvej verzii. Najprv sa sústredíte na výlet.",
+    "choose": "Vyberte výlet",
+    "date": "Vyberte dátum",
+    "confirm": "Potvrďte údaje"
+  },
+  "contact": {
+    "kicker": "Kontakt a rezervácia",
+    "title": "Pripravení naplánovať ďalší zážitok v Hurghade?",
+    "description": "Pošlite žiadosť o rezerváciu, kontaktujte nás priamo alebo použite WhatsApp na rýchlu otázku.",
+    "choose": "Vybrať výlet",
+    "whatsapp": "WhatsApp je dostupný",
+    "message": "Poslať správu"
+  },
+  "trips": {
+    "kicker": "Výlety z Hurghady",
+    "title": "Nájdite si výlet bez chaosu z možností.",
+    "description": "Vyberte kategóriu a otvorte výlet, ktorý vás zaujíma. USD ceny v tejto vývojovej verzii sú ukážkové a upraviteľné v administrácii.",
+    "samplePrice": "Ukážková cena",
+    "viewTrip": "Zobraziť výlet",
+    "bookNow": "Rezervovať",
+    "empty": "Momentálne nie sú dostupné žiadne výlety. Skúste to neskôr."
+  },
+  "footer": {
+    "trips": "Výlety",
+    "information": "Informácie",
+    "privacy": "Ochrana súkromia",
+    "terms": "Podmienky",
+    "fromHurghada": "Z Hurghady",
+    "rights": "Všetky práva vyhradené.",
+    "fast": "Vytvorené na rýchle hľadanie výletov v mobile.",
+    "redSea": "Zážitky pri Červenom mori a v Egypte"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultúra a história",
+      "description": "Jednodňové výlety do Káhiry a Luxoru."
+    },
+    "islands": {
+      "label": "Ostrovy a šnorchlovanie",
+      "description": "Plavby, pláže a útesy Červeného mora."
+    },
+    "diving": {
+      "label": "Potápanie a more",
+      "description": "Potápanie, šnorchlovanie a vodné aktivity."
+    },
+    "desert": {
+      "label": "Púšť a dobrodružstvo",
+      "description": "Štvorkolky, safari a púštne zážitky."
+    },
+    "family": {
+      "label": "Rodina a mesto",
+      "description": "Nenáročné aktivity, mesto a rodinné možnosti."
+    },
+    "private": {
+      "label": "Súkromné výlety",
+      "description": "Flexibilné súkromné zážitky pre vašu skupinu."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Zásady ochrany súkromia",
+    "privacyIntro": "Zhromažďujeme iba údaje, ktoré sa rozhodnete poslať pri otázke alebo rezervácii.",
+    "privacyData": "Môžu zahŕňať meno, kontakt, krajinu, hotel, číslo izby, vybraný výlet, dátum, veľkosť skupiny a správu.",
+    "privacyUse": "Údaje používame na odpovede, organizáciu služby, komunikáciu o rezerváciách a bezpečnú prevádzku stránky.",
+    "privacySharing": "Údaje nepredávame. Zdieľame ich iba ak je to potrebné na službu alebo podľa zákona.",
+    "privacyRetention": "Záznamy uchovávame len primerane dlho na otázky, rezervácie, prevádzku a právne povinnosti.",
+    "privacyRights": "Môžete nás požiadať o prístup, opravu alebo vymazanie osobných údajov podľa platných zákonov.",
+    "termsTitle": "Podmienky",
+    "termsIntro": "Táto stránka poskytuje informácie o výletoch a umožňuje posielať otázky a rezervácie z Hurghady.",
+    "termsBooking": "Odoslanie formulára samo o sebe nepotvrdzuje rezerváciu. Tá platí až po potvrdení detailov, dostupnosti a podmienok.",
+    "termsPrices": "Ceny, služby, časy a voliteľné aktivity sa môžu meniť. Konečnú cenu dostanete pred prijatím rezervácie.",
+    "termsChanges": "Poradie, časy alebo časti programu sa môžu meniť z prevádzkových, poveternostných, bezpečnostných či dodávateľských dôvodov.",
+    "termsGuest": "Hostia zodpovedajú za správne údaje, bezpečnostné pokyny a potrebné dokumenty.",
+    "termsContact": "Ak niečo nie je jasné, kontaktujte nás pred potvrdením, aby bol konečný program dohodnutý písomne."
+  },
+  "reviews": {
+    "kicker": "Hodnotenia hostí",
+    "title": "Skutočné skúsenosti cestovateľov",
+    "tripTitle": "Hodnotenia tejto výpravy",
+    "description": "Zobrazujú sa tu iba recenzie založené na skutočnej spätnej väzbe zákazníkov a zverejnené administrátorom webu."
+  },
+  "search": {
+    "label": "Hľadať výlety",
+    "placeholder": "Hľadajte podľa výletu, aktivity alebo miesta",
+    "clear": "Vymazať hľadanie",
+    "noResults": "Žiadne výlety nezodpovedajú vášmu hľadaniu.",
+    "results": "Nájdených výletov: {count}"
+  }
+}

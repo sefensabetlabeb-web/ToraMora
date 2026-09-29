@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "trips": "Turlar",
+    "contact": "İletişim",
+    "book": "Şimdi Rezervasyon",
+    "language": "Dil",
+    "cairo": "Kahire",
+    "luxor": "Luksor",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat"
+  },
+  "hero": {
+    "title1": "Mısır’ı Keşfedin",
+    "title2": "Hurghada’dan.",
+    "badge": "Hurghada çıkışlı turlar",
+    "description": "Kahire, Luksor ve Kızıldeniz deneyimlerini açık tur bilgileri, kolay rezervasyon talepleri ve doğrudan iletişim ile keşfedin.",
+    "cairo": "Kahire’yi keşfet",
+    "luxor": "Luksor’u keşfet",
+    "contact": "Bize ulaşın",
+    "easy": "Kolay talepler",
+    "mobile": "Mobil öncelikli tasarım",
+    "local": "Yerel tur odağı",
+    "featured": "Öne çıkan gezi",
+    "cairoDay": "Bir günde Kahire",
+    "cairoPlaces": "Piramitler · Sfenks · Müze",
+    "destination": "Destinasyon",
+    "fromHurghada": "Hurghada’dan"
+  },
+  "home": {
+    "popular": "Popüler turlar",
+    "allTrips": "Tüm turları gör",
+    "title": "Hurghada’dan keşfe başlamanın en kolay yolu.",
+    "description": "En çok tercih edilen seçeneklerle başlayın. Daha fazlası için tüm turlar sayfası basit kategoriler halinde düzenlenmiştir."
+  },
+  "language": {
+    "title": "Dil",
+    "search": "Dil ara",
+    "all": "Tüm diller",
+    "current": "Geçerli dil",
+    "close": "Kapat"
+  },
+  "forms": {
+    "trip": "Tur",
+    "selectTrip": "Tur seçin",
+    "preferredDate": "Tercih edilen tarih",
+    "adults": "Yetişkin",
+    "children": "Çocuk",
+    "hotel": "Otel adı",
+    "roomOptional": "Oda numarası — isteğe bağlı",
+    "name": "Ad",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "country": "Ülke",
+    "specialRequest": "Özel istek",
+    "message": "Mesaj",
+    "generalEnquiry": "Genel soru",
+    "sending": "Gönderiliyor…",
+    "sendBooking": "Rezervasyon talebi gönder",
+    "sendMessage": "Mesaj gönder",
+    "bookingSuccess": "Rezervasyon talebi başarıyla gönderildi.",
+    "contactSuccess": "Mesaj başarıyla gönderildi.",
+    "sendError": "Şu anda gönderilemiyor. Tekrar deneyin veya WhatsApp kullanın.",
+    "bookingIntro": "Online ödeme gerekmez. Tercih ettiğiniz bilgileri gönderin ve nihai programı ekiple doğrudan onaylayın.",
+    "contactIntro": "Rezervasyondan önce tur, transfer, müsaitlik veya ihtiyacınız olan herhangi bir konu hakkında sorun."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Günlük talep",
+    "from": "Başlangıç",
+    "priceOnRequest": "Fiyat için sorunuz",
+    "bookTrip": "Bu turu rezerve et",
+    "viewItinerary": "Programı görüntüle",
+    "gallery": "Galeri",
+    "highlights": "Öne çıkanlar",
+    "itinerary": "Program",
+    "included": "Dahil",
+    "notIncluded": "Dahil değil",
+    "whatToBring": "Yanınıza alın",
+    "bookNow": "Şimdi rezerve et",
+    "sendEnquiry": "Talep gönder",
+    "contact": "İletişim",
+    "galleryTitle": "Deneyime kısa bir bakış",
+    "galleryCopy": "Önizleme görselleri yönetici görsel kütüphanesinden değiştirilebilir.",
+    "highlightsTitle": "Gününüzü şekillendiren yerler",
+    "itineraryTitle": "Gününüz, adım adım",
+    "itineraryCopy": "Kesin sıra operasyonel nedenlerle değişebilir. Nihai alma detayları ve onaylanan program rezervasyonunuzla birlikte paylaşılır.",
+    "knowBefore": "Rezervasyondan önce bilinmesi gerekenler",
+    "includedTitle": "Dahil olanlar ve olmayanlar",
+    "bringTitle": "Rahat bir gün için birkaç temel eşya",
+    "ready": "Siz hazırsanız biz de hazırız",
+    "askAbout": "{trip} hakkında sor",
+    "bookingCopy": "Tercih ettiğiniz tarihi, oteli ve misafir sayısını bize bildirin. Bu aşamada online ödeme gerekmez.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Net bilgiyle seyahat",
+    "title": "Önemli olan her şey kolayca bulunur.",
+    "description": "Deneyim, gezginlerin rezervasyon talebi göndermeden önce genellikle yanıtlamak istediği sorular etrafında tasarlanmıştır.",
+    "pickup": "Otelden alma",
+    "guides": "Profesyonel rehberler",
+    "booking": "Kolay rezervasyon",
+    "direct": "Doğrudan iletişim",
+    "clear": "Açık bilgiler"
+  },
+  "how": {
+    "kicker": "Bilerek sade",
+    "title": "Gezinmeden talebe birkaç dakika içinde.",
+    "description": "Hesap yok, karmaşık ödeme adımı yok ve ilk sürümde online ödeme yok. Önce turunuzu seçmeye odaklanabilirsiniz.",
+    "choose": "Turunuzu seçin",
+    "date": "Tarihinizi seçin",
+    "confirm": "Detayları onaylayın"
+  },
+  "contact": {
+    "kicker": "İletişim ve rezervasyon",
+    "title": "Bir sonraki Hurghada deneyiminizi planlamaya hazır mısınız?",
+    "description": "Rezervasyon talebi gönderin, doğrudan bize ulaşın veya hızlı bir soru için WhatsApp kullanın.",
+    "choose": "Tur seçin",
+    "whatsapp": "WhatsApp kullanılabilir",
+    "message": "Mesaj gönder"
+  },
+  "trips": {
+    "kicker": "Hurghada çıkışlı turlar",
+    "title": "Seçenekler arasında kaybolmadan turunuzu bulun.",
+    "description": "Basit bir kategori seçin ve ilginizi çeken turu açın. Bu geliştirme sürümünde gösterilen USD fiyatları örnektir ve yönetim panelinden düzenlenebilir.",
+    "samplePrice": "Örnek fiyat",
+    "viewTrip": "Turu görüntüle",
+    "bookNow": "Şimdi rezervasyon yap",
+    "empty": "Şu anda kullanılabilir tur yok. Lütfen daha sonra tekrar kontrol edin."
+  },
+  "footer": {
+    "trips": "Turlar",
+    "information": "Bilgi",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Şartlar",
+    "fromHurghada": "Hurghada’dan",
+    "rights": "Tüm hakları saklıdır.",
+    "fast": "Hızlı, mobil öncelikli tur keşfi için tasarlandı.",
+    "redSea": "Kızıldeniz ve Mısır deneyimleri"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kültür ve tarih",
+      "description": "Kahire ve Luksor günübirlik turları."
+    },
+    "islands": {
+      "label": "Adalar ve şnorkel",
+      "description": "Tekne günleri, plajlar ve Kızıldeniz resifleri."
+    },
+    "diving": {
+      "label": "Dalış ve deniz",
+      "description": "Dalış, şnorkel ve su aktiviteleri."
+    },
+    "desert": {
+      "label": "Çöl ve macera",
+      "description": "ATV, safari ve çöl deneyimleri."
+    },
+    "family": {
+      "label": "Aile ve şehir",
+      "description": "Kolay aktiviteler, şehir gezileri ve aile seçenekleri."
+    },
+    "private": {
+      "label": "Özel turlar",
+      "description": "Grubunuz için esnek özel deneyimler."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Gizlilik Politikası",
+    "privacyIntro": "Yalnızca soru sorduğunuzda veya rezervasyon talebi gönderdiğinizde paylaşmayı seçtiğiniz bilgileri toplarız.",
+    "privacyData": "Bunlar adınız, iletişim bilgileriniz, ülkeniz, oteliniz, sağlanırsa oda numaranız, seçilen tur, tercih edilen tarih, grup büyüklüğü ve mesajınızı içerebilir.",
+    "privacyUse": "Bu bilgileri taleplere yanıt vermek, istenen tur detaylarını düzenlemek, rezervasyonlar hakkında iletişim kurmak ve siteyi güvenli şekilde işletmek için kullanırız.",
+    "privacySharing": "Talep verilerini satmayız. Bilgiler yalnızca talep edilen hizmeti yürütmek için makul ölçüde gerekli olduğunda veya kanunen zorunlu olduğunda paylaşılır.",
+    "privacyRetention": "Kayıtlar, talepler, rezervasyonlar, operasyonel kayıtlar ve geçerli yasal yükümlülükler için makul ölçüde gerekli olduğu sürece tutulur.",
+    "privacyRights": "Geçerli yasal gerekliliklere tabi olarak hakkınızda tuttuğumuz kişisel bilgilere erişmek, düzeltmek veya silinmesini istemek için bize ulaşabilirsiniz.",
+    "termsTitle": "Şartlar",
+    "termsIntro": "Bu site, Hurghada çıkışlı turlar hakkında bilgi verir ve soru veya rezervasyon talebi göndermenizi sağlar.",
+    "termsBooking": "Form göndermek tek başına onaylanmış rezervasyon oluşturmaz. Rezervasyon ancak nihai tur detayları, müsaitlik ve düzenlemeler sizinle doğrudan onaylandıktan sonra kesinleşir.",
+    "termsPrices": "Fiyatlar, dahil olanlar, programlar ve isteğe bağlı aktiviteler değişebilir. Nihai fiyat ve onaylanan dahil hizmetler rezervasyonu kabul etmeden önce size bildirilir.",
+    "termsChanges": "Tur sırası, alma saatleri veya programın bazı bölümleri operasyon, hava, güvenlik veya tedarikçi nedenleriyle değişebilir. Önemli değişiklikler bilindiğinde iletilir.",
+    "termsGuest": "Misafirler doğru rezervasyon bilgisi vermek, güvenlik talimatlarına uymak ve seçilen tur için gereken belgeleri taşımakla sorumludur.",
+    "termsContact": "Bir konu net değilse, nihai programın yazılı olarak kararlaştırılabilmesi için onaydan önce bize ulaşın."
+  },
+  "reviews": {
+    "kicker": "Misafir yorumları",
+    "title": "Gezginlerden gerçek geri bildirimler",
+    "tripTitle": "Bu tur için yorumlar",
+    "description": "Burada yalnızca gerçek müşteri geri bildirimlerine dayanan ve site yöneticisi tarafından yayımlanan yorumlar gösterilir."
+  },
+  "search": {
+    "label": "Tur ara",
+    "placeholder": "Tur, aktivite veya yere göre ara",
+    "clear": "Aramayı temizle",
+    "noResults": "Aramanızla eşleşen tur bulunamadı.",
+    "results": "{count} tur bulundu"
+  }
+}

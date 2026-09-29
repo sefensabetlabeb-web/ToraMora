@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "home": "Home",
+    "trips": "Trips",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "title": "Explore Egypt From Hurghada"
+  }
+}

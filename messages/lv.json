@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Sākums",
+    "trips": "Ekskursijas",
+    "contact": "Kontakti",
+    "book": "Rezervēt",
+    "language": "Valoda",
+    "cairo": "Kaira",
+    "luxor": "Luksora",
+    "openMenu": "Atvērt izvēlni",
+    "closeMenu": "Aizvērt izvēlni"
+  },
+  "hero": {
+    "title1": "Atklājiet Ēģipti",
+    "title2": "no Hurgadas.",
+    "badge": "Ekskursijas no Hurgadas",
+    "description": "Atklājiet Kairu, Luksoru un Sarkanās jūras piedzīvojumus ar skaidru informāciju, vienkāršiem rezervācijas pieprasījumiem un tiešu saziņu.",
+    "cairo": "Atklāt Kairu",
+    "luxor": "Atklāt Luksoru",
+    "contact": "Sazināties ar mums",
+    "easy": "Vienkārši jautājumi",
+    "mobile": "Piemērots mobilajām ierīcēm",
+    "local": "Vietējās ekskursijas",
+    "featured": "Ieteiktais ceļojums",
+    "cairoDay": "Kaira vienā dienā",
+    "cairoPlaces": "Piramīdas · Sfinksa · Muzejs",
+    "destination": "Galamērķis",
+    "fromHurghada": "No Hurgadas"
+  },
+  "home": {
+    "popular": "Populāras ekskursijas",
+    "allTrips": "Skatīt visas",
+    "title": "Vienkāršākais veids, kā sākt iepazīt Ēģipti no Hurgadas.",
+    "description": "Sāciet ar pieprasītākajiem variantiem. Vairāk ekskursiju atradīsiet visu ceļojumu lapā, kas sakārtota vienkāršās kategorijās."
+  },
+  "language": {
+    "title": "Valoda",
+    "search": "Meklēt valodas",
+    "all": "Visas valodas",
+    "current": "Pašreizējā valoda",
+    "close": "Aizvērt"
+  },
+  "forms": {
+    "trip": "Ekskursija",
+    "selectTrip": "Izvēlieties ekskursiju",
+    "preferredDate": "Vēlamais datums",
+    "adults": "Pieaugušie",
+    "children": "Bērni",
+    "hotel": "Viesnīcas nosaukums",
+    "roomOptional": "Numura numurs — neobligāti",
+    "name": "Vārds",
+    "phone": "Tālrunis",
+    "email": "E-pasts",
+    "country": "Valsts",
+    "specialRequest": "Īpašs pieprasījums",
+    "message": "Ziņa",
+    "generalEnquiry": "Vispārīgs jautājums",
+    "sending": "Sūta…",
+    "sendBooking": "Nosūtīt rezervācijas pieprasījumu",
+    "sendMessage": "Nosūtīt ziņu",
+    "bookingSuccess": "Rezervācijas pieprasījums veiksmīgi nosūtīts.",
+    "contactSuccess": "Ziņa veiksmīgi nosūtīta.",
+    "sendError": "Pašlaik nosūtīt nevar. Mēģiniet vēlreiz vai izmantojiet WhatsApp.",
+    "bookingIntro": "Tiešsaistes maksājums nav nepieciešams. Nosūtiet vēlamos datus un galīgo programmu apstipriniet tieši ar komandu.",
+    "contactIntro": "Jautājiet par ceļojumu, saņemšanu, pieejamību vai jebko citu pirms rezervācijas."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Ikdienas pieprasījums",
+    "from": "No",
+    "priceOnRequest": "Cena pēc pieprasījuma",
+    "bookTrip": "Rezervēt ekskursiju",
+    "viewItinerary": "Skatīt maršrutu",
+    "gallery": "Galerija",
+    "highlights": "Svarīgākais",
+    "itinerary": "Maršruts",
+    "included": "Iekļauts",
+    "notIncluded": "Nav iekļauts",
+    "whatToBring": "Ko ņemt līdzi",
+    "bookNow": "Rezervēt",
+    "sendEnquiry": "Nosūtīt pieprasījumu",
+    "contact": "Kontakti",
+    "galleryTitle": "Ieskats piedzīvojumā",
+    "galleryCopy": "Priekšskatījuma attēlus var aizstāt administratora attēlu bibliotēkā.",
+    "highlightsTitle": "Vietas, kas veido jūsu dienu",
+    "itineraryTitle": "Jūsu diena soli pa solim",
+    "itineraryCopy": "Precīza secība var mainīties organizatorisku iemeslu dēļ. Galīgais saņemšanas laiks un apstiprinātā programma tiek sniegta kopā ar rezervāciju.",
+    "knowBefore": "Kas jāzina pirms rezervācijas",
+    "includedTitle": "Iekļauts un nav iekļauts",
+    "bringTitle": "Dažas nepieciešamas lietas ērtai dienai",
+    "ready": "Kad esat gatavi",
+    "askAbout": "Jautāt par {trip}",
+    "bookingCopy": "Norādiet vēlamo datumu, viesnīcu un viesu skaitu. Šajā posmā tiešsaistes maksājums nav vajadzīgs.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Ceļojiet ar skaidrību",
+    "title": "Viss svarīgais ir viegli atrodams.",
+    "description": "Pieredze veidota ap jautājumiem, ko ceļotāji parasti vēlas noskaidrot pirms rezervācijas pieprasījuma nosūtīšanas.",
+    "pickup": "Saņemšana no viesnīcas",
+    "guides": "Profesionāli gidi",
+    "booking": "Vienkārša rezervācija",
+    "direct": "Tiešs kontakts",
+    "clear": "Skaidra informācija"
+  },
+  "how": {
+    "kicker": "Apzināti vienkārši",
+    "title": "No apskates līdz pieprasījumam dažu minūšu laikā.",
+    "description": "Pirmajā versijā nav vajadzīgs konts, sarežģīta apmaksa vai tiešsaistes maksājums. Vispirms izvēlieties ceļojumu.",
+    "choose": "Izvēlieties ceļojumu",
+    "date": "Izvēlieties datumu",
+    "confirm": "Apstipriniet informāciju"
+  },
+  "contact": {
+    "kicker": "Kontakti un rezervācija",
+    "title": "Gatavi plānot nākamo piedzīvojumu Hurgadā?",
+    "description": "Nosūtiet rezervācijas pieprasījumu, sazinieties tieši vai ātri pajautājiet WhatsApp.",
+    "choose": "Izvēlieties ceļojumu",
+    "whatsapp": "WhatsApp pieejams",
+    "message": "Nosūtīt ziņu"
+  },
+  "trips": {
+    "kicker": "Ekskursijas no Hurgadas",
+    "title": "Atrodiet savu ceļojumu, neapmaldoties izvēlē.",
+    "description": "Izvēlieties kategoriju un atveriet interesējošo ceļojumu. Šīs izstrādes versijas cenas ir parauga cenas USD un ir rediģējamas administratora panelī.",
+    "samplePrice": "Parauga cena",
+    "viewTrip": "Skatīt ceļojumu",
+    "bookNow": "Rezervēt",
+    "empty": "Pašlaik ceļojumi nav pieejami. Lūdzu, pārbaudiet vēlāk."
+  },
+  "footer": {
+    "trips": "Ekskursijas",
+    "information": "Informācija",
+    "privacy": "Privātuma politika",
+    "terms": "Noteikumi",
+    "fromHurghada": "No Hurgadas",
+    "rights": "Visas tiesības aizsargātas.",
+    "fast": "Veidots ātrai ceļojumu atrašanai mobilajās ierīcēs.",
+    "redSea": "Sarkanās jūras un Ēģiptes piedzīvojumi"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultūra un vēsture",
+      "description": "Vienas dienas braucieni uz Kairu un Luksoru."
+    },
+    "islands": {
+      "label": "Salas un snorkelēšana",
+      "description": "Laivu dienas, pludmales un Sarkanās jūras rifi."
+    },
+    "diving": {
+      "label": "Niršana un jūra",
+      "description": "Niršana, snorkelēšana un ūdens aktivitātes."
+    },
+    "desert": {
+      "label": "Tuksnesis un piedzīvojumi",
+      "description": "Kvadracikli, safari un tuksneša pieredze."
+    },
+    "family": {
+      "label": "Ģimenei un pilsētai",
+      "description": "Vienkāršas aktivitātes, pilsētas apmeklējumi un ģimenes iespējas."
+    },
+    "private": {
+      "label": "Privātas ekskursijas",
+      "description": "Elastīga privāta pieredze jūsu grupai."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Privātuma politika",
+    "privacyIntro": "Mēs apkopojam tikai to informāciju, ko izvēlaties nosūtīt, uzdodot jautājumu vai iesniedzot rezervācijas pieprasījumu.",
+    "privacyData": "Tā var ietvert vārdu, kontaktinformāciju, valsti, viesnīcu, numura numuru ja norādīts, izvēlēto ceļojumu, vēlamo datumu, grupas lielumu un ziņu.",
+    "privacyUse": "Mēs izmantojam šo informāciju, lai atbildētu uz pieprasījumiem, organizētu izvēlēto ceļojumu, sazinātos par rezervācijām un droši uzturētu vietni.",
+    "privacySharing": "Mēs nepārdodam pieprasījumu datus. Informācija tiek kopīgota tikai tad, ja tas ir pamatoti nepieciešams pakalpojuma sniegšanai vai to pieprasa likums.",
+    "privacyRetention": "Dati tiek glabāti tikai tik ilgi, cik pamatoti nepieciešams pieprasījumiem, rezervācijām, darbības uzskaitei un piemērojamām juridiskām saistībām.",
+    "privacyRights": "Varat sazināties ar mums, lai uzzinātu par mūsu rīcībā esošajiem personas datiem, tos labotu vai pieprasītu dzēšanu saskaņā ar piemērojamiem noteikumiem.",
+    "termsTitle": "Noteikumi",
+    "termsIntro": "Šī vietne sniedz informāciju par ceļojumiem un iespēju nosūtīt jautājumus un rezervācijas pieprasījumus no Hurgadas.",
+    "termsBooking": "Veidlapas nosūtīšana pati par sevi nerada apstiprinātu rezervāciju. Rezervācija tiek apstiprināta tikai pēc pieejamības, detaļu un organizācijas saskaņošanas.",
+    "termsPrices": "Cenas, iekļautie pakalpojumi, grafiki un izvēles aktivitātes var mainīties. Galīgā cena un apstiprinātie pakalpojumi tiek paziņoti pirms rezervācijas pieņemšanas.",
+    "termsChanges": "Ceļojuma secība, saņemšanas laiki vai maršruta daļas var mainīties organizatorisku, laikapstākļu, drošības vai piegādātāju iemeslu dēļ. Par būtiskām izmaiņām paziņo, kad tās ir zināmas.",
+    "termsGuest": "Viesi ir atbildīgi par precīzu rezervācijas informāciju, drošības norādījumu ievērošanu un nepieciešamo dokumentu līdzi ņemšanu.",
+    "termsContact": "Ja kaut kas nav skaidrs, sazinieties ar mums pirms apstiprināšanas, lai galīgo programmu varētu saskaņot rakstiski."
+  },
+  "reviews": {
+    "kicker": "Viesu atsauksmes",
+    "title": "Īstas ceļotāju atsauksmes",
+    "tripTitle": "Atsauksmes par šo ceļojumu",
+    "description": "Šeit tiek rādītas tikai īstas klientu atsauksmes, kuras pievienojis un publicējis vietnes administrators."
+  },
+  "search": {
+    "label": "Meklēt ekskursijas",
+    "placeholder": "Meklējiet pēc ekskursijas, aktivitātes vai vietas",
+    "clear": "Notīrīt meklēšanu",
+    "noResults": "Nav ekskursiju, kas atbilst meklēšanai.",
+    "results": "Atrastas ekskursijas: {count}"
+  }
+}

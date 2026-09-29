@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "trips": "Excursii",
+    "contact": "Contact",
+    "book": "Rezervă acum",
+    "language": "Limbă",
+    "cairo": "Cairo",
+    "luxor": "Luxor",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul"
+  },
+  "hero": {
+    "title1": "Descoperă Egiptul",
+    "title2": "din Hurghada.",
+    "badge": "Excursii din Hurghada",
+    "description": "Descoperă Cairo, Luxor și Marea Roșie cu informații clare, cereri simple de rezervare și contact direct.",
+    "cairo": "Descoperă Cairo",
+    "luxor": "Descoperă Luxor",
+    "contact": "Contactează-ne",
+    "easy": "Cereri simple",
+    "mobile": "Design pentru mobil",
+    "local": "Excursii locale",
+    "featured": "Excursie recomandată",
+    "cairoDay": "Cairo într-o zi",
+    "cairoPlaces": "Piramide · Sfinx · Muzeu",
+    "destination": "Destinație",
+    "fromHurghada": "Din Hurghada"
+  },
+  "home": {
+    "popular": "Excursii populare",
+    "allTrips": "Vezi toate excursiile",
+    "title": "Cel mai simplu mod de a începe să explorezi din Hurghada.",
+    "description": "Începe cu cele mai cerute opțiuni. Pentru mai multe, pagina excursiilor este organizată în categorii simple."
+  },
+  "language": {
+    "title": "Limbă",
+    "search": "Caută limbi",
+    "all": "Toate limbile",
+    "current": "Limba curentă",
+    "close": "Închide"
+  },
+  "forms": {
+    "trip": "Excursie",
+    "selectTrip": "Alege excursia",
+    "preferredDate": "Data preferată",
+    "adults": "Adulți",
+    "children": "Copii",
+    "hotel": "Numele hotelului",
+    "roomOptional": "Numărul camerei — opțional",
+    "name": "Nume",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "country": "Țară",
+    "specialRequest": "Cerere specială",
+    "message": "Mesaj",
+    "generalEnquiry": "Solicitare generală",
+    "sending": "Se trimite…",
+    "sendBooking": "Trimite cererea de rezervare",
+    "sendMessage": "Trimite mesajul",
+    "bookingSuccess": "Cererea de rezervare a fost trimisă cu succes.",
+    "contactSuccess": "Mesajul a fost trimis cu succes.",
+    "sendError": "Nu se poate trimite acum. Încercați din nou sau folosiți WhatsApp.",
+    "bookingIntro": "Nu este necesară plata online. Trimite detaliile dorite și confirmă programul final direct cu echipa.",
+    "contactIntro": "Întreabă despre excursie, preluare, disponibilitate sau orice ai nevoie înainte de rezervare."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Solicitare zilnică",
+    "from": "De la",
+    "priceOnRequest": "Preț la cerere",
+    "bookTrip": "Rezervă excursia",
+    "viewItinerary": "Vezi itinerarul",
+    "gallery": "Galerie",
+    "highlights": "Puncte forte",
+    "itinerary": "Itinerar",
+    "included": "Inclus",
+    "notIncluded": "Neinclus",
+    "whatToBring": "Ce să aduceți",
+    "bookNow": "Rezervă acum",
+    "sendEnquiry": "Trimite solicitarea",
+    "contact": "Contact",
+    "galleryTitle": "O avanpremieră a experienței",
+    "galleryCopy": "Imaginile pot fi înlocuite din biblioteca de imagini a administratorului.",
+    "highlightsTitle": "Locurile care îți definesc ziua",
+    "itineraryTitle": "Ziua ta, pas cu pas",
+    "itineraryCopy": "Ordinea exactă se poate modifica din motive operaționale. Detaliile finale de preluare și programul confirmat sunt oferite odată cu rezervarea.",
+    "knowBefore": "De știut înainte de rezervare",
+    "includedTitle": "Inclus și neincluse",
+    "bringTitle": "Câteva lucruri esențiale pentru o zi confortabilă",
+    "ready": "Suntem gata când ești și tu",
+    "askAbout": "Întreabă despre {trip}",
+    "bookingCopy": "Spune-ne data preferată, hotelul și numărul de persoane. În această etapă nu este necesară plata online.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Călătorește cu claritate",
+    "title": "Tot ce contează, ușor de găsit.",
+    "description": "Experiența este construită în jurul întrebărilor pe care călătorii le au înainte de a trimite o cerere de rezervare.",
+    "pickup": "Preluare de la hotel",
+    "guides": "Ghizi profesioniști",
+    "booking": "Rezervare ușoară",
+    "direct": "Contact direct",
+    "clear": "Informații clare"
+  },
+  "how": {
+    "kicker": "Simplu prin design",
+    "title": "De la explorare la cerere în câteva minute.",
+    "description": "Fără cont, fără checkout complicat și fără plată online în prima versiune. Mai întâi te concentrezi pe excursie.",
+    "choose": "Alege excursia",
+    "date": "Alege data",
+    "confirm": "Confirmă detaliile"
+  },
+  "contact": {
+    "kicker": "Contact și rezervare",
+    "title": "Ești gata să planifici următoarea experiență în Hurghada?",
+    "description": "Trimite o cerere de rezervare, contactează-ne direct sau folosește WhatsApp pentru o întrebare rapidă.",
+    "choose": "Alege o excursie",
+    "whatsapp": "WhatsApp disponibil",
+    "message": "Trimite mesaj"
+  },
+  "trips": {
+    "kicker": "Excursii din Hurghada",
+    "title": "Găsește excursia fără să te pierzi în opțiuni.",
+    "description": "Alege o categorie și deschide excursia care te interesează. Prețurile USD din această versiune sunt exemple și se pot modifica din panoul admin.",
+    "samplePrice": "Preț orientativ",
+    "viewTrip": "Vezi excursia",
+    "bookNow": "Rezervă acum",
+    "empty": "Nu sunt excursii disponibile momentan. Verifică din nou mai târziu."
+  },
+  "footer": {
+    "trips": "Excursii",
+    "information": "Informații",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni",
+    "fromHurghada": "Din Hurghada",
+    "rights": "Toate drepturile rezervate.",
+    "fast": "Creat pentru descoperirea rapidă a excursiilor pe mobil.",
+    "redSea": "Experiențe la Marea Roșie și în Egipt"
+  },
+  "categories": {
+    "culture": {
+      "label": "Cultură și istorie",
+      "description": "Excursii de o zi la Cairo și Luxor."
+    },
+    "islands": {
+      "label": "Insule și snorkeling",
+      "description": "Plimbări cu barca, plaje și recife în Marea Roșie."
+    },
+    "diving": {
+      "label": "Scufundări și mare",
+      "description": "Scufundări, snorkeling și activități acvatice."
+    },
+    "desert": {
+      "label": "Deșert și aventură",
+      "description": "Quad, safari și experiențe în deșert."
+    },
+    "family": {
+      "label": "Familie și oraș",
+      "description": "Activități ușoare, vizite urbane și opțiuni pentru familie."
+    },
+    "private": {
+      "label": "Excursii private",
+      "description": "Experiențe private flexibile pentru grupul tău."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Politica de confidențialitate",
+    "privacyIntro": "Colectăm doar informațiile pe care alegi să le trimiți când pui o întrebare sau soliciți o rezervare.",
+    "privacyData": "Pot include numele, datele de contact, țara, hotelul, camera dacă este furnizată, excursia, data, grupul și mesajul.",
+    "privacyUse": "Folosim datele pentru răspunsuri, organizarea serviciului, comunicarea rezervărilor și funcționarea sigură a site-ului.",
+    "privacySharing": "Nu vindem datele. Le partajăm doar când este necesar pentru serviciu sau cerut de lege.",
+    "privacyRetention": "Păstrăm înregistrările doar cât este necesar pentru cereri, rezervări, operațiuni și obligații legale.",
+    "privacyRights": "Ne poți contacta pentru acces, corectare sau ștergerea datelor personale, conform legii aplicabile.",
+    "termsTitle": "Termeni",
+    "termsIntro": "Site-ul oferă informații despre excursii și permite trimiterea de întrebări și cereri de rezervare din Hurghada.",
+    "termsBooking": "Trimiterea formularului nu confirmă singură rezervarea. Confirmarea are loc după stabilirea detaliilor, disponibilității și aranjamentelor.",
+    "termsPrices": "Prețurile, serviciile incluse, programul și activitățile opționale se pot schimba. Prețul final este comunicat înainte de acceptare.",
+    "termsChanges": "Ordinea, orele de preluare sau părți ale itinerariului se pot schimba din motive operaționale, meteo, de siguranță sau furnizor.",
+    "termsGuest": "Oaspeții trebuie să ofere date corecte, să respecte instrucțiunile de siguranță și să aibă documentele necesare.",
+    "termsContact": "Dacă ceva nu este clar, contactează-ne înainte de confirmare pentru a conveni programul final în scris."
+  },
+  "reviews": {
+    "kicker": "Recenziile oaspeților",
+    "title": "Păreri reale de la călători",
+    "tripTitle": "Recenzii pentru această excursie",
+    "description": "Aici sunt afișate doar recenzii provenite din feedback real al clienților și publicate de administratorul site-ului."
+  },
+  "search": {
+    "label": "Caută excursii",
+    "placeholder": "Caută după excursie, activitate sau loc",
+    "clear": "Șterge căutarea",
+    "noResults": "Nicio excursie nu corespunde căutării.",
+    "results": "Excursii găsite: {count}"
+  }
+}

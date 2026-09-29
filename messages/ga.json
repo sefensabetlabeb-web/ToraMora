@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Baile",
+    "trips": "Turais",
+    "contact": "Teagmháil",
+    "book": "Cuir in áirithe",
+    "language": "Teanga",
+    "cairo": "Caireo",
+    "luxor": "Luxor",
+    "openMenu": "Oscail an roghchlár",
+    "closeMenu": "Dún an roghchlár"
+  },
+  "hero": {
+    "title1": "Faigh amach an Éigipt",
+    "title2": "ó Hurghada.",
+    "badge": "Turais ó Hurghada",
+    "description": "Faigh amach Caireo, Luxor agus eispéiris na Mara Rua le sonraí soiléire, iarratais áirithinte simplí agus cumarsáid dhíreach do thaistealaithe.",
+    "cairo": "Fiosraigh Caireo",
+    "luxor": "Fiosraigh Luxor",
+    "contact": "Déan teagmháil linn",
+    "easy": "Fiosruithe éasca",
+    "mobile": "Dearadh do ghuthán",
+    "local": "Turais áitiúla",
+    "featured": "Turas molta",
+    "cairoDay": "Caireo in aon lá amháin",
+    "cairoPlaces": "Pirimidí · Sphinx · Músaem",
+    "destination": "Ceann scríbe",
+    "fromHurghada": "Ó Hurghada"
+  },
+  "home": {
+    "popular": "Turais mhóréilimh",
+    "allTrips": "Féach gach turas",
+    "title": "An bealach is éasca le tosú ag taiscéaladh ó Hurghada.",
+    "description": "Tosaigh leis na roghanna is mó éilimh. Má theastaíonn níos mó uait, tá leathanach na dturas iomlán eagraithe i gcatagóirí simplí."
+  },
+  "language": {
+    "title": "Teanga",
+    "search": "Cuardaigh teangacha",
+    "all": "Gach teanga",
+    "current": "Teanga reatha",
+    "close": "Dún"
+  },
+  "forms": {
+    "trip": "Turas",
+    "selectTrip": "Roghnaigh turas",
+    "preferredDate": "Dáta roghnaithe",
+    "adults": "Daoine fásta",
+    "children": "Leanaí",
+    "hotel": "Ainm an óstáin",
+    "roomOptional": "Uimhir seomra — roghnach",
+    "name": "Ainm",
+    "phone": "Fón",
+    "email": "Ríomhphost",
+    "country": "Tír",
+    "specialRequest": "Iarratas speisialta",
+    "message": "Teachtaireacht",
+    "generalEnquiry": "Fiosrúchán ginearálta",
+    "sending": "Á sheoladh…",
+    "sendBooking": "Seol iarratas á áirithint",
+    "sendMessage": "Seol teachtaireacht",
+    "bookingSuccess": "Seoladh an t-iarratas á áirithint.",
+    "contactSuccess": "Seoladh an teachtaireacht.",
+    "sendError": "Ní féidir seoladh anois. Bain triail eile as nó úsáid WhatsApp.",
+    "bookingIntro": "Ní gá íocaíocht ar líne. Seol na sonraí is fearr leat agus deimhnigh an clár deiridh go díreach leis an bhfoireann.",
+    "contactIntro": "Fiafraigh faoi thuras, bailiú, infhaighteacht nó aon rud atá uait roimh áirithint."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Fiosrúchán laethúil",
+    "from": "Ó",
+    "priceOnRequest": "Praghas ar iarratas",
+    "bookTrip": "Cuir an turas seo in áirithe",
+    "viewItinerary": "Féach ar an gclár",
+    "gallery": "Gailearaí",
+    "highlights": "Buaicphointí",
+    "itinerary": "Clár",
+    "included": "San áireamh",
+    "notIncluded": "Níl san áireamh",
+    "whatToBring": "Cad ba chóir a thabhairt",
+    "bookNow": "Cuir in áirithe",
+    "sendEnquiry": "Seol fiosrúchán",
+    "contact": "Teagmháil",
+    "galleryTitle": "Réamhamharc ar an eispéireas",
+    "galleryCopy": "Is féidir na híomhánna réamhamhairc a athsholáthar ó leabharlann íomhánna an riaracháin.",
+    "highlightsTitle": "Na háiteanna a chruthaíonn do lá",
+    "itineraryTitle": "Do lá, céim ar chéim",
+    "itineraryCopy": "D’fhéadfadh an t-ord cruinn athrú ar chúiseanna oibríochtúla. Cuirtear na sonraí bailithe deiridh agus an clár deimhnithe ar fáil le d’áirithint.",
+    "knowBefore": "Eolas roimh áirithint",
+    "includedTitle": "San áireamh agus nach bhfuil san áireamh",
+    "bringTitle": "Cúpla rud riachtanach do lá compordach",
+    "ready": "Nuair atá tú réidh",
+    "askAbout": "Fiafraigh faoi {trip}",
+    "bookingCopy": "Inis dúinn do dháta roghnaithe, d’óstán agus líon na n-aíonna. Ní gá íocaíocht ar líne ag an gcéim seo.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Taisteal le soiléireacht",
+    "title": "Gach rud tábhachtach, furasta a aimsiú.",
+    "description": "Tá an taithí deartha timpeall ar na ceisteanna a bhíonn ag taistealaithe de ghnáth sula seolann siad iarratas áirithinte.",
+    "pickup": "Bailiú ón óstán",
+    "guides": "Treoraithe gairmiúla",
+    "booking": "Áirithint éasca",
+    "direct": "Teagmháil dhíreach",
+    "clear": "Eolas soiléir"
+  },
+  "how": {
+    "kicker": "Simplí de réir dearaidh",
+    "title": "Ó bhrabhsáil go fiosrú i gceann cúpla nóiméad.",
+    "description": "Gan chuntas, gan seiceáil amach chasta agus gan íocaíocht ar líne sa chéad leagan. Roghnaigh an turas ar dtús.",
+    "choose": "Roghnaigh do thuras",
+    "date": "Roghnaigh do dháta",
+    "confirm": "Deimhnigh na sonraí"
+  },
+  "contact": {
+    "kicker": "Teagmháil agus áirithint",
+    "title": "Réidh le do chéad eispéireas eile i Hurghada a phleanáil?",
+    "description": "Seol iarratas áirithinte, déan teagmháil linn go díreach nó cuir ceist thapa ar WhatsApp.",
+    "choose": "Roghnaigh turas",
+    "whatsapp": "WhatsApp ar fáil",
+    "message": "Seol teachtaireacht"
+  },
+  "trips": {
+    "kicker": "Turais ó Hurghada",
+    "title": "Aimsigh do thuras gan dul amú sna roghanna.",
+    "description": "Roghnaigh catagóir shimplí agus ansin oscail an turas a bhfuil suim agat ann. Is praghsanna samplacha USD iad praghsanna an leagain forbartha seo agus is féidir iad a chur in eagar sa phainéal riaracháin.",
+    "samplePrice": "Praghas samplach",
+    "viewTrip": "Féach ar an turas",
+    "bookNow": "Cuir in áirithe anois",
+    "empty": "Níl aon turais ar fáil faoi láthair. Seiceáil arís níos déanaí."
+  },
+  "footer": {
+    "trips": "Turais",
+    "information": "Eolas",
+    "privacy": "Polasaí príobháideachta",
+    "terms": "Téarmaí",
+    "fromHurghada": "Ó Hurghada",
+    "rights": "Gach ceart ar cosaint.",
+    "fast": "Tógtha chun turais a aimsiú go tapa ar ghléasanna soghluaiste.",
+    "redSea": "Eispéiris na Mara Rua agus na hÉigipte"
+  },
+  "categories": {
+    "culture": {
+      "label": "Cultúr agus stair",
+      "description": "Turais lae go Caireo agus Luxor."
+    },
+    "islands": {
+      "label": "Oileáin agus snorcláil",
+      "description": "Laethanta báid, tránna agus sceireacha na Mara Rua."
+    },
+    "diving": {
+      "label": "Tumadóireacht agus an fharraige",
+      "description": "Tumadóireacht, snorcláil agus gníomhaíochtaí uisce."
+    },
+    "desert": {
+      "label": "Fásach agus eachtraíocht",
+      "description": "Quadanna, safari agus eispéiris fhásaigh."
+    },
+    "family": {
+      "label": "Teaghlach agus cathair",
+      "description": "Gníomhaíochtaí éasca, cuairteanna cathrach agus roghanna teaghlaigh."
+    },
+    "private": {
+      "label": "Turais phríobháideacha",
+      "description": "Eispéiris phríobháideacha sholúbtha do do ghrúpa."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Polasaí príobháideachta",
+    "privacyIntro": "Ní bhailímid ach an fhaisnéis a roghnaíonn tú a sheoladh nuair a chuireann tú ceist nó iarratas áirithinte isteach.",
+    "privacyData": "D’fhéadfadh d’ainm, sonraí teagmhála, tír, óstán, uimhir seomra má thugtar í, an turas roghnaithe, an dáta is fearr leat, méid an ghrúpa agus do theachtaireacht a bheith san áireamh.",
+    "privacyUse": "Úsáidimid an fhaisnéis seo chun fiosruithe a fhreagairt, sonraí an turais a eagrú, cumarsáid a dhéanamh faoi áirithintí agus an suíomh a oibriú go slán.",
+    "privacySharing": "Ní dhíolaimid sonraí fiosrúcháin. Ní roinntear faisnéis ach nuair atá sí riachtanach go réasúnta chun an tseirbhís iarrtha a láimhseáil nó nuair a éilíonn an dlí é.",
+    "privacyRetention": "Coinnítear taifid chomh fada agus atá gá réasúnta leo le haghaidh fiosruithe, áirithintí, taifid oibríochtúla agus oibleagáidí dlíthiúla infheidhme.",
+    "privacyRights": "Is féidir leat teagmháil a dhéanamh linn chun ceist a chur faoi, ceartú a iarraidh nó scriosadh sonraí pearsanta atá againn a iarraidh, faoi réir na gceanglas dlíthiúil infheidhme.",
+    "termsTitle": "Téarmaí",
+    "termsIntro": "Soláthraíonn an suíomh seo faisnéis faoi thurais agus bealach chun fiosruithe agus iarratais áirithinte a sheoladh ó Hurghada.",
+    "termsBooking": "Ní chruthaíonn foirm a sheoladh áirithint dheimhnithe léi féin. Ní dheimhnítear áirithint go dtí go ndeimhnítear infhaighteacht, sonraí deiridh agus socruithe leat.",
+    "termsPrices": "D’fhéadfadh praghsanna, ábhair san áireamh, sceidil agus gníomhaíochtaí roghnacha athrú. Tugtar an praghas deiridh agus na hábhair dheimhnithe duit sula nglacann tú leis an áirithint.",
+    "termsChanges": "D’fhéadfadh ord an turais, amanna bailithe nó codanna den chlár athrú ar chúiseanna oibríochtúla, aimsire, sábháilteachta nó soláthraithe. Ba cheart athruithe suntasacha a chur in iúl nuair a bhíonn siad ar eolas.",
+    "termsGuest": "Tá aíonna freagrach as faisnéis chruinn áirithinte a sholáthar, treoracha sábháilteachta a leanúint agus aon doiciméid riachtanacha a iompar.",
+    "termsContact": "Mura bhfuil rud éigin soiléir, déan teagmháil linn sula ndeimhníonn tú ionas gur féidir an clár deiridh a aontú i scríbhinn."
+  },
+  "reviews": {
+    "kicker": "Léirmheasanna aíonna",
+    "title": "Aiseolas fíor ó thaistealaithe",
+    "tripTitle": "Léirmheasanna don turas seo",
+    "description": "Ní thaispeántar anseo ach léirmheasanna fíor ó chustaiméirí a chuir riarthóir an tsuímh leis agus a d’fhoilsigh sé."
+  },
+  "search": {
+    "label": "Cuardaigh turais",
+    "placeholder": "Cuardaigh de réir turais, gníomhaíochta nó áite",
+    "clear": "Glan an cuardach",
+    "noResults": "Níor aimsíodh turais a oireann don chuardach.",
+    "results": "Aimsíodh {count} turas"
+  }
+}

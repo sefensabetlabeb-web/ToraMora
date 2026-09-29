@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "trips": "Excursions",
+    "contact": "Contact",
+    "book": "Réserver",
+    "language": "Langue",
+    "cairo": "Le Caire",
+    "luxor": "Louxor",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "hero": {
+    "title1": "Découvrez l’Égypte",
+    "title2": "depuis Hurghada.",
+    "badge": "Excursions au départ d’Hurghada",
+    "description": "Découvrez Le Caire, Louxor et la mer Rouge avec des informations claires, des demandes de réservation simples et un contact direct pensé pour les voyageurs mobiles.",
+    "cairo": "Découvrir Le Caire",
+    "luxor": "Découvrir Louxor",
+    "contact": "Nous contacter",
+    "easy": "Demandes simples",
+    "mobile": "Conçu pour mobile",
+    "local": "Excursions locales",
+    "featured": "Voyage vedette",
+    "cairoDay": "Le Caire en une journée",
+    "cairoPlaces": "Pyramides · Sphinx · Musée",
+    "destination": "Destination",
+    "fromHurghada": "Au départ d’Hurghada"
+  },
+  "home": {
+    "popular": "Excursions populaires",
+    "allTrips": "Voir toutes les excursions",
+    "title": "La façon la plus simple de partir à la découverte depuis Hurghada.",
+    "description": "Commencez par les options les plus demandées. Pour aller plus loin, toutes les excursions sont classées par catégories simples."
+  },
+  "language": {
+    "title": "Langue",
+    "search": "Rechercher une langue",
+    "all": "Toutes les langues",
+    "current": "Langue actuelle",
+    "close": "Fermer"
+  },
+  "forms": {
+    "trip": "Excursion",
+    "selectTrip": "Choisir une excursion",
+    "preferredDate": "Date souhaitée",
+    "adults": "Adultes",
+    "children": "Enfants",
+    "hotel": "Nom de l’hôtel",
+    "roomOptional": "Numéro de chambre — facultatif",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "country": "Pays",
+    "specialRequest": "Demande spéciale",
+    "message": "Message",
+    "generalEnquiry": "Demande générale",
+    "sending": "Envoi…",
+    "sendBooking": "Envoyer la demande de réservation",
+    "sendMessage": "Envoyer le message",
+    "bookingSuccess": "Demande de réservation envoyée avec succès.",
+    "contactSuccess": "Message envoyé avec succès.",
+    "sendError": "Envoi impossible pour le moment. Réessayez ou contactez-nous sur WhatsApp.",
+    "bookingIntro": "Aucun paiement en ligne n’est requis. Envoyez vos préférences et confirmez le programme final directement avec l’équipe.",
+    "contactIntro": "Posez vos questions sur une excursion, la prise en charge, les disponibilités ou tout ce dont vous avez besoin avant de réserver."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Demande quotidienne",
+    "from": "À partir de",
+    "priceOnRequest": "Prix sur demande",
+    "bookTrip": "Réserver cette excursion",
+    "viewItinerary": "Voir l’itinéraire",
+    "gallery": "Galerie",
+    "highlights": "Points forts",
+    "itinerary": "Itinéraire",
+    "included": "Inclus",
+    "notIncluded": "Non inclus",
+    "whatToBring": "À apporter",
+    "bookNow": "Réserver",
+    "sendEnquiry": "Envoyer une demande",
+    "contact": "Contact",
+    "galleryTitle": "Un aperçu de l’expérience",
+    "galleryCopy": "Les images d’aperçu peuvent être remplacées depuis la médiathèque d’administration.",
+    "highlightsTitle": "Les lieux qui rythment votre journée",
+    "itineraryTitle": "Votre journée, étape par étape",
+    "itineraryCopy": "L’ordre exact peut changer pour des raisons opérationnelles. Les détails finaux de prise en charge et le programme confirmé sont fournis avec votre réservation.",
+    "knowBefore": "À savoir avant de réserver",
+    "includedTitle": "Inclus et non inclus",
+    "bringTitle": "Quelques essentiels pour une journée confortable",
+    "ready": "Prêt quand vous l’êtes",
+    "askAbout": "Demander des informations sur {trip}",
+    "bookingCopy": "Indiquez votre date souhaitée, votre hôtel et le nombre de participants. Aucun paiement en ligne n’est requis à ce stade.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Voyagez en toute clarté",
+    "title": "Tout l’essentiel, facile à trouver.",
+    "description": "L’expérience répond aux questions que les voyageurs se posent généralement avant d’envoyer une demande de réservation.",
+    "pickup": "Prise en charge à l’hôtel",
+    "guides": "Guides professionnels",
+    "booking": "Réservation facile",
+    "direct": "Contact direct",
+    "clear": "Informations claires"
+  },
+  "how": {
+    "kicker": "Simple par conception",
+    "title": "De la découverte à la demande en quelques minutes.",
+    "description": "Pas de compte, pas de paiement compliqué et aucun paiement en ligne dans la première version. Vous pouvez d’abord vous concentrer sur l’excursion.",
+    "choose": "Choisissez votre excursion",
+    "date": "Choisissez votre date",
+    "confirm": "Confirmez les détails"
+  },
+  "contact": {
+    "kicker": "Contact & réservation",
+    "title": "Prêt à organiser votre prochaine expérience à Hurghada ?",
+    "description": "Envoyez une demande de réservation, contactez-nous directement ou utilisez WhatsApp pour une question rapide.",
+    "choose": "Choisir une excursion",
+    "whatsapp": "WhatsApp disponible",
+    "message": "Envoyer un message"
+  },
+  "trips": {
+    "kicker": "Excursions depuis Hurghada",
+    "title": "Trouvez votre excursion sans vous perdre dans les choix.",
+    "description": "Choisissez une catégorie simple puis ouvrez l’excursion qui vous intéresse. Les prix en USD affichés dans cette version de développement sont des exemples modifiables depuis l’administration.",
+    "samplePrice": "Prix indicatif",
+    "viewTrip": "Voir l’excursion",
+    "bookNow": "Réserver",
+    "empty": "Aucune excursion n’est disponible pour le moment. Revenez plus tard."
+  },
+  "footer": {
+    "trips": "Excursions",
+    "information": "Informations",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions",
+    "fromHurghada": "Depuis Hurghada",
+    "rights": "Tous droits réservés.",
+    "fast": "Conçu pour découvrir rapidement les excursions sur mobile.",
+    "redSea": "Expériences mer Rouge & Égypte"
+  },
+  "categories": {
+    "culture": {
+      "label": "Culture & Histoire",
+      "description": "Excursions d’une journée au Caire et à Louxor."
+    },
+    "islands": {
+      "label": "Îles & Snorkeling",
+      "description": "Journées en bateau, plages et récifs de la mer Rouge."
+    },
+    "diving": {
+      "label": "Plongée & Mer",
+      "description": "Plongée, snorkeling et activités nautiques."
+    },
+    "desert": {
+      "label": "Désert & Aventure",
+      "description": "Quad, safari et expériences dans le désert."
+    },
+    "family": {
+      "label": "Famille & Ville",
+      "description": "Activités faciles, visites urbaines et options familiales."
+    },
+    "private": {
+      "label": "Excursions privées",
+      "description": "Expériences privées flexibles pour votre groupe."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Politique de confidentialité",
+    "privacyIntro": "Nous recueillons uniquement les informations que vous choisissez de nous envoyer lorsque vous posez une question ou soumettez une demande de réservation.",
+    "privacyData": "Cela peut inclure votre nom, vos coordonnées, votre pays, votre hôtel, le numéro de chambre si fourni, l’excursion choisie, la date souhaitée, la taille du groupe et votre message.",
+    "privacyUse": "Nous utilisons ces informations pour répondre aux demandes, organiser les détails du service demandé, communiquer au sujet des réservations et exploiter le site de manière sécurisée.",
+    "privacySharing": "Nous ne vendons pas les données de demande. Elles ne sont partagées que lorsque cela est raisonnablement nécessaire pour fournir le service demandé ou lorsque la loi l’exige.",
+    "privacyRetention": "Les données sont conservées uniquement pendant la durée raisonnablement nécessaire pour les demandes, réservations, dossiers opérationnels et obligations légales applicables.",
+    "privacyRights": "Vous pouvez nous contacter pour demander l’accès, la correction ou la suppression de vos données personnelles, sous réserve des exigences légales applicables.",
+    "termsTitle": "Conditions",
+    "termsIntro": "Ce site fournit des informations sur les excursions et un moyen d’envoyer des demandes et des demandes de réservation depuis Hurghada.",
+    "termsBooking": "L’envoi d’un formulaire ne constitue pas à lui seul une réservation confirmée. La réservation n’est confirmée qu’après validation directe des détails finaux, des disponibilités et des arrangements.",
+    "termsPrices": "Les prix, prestations, horaires et activités optionnelles peuvent changer. Le prix final et les prestations confirmées sont communiqués avant votre acceptation.",
+    "termsChanges": "L’ordre de l’excursion, les heures de prise en charge ou certaines étapes peuvent changer pour des raisons opérationnelles, météorologiques, de sécurité ou de fournisseur. Les changements importants sont communiqués lorsqu’ils sont connus.",
+    "termsGuest": "Les clients doivent fournir des informations exactes, respecter les consignes de sécurité et disposer des documents requis pour l’excursion choisie.",
+    "termsContact": "Si quelque chose n’est pas clair, contactez-nous avant confirmation afin que le programme final puisse être convenu par écrit."
+  },
+  "reviews": {
+    "kicker": "Avis des voyageurs",
+    "title": "De vrais avis de voyageurs",
+    "tripTitle": "Avis sur cette excursion",
+    "description": "Seuls les avis issus de véritables retours clients et publiés par l’administrateur du site sont affichés ici."
+  },
+  "search": {
+    "label": "Rechercher des excursions",
+    "placeholder": "Rechercher par excursion, activité ou lieu",
+    "clear": "Effacer la recherche",
+    "noResults": "Aucune excursion ne correspond à votre recherche.",
+    "results": "{count} excursions trouvées"
+  }
+}

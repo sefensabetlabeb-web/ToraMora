@@ -1,0 +1,61 @@
+Hurghada Journeys — Release Candidate
+=====================================
+
+هذه النسخة هي المرشح النهائي قبل الاعتماد.
+لم أضع عليها علامة Final Verified لأن الفحص الكامل المعتمد على npm يجب أن يعمل فعلياً على Windows عندك.
+
+عندما تصل إلى المنزل:
+
+1) فك ضغط الملف في مسار بسيط، مثال:
+   D:\HurghadaJourneys
+
+2) افتح المجلد واضغط مرتين على:
+   01_FULL_CHECK.cmd
+
+سيقوم تلقائياً بـ:
+- تثبيت Dependencies
+- Prisma Generate
+- Static Audit
+- Security Audit
+- Translation Audit
+- ESLint
+- TypeScript
+- Unit Tests
+- Production Build
+- Playwright Chromium
+- Desktop + Mobile E2E Tests
+
+3) إذا ظهرت:
+   ALL STAGE 15E CHECKS PASSED
+
+شغّل:
+   02_RUN_SITE.cmd
+
+ثم راجع الموقع على:
+   http://localhost:3000
+
+ولو أردت فتح لوحة الإدارة:
+   03_OPEN_ADMIN.cmd
+
+مهم:
+- لا تستخدم النسخة للإنتاج قبل نجاح 01_FULL_CHECK.cmd بالكامل.
+- إذا ظهر خطأ، انسخ أول Error كامل وأرسله لي كما هو. لا تحاول تعديلات عشوائية.
+- بيانات PostgreSQL وAdmin الحقيقية يجب وضعها في ملفات البيئة المحلية/الإنتاجية ولا تُرفع إلى Git.
+
+أشياء أوصي بمراجعتها بصرياً بعد نجاح الفحص:
+- الصفحة الرئيسية على الهاتف والكمبيوتر.
+- البحث بالألمانية والروسية والتركية.
+- صفحة Cairo وLuxor وOrange Bay وDiving.
+- WhatsApp من أكثر من رحلة.
+- Booking وContact.
+- تغيير اللغة أثناء وجودك داخل صفحة رحلة.
+- Admin: Trips / Messages / Bookings / Reviews / Images / Settings / Languages.
+- تعديل سعر أو اسم رحلة والتأكد أن التغيير يظهر في الموقع.
+
+الحالة الحالية:
+- Static Final Audit: PASS
+- Security Audit: PASS
+- Performance Audit: PASS
+- 39 Languages: complete interface coverage
+- Multilingual Search: implemented
+- Full npm/Build/E2E validation: pending Windows run because the build environment here cannot resolve registry.npmjs.org.

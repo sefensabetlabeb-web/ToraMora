@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Domov",
+    "trips": "Izleti",
+    "contact": "Kontakt",
+    "book": "Rezerviraj",
+    "language": "Jezik",
+    "cairo": "Kairo",
+    "luxor": "Luksor",
+    "openMenu": "Odpri meni",
+    "closeMenu": "Zapri meni"
+  },
+  "hero": {
+    "title1": "Odkrijte Egipt",
+    "title2": "iz Hurgade.",
+    "badge": "Izleti iz Hurgade",
+    "description": "Odkrijte Kairo, Luksor in Rdeče morje z jasnimi informacijami, preprostimi zahtevami za rezervacijo in neposrednim stikom.",
+    "cairo": "Odkrijte Kairo",
+    "luxor": "Odkrijte Luksor",
+    "contact": "Kontaktirajte nas",
+    "easy": "Preprosta povpraševanja",
+    "mobile": "Prilagojeno mobilnim napravam",
+    "local": "Lokalni izleti",
+    "featured": "Izpostavljen izlet",
+    "cairoDay": "Kairo v enem dnevu",
+    "cairoPlaces": "Piramide · Sfinga · Muzej",
+    "destination": "Destinacija",
+    "fromHurghada": "Iz Hurgade"
+  },
+  "home": {
+    "popular": "Priljubljeni izleti",
+    "allTrips": "Prikaži vse izlete",
+    "title": "Najpreprostejši način za raziskovanje iz Hurgade.",
+    "description": "Začnite z najbolj iskanimi možnostmi. Ostali izleti so urejeni v preproste kategorije."
+  },
+  "language": {
+    "title": "Jezik",
+    "search": "Išči jezike",
+    "all": "Vsi jeziki",
+    "current": "Trenutni jezik",
+    "close": "Zapri"
+  },
+  "forms": {
+    "trip": "Izlet",
+    "selectTrip": "Izberite izlet",
+    "preferredDate": "Želeni datum",
+    "adults": "Odrasli",
+    "children": "Otroci",
+    "hotel": "Ime hotela",
+    "roomOptional": "Številka sobe — neobvezno",
+    "name": "Ime",
+    "phone": "Telefon",
+    "email": "E-pošta",
+    "country": "Država",
+    "specialRequest": "Posebna želja",
+    "message": "Sporočilo",
+    "generalEnquiry": "Splošno povpraševanje",
+    "sending": "Pošiljanje…",
+    "sendBooking": "Pošlji zahtevo za rezervacijo",
+    "sendMessage": "Pošlji sporočilo",
+    "bookingSuccess": "Zahteva za rezervacijo je bila uspešno poslana.",
+    "contactSuccess": "Sporočilo je bilo uspešno poslano.",
+    "sendError": "Pošiljanje trenutno ni mogoče. Poskusite znova ali uporabite WhatsApp.",
+    "bookingIntro": "Spletno plačilo ni potrebno. Pošljite želene podatke in končni program potrdite neposredno z ekipo.",
+    "contactIntro": "Vprašajte o izletu, prevzemu, razpoložljivosti ali čemer koli pred rezervacijo."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Dnevno povpraševanje",
+    "from": "Od",
+    "priceOnRequest": "Cena na zahtevo",
+    "bookTrip": "Rezerviraj izlet",
+    "viewItinerary": "Prikaži program",
+    "gallery": "Galerija",
+    "highlights": "Poudarki",
+    "itinerary": "Program",
+    "included": "Vključeno",
+    "notIncluded": "Ni vključeno",
+    "whatToBring": "Kaj vzeti s seboj",
+    "bookNow": "Rezerviraj",
+    "sendEnquiry": "Pošlji povpraševanje",
+    "contact": "Kontakt",
+    "galleryTitle": "Predogled doživetja",
+    "galleryCopy": "Predogledne slike lahko zamenjate v knjižnici slik administracije.",
+    "highlightsTitle": "Kraji, ki oblikujejo vaš dan",
+    "itineraryTitle": "Vaš dan, korak za korakom",
+    "itineraryCopy": "Natančen vrstni red se lahko spremeni iz operativnih razlogov. Končne podatke o prevzemu in potrjen program prejmete z rezervacijo.",
+    "knowBefore": "Dobro je vedeti pred rezervacijo",
+    "includedTitle": "Vključeno in nevključeno",
+    "bringTitle": "Nekaj osnov za udoben dan",
+    "ready": "Pripravljeni smo, ko ste vi",
+    "askAbout": "Povprašajte o {trip}",
+    "bookingCopy": "Sporočite želeni datum, hotel in število gostov. Spletno plačilo v tej fazi ni potrebno.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Potujte z jasnimi informacijami",
+    "title": "Vse pomembno je lahko dostopno.",
+    "description": "Stran je zasnovana okoli vprašanj, ki jih popotniki običajno želijo razjasniti pred rezervacijo.",
+    "pickup": "Prevzem v hotelu",
+    "guides": "Profesionalni vodniki",
+    "booking": "Enostavna rezervacija",
+    "direct": "Neposreden stik",
+    "clear": "Jasne informacije"
+  },
+  "how": {
+    "kicker": "Namerno preprosto",
+    "title": "Od brskanja do povpraševanja v nekaj minutah.",
+    "description": "Brez računa, zapletenega nakupa ali spletnega plačila v prvi različici. Najprej se osredotočite na izlet.",
+    "choose": "Izberite izlet",
+    "date": "Izberite datum",
+    "confirm": "Potrdite podrobnosti"
+  },
+  "contact": {
+    "kicker": "Kontakt in rezervacija",
+    "title": "Pripravljeni na naslednje doživetje v Hurgadi?",
+    "description": "Pošljite zahtevo za rezervacijo, kontaktirajte nas neposredno ali uporabite WhatsApp za hitro vprašanje.",
+    "choose": "Izberite izlet",
+    "whatsapp": "WhatsApp je na voljo",
+    "message": "Pošlji sporočilo"
+  },
+  "trips": {
+    "kicker": "Izleti iz Hurgade",
+    "title": "Poiščite svoj izlet brez zmede med možnostmi.",
+    "description": "Izberite kategorijo in odprite zanimiv izlet. Cene v USD v razvojni različici so vzorčne in jih lahko uredite v administraciji.",
+    "samplePrice": "Vzorčna cena",
+    "viewTrip": "Poglej izlet",
+    "bookNow": "Rezerviraj",
+    "empty": "Trenutno ni razpoložljivih izletov. Preverite pozneje."
+  },
+  "footer": {
+    "trips": "Izleti",
+    "information": "Informacije",
+    "privacy": "Politika zasebnosti",
+    "terms": "Pogoji",
+    "fromHurghada": "Iz Hurgade",
+    "rights": "Vse pravice pridržane.",
+    "fast": "Ustvarjeno za hitro iskanje izletov na mobilniku.",
+    "redSea": "Doživetja ob Rdečem morju in v Egiptu"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura in zgodovina",
+      "description": "Enodnevni izleti v Kairo in Luksor."
+    },
+    "islands": {
+      "label": "Otoki in snorklanje",
+      "description": "Izleti z ladjo, plaže in grebeni Rdečega morja."
+    },
+    "diving": {
+      "label": "Potapljanje in morje",
+      "description": "Potapljanje, snorklanje in vodne aktivnosti."
+    },
+    "desert": {
+      "label": "Puščava in pustolovščina",
+      "description": "Štirikolesniki, safari in puščavska doživetja."
+    },
+    "family": {
+      "label": "Družina in mesto",
+      "description": "Lahke aktivnosti, mestni obiski in družinske možnosti."
+    },
+    "private": {
+      "label": "Zasebni izleti",
+      "description": "Prilagodljiva zasebna doživetja za vašo skupino."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Politika zasebnosti",
+    "privacyIntro": "Zbiramo samo podatke, ki jih sami pošljete pri vprašanju ali rezervaciji.",
+    "privacyData": "To so lahko ime, kontakt, država, hotel, soba, izlet, datum, velikost skupine in sporočilo.",
+    "privacyUse": "Podatke uporabljamo za odgovore, organizacijo storitve, komunikacijo o rezervacijah in varno delovanje strani.",
+    "privacySharing": "Podatkov ne prodajamo. Delimo jih le, ko je to potrebno za storitev ali zahtevano z zakonom.",
+    "privacyRetention": "Podatke hranimo le toliko časa, kolikor je razumno potrebno za povpraševanja, rezervacije, delovanje in pravne obveznosti.",
+    "privacyRights": "Lahko zahtevate dostop, popravek ali izbris osebnih podatkov skladno z veljavno zakonodajo.",
+    "termsTitle": "Pogoji",
+    "termsIntro": "Stran ponuja informacije o izletih in omogoča pošiljanje vprašanj ter zahtev za rezervacijo iz Hurgade.",
+    "termsBooking": "Oddaja obrazca sama po sebi ne pomeni potrjene rezervacije. Ta je potrjena po dogovoru o končnih podrobnostih in razpoložljivosti.",
+    "termsPrices": "Cene, vključene storitve, urniki in dodatne aktivnosti se lahko spremenijo. Končna cena je sporočena pred sprejemom.",
+    "termsChanges": "Vrstni red, čas prevzema ali deli programa se lahko spremenijo zaradi operativnih, vremenskih, varnostnih ali dobaviteljskih razlogov.",
+    "termsGuest": "Gostje so odgovorni za pravilne podatke, upoštevanje varnostnih navodil in potrebne dokumente.",
+    "termsContact": "Če kaj ni jasno, nas kontaktirajte pred potrditvijo, da se končni program dogovori pisno."
+  },
+  "reviews": {
+    "kicker": "Mnenja gostov",
+    "title": "Resnične izkušnje popotnikov",
+    "tripTitle": "Mnenja o tem izletu",
+    "description": "Tukaj so prikazana samo mnenja iz pristnih povratnih informacij strank, ki jih objavi skrbnik spletnega mesta."
+  },
+  "search": {
+    "label": "Iskanje izletov",
+    "placeholder": "Iščite po izletu, dejavnosti ali kraju",
+    "clear": "Počisti iskanje",
+    "noResults": "Noben izlet ne ustreza vašemu iskanju.",
+    "results": "Najdenih izletov: {count}"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "trips": "Wycieczki",
+    "contact": "Kontakt",
+    "book": "Zarezerwuj",
+    "language": "Język",
+    "cairo": "Kair",
+    "luxor": "Luksor",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "hero": {
+    "title1": "Odkryj Egipt",
+    "title2": "z Hurghady.",
+    "badge": "Wycieczki z Hurghady",
+    "description": "Odkrywaj Kair, Luksor i Morze Czerwone dzięki jasnym informacjom o wycieczkach, prostym zapytaniom rezerwacyjnym i bezpośredniemu kontaktowi.",
+    "cairo": "Odkryj Kair",
+    "luxor": "Odkryj Luksor",
+    "contact": "Skontaktuj się",
+    "easy": "Proste zapytania",
+    "mobile": "Projekt mobile-first",
+    "local": "Lokalne wycieczki",
+    "featured": "Polecana wycieczka",
+    "cairoDay": "Kair w jeden dzień",
+    "cairoPlaces": "Piramidy · Sfinks · Muzeum",
+    "destination": "Kierunek",
+    "fromHurghada": "Z Hurghady"
+  },
+  "home": {
+    "popular": "Popularne wycieczki",
+    "allTrips": "Zobacz wszystkie wycieczki",
+    "title": "Najprostszy sposób, by zacząć odkrywanie z Hurghady.",
+    "description": "Zacznij od najczęściej wybieranych opcji. Więcej wycieczek znajdziesz na stronie uporządkowanej w proste kategorie."
+  },
+  "language": {
+    "title": "Język",
+    "search": "Szukaj języków",
+    "all": "Wszystkie języki",
+    "current": "Aktualny język",
+    "close": "Zamknij"
+  },
+  "forms": {
+    "trip": "Wycieczka",
+    "selectTrip": "Wybierz wycieczkę",
+    "preferredDate": "Preferowana data",
+    "adults": "Dorośli",
+    "children": "Dzieci",
+    "hotel": "Nazwa hotelu",
+    "roomOptional": "Numer pokoju — opcjonalnie",
+    "name": "Imię i nazwisko",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "country": "Kraj",
+    "specialRequest": "Specjalna prośba",
+    "message": "Wiadomość",
+    "generalEnquiry": "Zapytanie ogólne",
+    "sending": "Wysyłanie…",
+    "sendBooking": "Wyślij prośbę o rezerwację",
+    "sendMessage": "Wyślij wiadomość",
+    "bookingSuccess": "Prośba o rezerwację została wysłana.",
+    "contactSuccess": "Wiadomość została wysłana.",
+    "sendError": "Nie można teraz wysłać. Spróbuj ponownie lub użyj WhatsApp.",
+    "bookingIntro": "Płatność online nie jest wymagana. Wyślij preferowane dane i potwierdź ostateczny program bezpośrednio z zespołem.",
+    "contactIntro": "Zapytaj o wycieczkę, odbiór, dostępność lub cokolwiek, czego potrzebujesz przed rezerwacją."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Zapytanie codzienne",
+    "from": "Od",
+    "priceOnRequest": "Cena na zapytanie",
+    "bookTrip": "Zarezerwuj tę wycieczkę",
+    "viewItinerary": "Zobacz plan",
+    "gallery": "Galeria",
+    "highlights": "Najważniejsze atrakcje",
+    "itinerary": "Plan wycieczki",
+    "included": "W cenie",
+    "notIncluded": "Nie obejmuje",
+    "whatToBring": "Co zabrać",
+    "bookNow": "Zarezerwuj",
+    "sendEnquiry": "Wyślij zapytanie",
+    "contact": "Kontakt",
+    "galleryTitle": "Podgląd doświadczenia",
+    "galleryCopy": "Zdjęcia podglądowe można zastąpić w bibliotece obrazów administratora.",
+    "highlightsTitle": "Miejsca, które tworzą Twój dzień",
+    "itineraryTitle": "Twój dzień krok po kroku",
+    "itineraryCopy": "Dokładna kolejność może zmienić się z przyczyn operacyjnych. Ostateczne szczegóły odbioru i potwierdzony program otrzymasz wraz z rezerwacją.",
+    "knowBefore": "Warto wiedzieć przed rezerwacją",
+    "includedTitle": "W cenie i poza ceną",
+    "bringTitle": "Kilka rzeczy na komfortowy dzień",
+    "ready": "Jesteśmy gotowi, kiedy Ty jesteś",
+    "askAbout": "Zapytaj o {trip}",
+    "bookingCopy": "Podaj preferowaną datę, hotel i liczbę gości. Na tym etapie płatność online nie jest wymagana.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Podróżuj z jasnymi zasadami",
+    "title": "Wszystko, co ważne, łatwo znaleźć.",
+    "description": "Strona odpowiada na pytania, które podróżni zwykle chcą wyjaśnić przed wysłaniem zapytania rezerwacyjnego.",
+    "pickup": "Odbiór z hotelu",
+    "guides": "Profesjonalni przewodnicy",
+    "booking": "Łatwa rezerwacja",
+    "direct": "Bezpośredni kontakt",
+    "clear": "Jasne informacje"
+  },
+  "how": {
+    "kicker": "Prosto z założenia",
+    "title": "Od przeglądania do zapytania w kilka minut.",
+    "description": "Bez konta, skomplikowanego checkoutu i płatności online w pierwszej wersji. Najpierw skupiasz się na wycieczce.",
+    "choose": "Wybierz wycieczkę",
+    "date": "Wybierz datę",
+    "confirm": "Potwierdź szczegóły"
+  },
+  "contact": {
+    "kicker": "Kontakt i rezerwacja",
+    "title": "Gotowy zaplanować kolejną przygodę w Hurghadzie?",
+    "description": "Wyślij zapytanie rezerwacyjne, skontaktuj się bezpośrednio lub użyj WhatsApp do szybkiego pytania.",
+    "choose": "Wybierz wycieczkę",
+    "whatsapp": "WhatsApp dostępny",
+    "message": "Wyślij wiadomość"
+  },
+  "trips": {
+    "kicker": "Wycieczki z Hurghady",
+    "title": "Znajdź wycieczkę bez gubienia się w opcjach.",
+    "description": "Wybierz prostą kategorię i otwórz interesującą wycieczkę. Ceny USD w tej wersji deweloperskiej są przykładowe i można je edytować w panelu administratora.",
+    "samplePrice": "Cena przykładowa",
+    "viewTrip": "Zobacz wycieczkę",
+    "bookNow": "Zarezerwuj",
+    "empty": "Obecnie nie ma dostępnych wycieczek. Sprawdź ponownie później."
+  },
+  "footer": {
+    "trips": "Wycieczki",
+    "information": "Informacje",
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki",
+    "fromHurghada": "Z Hurghady",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "fast": "Stworzone do szybkiego odkrywania wycieczek na telefonie.",
+    "redSea": "Morze Czerwone i Egipt"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultura i historia",
+      "description": "Jednodniowe wycieczki do Kairu i Luksoru."
+    },
+    "islands": {
+      "label": "Wyspy i snorkeling",
+      "description": "Rejsy, plaże i rafy Morza Czerwonego."
+    },
+    "diving": {
+      "label": "Nurkowanie i morze",
+      "description": "Nurkowanie, snorkeling i aktywności wodne."
+    },
+    "desert": {
+      "label": "Pustynia i przygoda",
+      "description": "Quady, safari i doświadczenia na pustyni."
+    },
+    "family": {
+      "label": "Rodzina i miasto",
+      "description": "Łatwe atrakcje, zwiedzanie miasta i opcje rodzinne."
+    },
+    "private": {
+      "label": "Wycieczki prywatne",
+      "description": "Elastyczne prywatne programy dla Twojej grupy."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Polityka prywatności",
+    "privacyIntro": "Zbieramy tylko informacje, które samodzielnie przesyłasz, zadając pytanie lub wysyłając zapytanie rezerwacyjne.",
+    "privacyData": "Mogą obejmować imię, dane kontaktowe, kraj, hotel, numer pokoju jeśli podany, wybraną wycieczkę, preferowaną datę, liczebność grupy i wiadomość.",
+    "privacyUse": "Używamy tych danych, aby odpowiadać na zapytania, organizować szczegóły usługi, komunikować się w sprawie rezerwacji i bezpiecznie prowadzić stronę.",
+    "privacySharing": "Nie sprzedajemy danych z zapytań. Informacje udostępniamy tylko wtedy, gdy jest to rozsądnie konieczne do realizacji zamówionej usługi lub wymagane prawem.",
+    "privacyRetention": "Dane przechowujemy tylko tak długo, jak jest to rozsądnie potrzebne do obsługi zapytań, rezerwacji, dokumentacji operacyjnej i obowiązków prawnych.",
+    "privacyRights": "Możesz skontaktować się z nami, aby poprosić o dostęp, poprawienie lub usunięcie swoich danych osobowych, z uwzględnieniem obowiązujących wymogów prawnych.",
+    "termsTitle": "Warunki",
+    "termsIntro": "Ta strona przedstawia informacje o wycieczkach i umożliwia wysyłanie zapytań oraz próśb o rezerwację z Hurghady.",
+    "termsBooking": "Samo wysłanie formularza nie tworzy potwierdzonej rezerwacji. Rezerwacja jest potwierdzona dopiero po bezpośrednim uzgodnieniu końcowych szczegółów, dostępności i warunków.",
+    "termsPrices": "Ceny, zakres świadczeń, harmonogramy i zajęcia opcjonalne mogą się zmieniać. Ostateczna cena i potwierdzony zakres są podawane przed zaakceptowaniem rezerwacji.",
+    "termsChanges": "Kolejność programu, godziny odbioru lub części trasy mogą się zmienić z powodów operacyjnych, pogodowych, bezpieczeństwa lub po stronie dostawców. Istotne zmiany będą przekazywane, gdy będą znane.",
+    "termsGuest": "Goście odpowiadają za podanie poprawnych danych, przestrzeganie zasad bezpieczeństwa i posiadanie dokumentów wymaganych na wybraną wycieczkę.",
+    "termsContact": "Jeśli coś jest niejasne, skontaktuj się z nami przed potwierdzeniem, aby końcowy program mógł zostać uzgodniony na piśmie."
+  },
+  "reviews": {
+    "kicker": "Opinie gości",
+    "title": "Prawdziwe opinie podróżnych",
+    "tripTitle": "Opinie o tej wycieczce",
+    "description": "Wyświetlamy tu wyłącznie opinie pochodzące z prawdziwych informacji zwrotnych od klientów i opublikowane przez administratora strony."
+  },
+  "search": {
+    "label": "Szukaj wycieczek",
+    "placeholder": "Szukaj według wycieczki, atrakcji lub miejsca",
+    "clear": "Wyczyść wyszukiwanie",
+    "noResults": "Brak wycieczek pasujących do wyszukiwania.",
+    "results": "Znaleziono: {count}"
+  }
+}

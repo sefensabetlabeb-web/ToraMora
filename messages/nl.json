@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "trips": "Excursies",
+    "contact": "Contact",
+    "book": "Nu boeken",
+    "language": "Taal",
+    "cairo": "Caïro",
+    "luxor": "Luxor",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
+  },
+  "hero": {
+    "title1": "Ontdek Egypte",
+    "title2": "vanuit Hurghada.",
+    "badge": "Excursies vanuit Hurghada",
+    "description": "Ontdek Caïro, Luxor en de Rode Zee met duidelijke reisinformatie, eenvoudige boekingsaanvragen en rechtstreeks contact voor reizigers onderweg.",
+    "cairo": "Ontdek Caïro",
+    "luxor": "Ontdek Luxor",
+    "contact": "Neem contact op",
+    "easy": "Eenvoudige aanvragen",
+    "mobile": "Mobile-first ontwerp",
+    "local": "Lokale excursies",
+    "featured": "Uitgelichte reis",
+    "cairoDay": "Caïro in één dag",
+    "cairoPlaces": "Piramides · Sfinx · Museum",
+    "destination": "Bestemming",
+    "fromHurghada": "Vanuit Hurghada"
+  },
+  "home": {
+    "popular": "Populaire excursies",
+    "allTrips": "Bekijk alle excursies",
+    "title": "De eenvoudigste manier om vanuit Hurghada op ontdekking te gaan.",
+    "description": "Begin met de populairste opties. Voor meer keuze is de volledige excursiepagina overzichtelijk ingedeeld in categorieën."
+  },
+  "language": {
+    "title": "Taal",
+    "search": "Talen zoeken",
+    "all": "Alle talen",
+    "current": "Huidige taal",
+    "close": "Sluiten"
+  },
+  "forms": {
+    "trip": "Excursie",
+    "selectTrip": "Kies een excursie",
+    "preferredDate": "Gewenste datum",
+    "adults": "Volwassenen",
+    "children": "Kinderen",
+    "hotel": "Hotelnaam",
+    "roomOptional": "Kamernummer — optioneel",
+    "name": "Naam",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "country": "Land",
+    "specialRequest": "Speciale aanvraag",
+    "message": "Bericht",
+    "generalEnquiry": "Algemene vraag",
+    "sending": "Verzenden…",
+    "sendBooking": "Boekingsaanvraag verzenden",
+    "sendMessage": "Bericht verzenden",
+    "bookingSuccess": "Boekingsaanvraag succesvol verzonden.",
+    "contactSuccess": "Bericht succesvol verzonden.",
+    "sendError": "Verzenden lukt nu niet. Probeer opnieuw of gebruik WhatsApp.",
+    "bookingIntro": "Online betalen is niet nodig. Stuur je voorkeursgegevens en bevestig het definitieve programma rechtstreeks met het team.",
+    "contactIntro": "Vraag naar een excursie, ophalen, beschikbaarheid of alles wat je wilt weten voordat je boekt."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Dagelijkse aanvraag",
+    "from": "Vanaf",
+    "priceOnRequest": "Prijs op aanvraag",
+    "bookTrip": "Deze excursie boeken",
+    "viewItinerary": "Route bekijken",
+    "gallery": "Galerij",
+    "highlights": "Hoogtepunten",
+    "itinerary": "Programma",
+    "included": "Inbegrepen",
+    "notIncluded": "Niet inbegrepen",
+    "whatToBring": "Wat meenemen",
+    "bookNow": "Nu boeken",
+    "sendEnquiry": "Aanvraag sturen",
+    "contact": "Contact",
+    "galleryTitle": "Een voorproefje van de ervaring",
+    "galleryCopy": "Voorbeeldafbeeldingen kunnen worden vervangen via de afbeeldingsbibliotheek in het beheer.",
+    "highlightsTitle": "De plekken die je dag bepalen",
+    "itineraryTitle": "Je dag, stap voor stap",
+    "itineraryCopy": "De exacte volgorde kan om operationele redenen wijzigen. Definitieve ophaaldetails en het bevestigde programma ontvang je bij je boeking.",
+    "knowBefore": "Goed om te weten vóór je boekt",
+    "includedTitle": "Inbegrepen en niet inbegrepen",
+    "bringTitle": "Een paar benodigdheden voor een comfortabele dag",
+    "ready": "Wij zijn klaar wanneer jij dat bent",
+    "askAbout": "Vraag naar {trip}",
+    "bookingCopy": "Vertel ons je gewenste datum, hotel en aantal gasten. In deze fase is geen online betaling nodig.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Reis met duidelijkheid",
+    "title": "Alles wat belangrijk is, makkelijk te vinden.",
+    "description": "De ervaring is opgebouwd rond de vragen die reizigers meestal beantwoord willen hebben voordat ze een boekingsaanvraag sturen.",
+    "pickup": "Ophalen bij hotel",
+    "guides": "Professionele gidsen",
+    "booking": "Eenvoudig boeken",
+    "direct": "Direct contact",
+    "clear": "Duidelijke informatie"
+  },
+  "how": {
+    "kicker": "Bewust eenvoudig",
+    "title": "Van bekijken naar aanvragen in enkele minuten.",
+    "description": "Geen account, geen ingewikkelde checkout en in de eerste versie geen online betaling. Eerst kies je de excursie die bij je past.",
+    "choose": "Kies je excursie",
+    "date": "Kies je datum",
+    "confirm": "Bevestig de details"
+  },
+  "contact": {
+    "kicker": "Contact & boeken",
+    "title": "Klaar om je volgende ervaring in Hurghada te plannen?",
+    "description": "Stuur een boekingsaanvraag, neem direct contact op of gebruik WhatsApp voor een snelle vraag.",
+    "choose": "Kies een excursie",
+    "whatsapp": "WhatsApp beschikbaar",
+    "message": "Stuur een bericht"
+  },
+  "trips": {
+    "kicker": "Excursies vanuit Hurghada",
+    "title": "Vind je excursie zonder te verdwalen in keuzes.",
+    "description": "Kies een eenvoudige categorie en open de excursie die je interesseert. De USD-prijzen in deze ontwikkelversie zijn voorbeeldprijzen en kunnen via het beheerpaneel worden aangepast.",
+    "samplePrice": "Voorbeeldprijs",
+    "viewTrip": "Bekijk excursie",
+    "bookNow": "Nu boeken",
+    "empty": "Er zijn momenteel geen excursies beschikbaar. Kijk later opnieuw."
+  },
+  "footer": {
+    "trips": "Excursies",
+    "information": "Informatie",
+    "privacy": "Privacybeleid",
+    "terms": "Voorwaarden",
+    "fromHurghada": "Vanuit Hurghada",
+    "rights": "Alle rechten voorbehouden.",
+    "fast": "Gebouwd voor snelle, mobiele ontdekking van excursies.",
+    "redSea": "Rode Zee & Egypte-ervaringen"
+  },
+  "categories": {
+    "culture": {
+      "label": "Cultuur & geschiedenis",
+      "description": "Dagtochten naar Caïro en Luxor."
+    },
+    "islands": {
+      "label": "Eilanden & snorkelen",
+      "description": "Bootdagen, stranden en riffen van de Rode Zee."
+    },
+    "diving": {
+      "label": "Duiken & zee",
+      "description": "Duiken, snorkelen en wateractiviteiten."
+    },
+    "desert": {
+      "label": "Woestijn & avontuur",
+      "description": "Quad, safari en woestijnervaringen."
+    },
+    "family": {
+      "label": "Familie & stad",
+      "description": "Toegankelijke activiteiten, stadsbezoeken en gezinsopties."
+    },
+    "private": {
+      "label": "Privé-excursies",
+      "description": "Flexibele privé-ervaringen voor je groep."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Privacybeleid",
+    "privacyIntro": "We verzamelen alleen informatie die je zelf verzendt wanneer je een vraag stelt of een boekingsaanvraag indient.",
+    "privacyData": "Dit kan je naam, contactgegevens, land, hotel, kamernummer indien opgegeven, gekozen excursie, gewenste datum, groepsgrootte en bericht omvatten.",
+    "privacyUse": "We gebruiken deze informatie om vragen te beantwoorden, gevraagde reisdetails te regelen, over boekingen te communiceren en de website veilig te beheren.",
+    "privacySharing": "We verkopen geen aanvraaggegevens. Informatie wordt alleen gedeeld wanneer dat redelijkerwijs nodig is voor de gevraagde dienst of wettelijk verplicht is.",
+    "privacyRetention": "Gegevens worden alleen bewaard zolang dat redelijkerwijs nodig is voor aanvragen, boekingen, operationele administratie en toepasselijke wettelijke verplichtingen.",
+    "privacyRights": "Je kunt contact opnemen om inzage, correctie of verwijdering van je persoonsgegevens te vragen, voor zover de toepasselijke wet dit toestaat.",
+    "termsTitle": "Voorwaarden",
+    "termsIntro": "Deze website geeft informatie over excursies en biedt een manier om vragen en boekingsaanvragen vanuit Hurghada te versturen.",
+    "termsBooking": "Het versturen van een formulier vormt op zichzelf geen bevestigde boeking. Een boeking is pas bevestigd nadat definitieve details, beschikbaarheid en afspraken rechtstreeks met jou zijn bevestigd.",
+    "termsPrices": "Prijzen, inbegrepen onderdelen, schema’s en optionele activiteiten kunnen wijzigen. De definitieve prijs en bevestigde inbegrepen diensten worden gemeld voordat je de boeking accepteert.",
+    "termsChanges": "De volgorde, ophaaltijden of delen van het programma kunnen wijzigen door operationele, weers-, veiligheids- of leveranciersredenen. Belangrijke wijzigingen worden gemeld zodra ze bekend zijn.",
+    "termsGuest": "Gasten zijn verantwoordelijk voor correcte boekingsinformatie, het volgen van veiligheidsinstructies en het meenemen van vereiste documenten.",
+    "termsContact": "Neem bij onduidelijkheden vóór bevestiging contact met ons op, zodat het definitieve programma schriftelijk kan worden afgesproken."
+  },
+  "reviews": {
+    "kicker": "Beoordelingen van gasten",
+    "title": "Echte feedback van reizigers",
+    "tripTitle": "Beoordelingen voor deze trip",
+    "description": "Hier worden alleen beoordelingen uit echte klantfeedback getoond die door de sitebeheerder zijn gepubliceerd."
+  },
+  "search": {
+    "label": "Excursies zoeken",
+    "placeholder": "Zoek op excursie, activiteit of plaats",
+    "clear": "Zoekopdracht wissen",
+    "noResults": "Geen excursies passen bij uw zoekopdracht.",
+    "results": "{count} excursies gevonden"
+  }
+}

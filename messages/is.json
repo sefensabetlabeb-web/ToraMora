@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Heim",
+    "trips": "Ferðir",
+    "contact": "Hafa samband",
+    "book": "Bóka núna",
+    "language": "Tungumál",
+    "cairo": "Kaíró",
+    "luxor": "Luxor",
+    "openMenu": "Opna valmynd",
+    "closeMenu": "Loka valmynd"
+  },
+  "hero": {
+    "title1": "Uppgötvaðu Egyptaland",
+    "title2": "frá Hurghada.",
+    "badge": "Ferðir frá Hurghada",
+    "description": "Kynntu þér Kaíró, Luxor og Rauðahafið með skýrum ferðaupplýsingum, einföldum bókunarbeiðnum og beinu sambandi.",
+    "cairo": "Skoða Kaíró",
+    "luxor": "Skoða Luxor",
+    "contact": "Hafa samband",
+    "easy": "Einfaldar fyrirspurnir",
+    "mobile": "Hannað fyrir farsíma",
+    "local": "Staðbundnar ferðir",
+    "featured": "Valin ferð",
+    "cairoDay": "Kaíró á einum degi",
+    "cairoPlaces": "Pýramídar · Sfinx · Safn",
+    "destination": "Áfangastaður",
+    "fromHurghada": "Frá Hurghada"
+  },
+  "home": {
+    "popular": "Vinsælar ferðir",
+    "allTrips": "Sjá allar ferðir",
+    "title": "Einfaldasta leiðin til að byrja að kanna frá Hurghada.",
+    "description": "Byrjaðu á vinsælustu kostunum. Fleiri ferðir eru flokkaðar á einfaldan hátt."
+  },
+  "language": {
+    "title": "Tungumál",
+    "search": "Leita að tungumálum",
+    "all": "Öll tungumál",
+    "current": "Núverandi tungumál",
+    "close": "Loka"
+  },
+  "forms": {
+    "trip": "Ferð",
+    "selectTrip": "Veldu ferð",
+    "preferredDate": "Óskadagsetning",
+    "adults": "Fullorðnir",
+    "children": "Börn",
+    "hotel": "Nafn hótels",
+    "roomOptional": "Herbergisnúmer — valfrjálst",
+    "name": "Nafn",
+    "phone": "Sími",
+    "email": "Netfang",
+    "country": "Land",
+    "specialRequest": "Sérstök beiðni",
+    "message": "Skilaboð",
+    "generalEnquiry": "Almenn fyrirspurn",
+    "sending": "Sendi…",
+    "sendBooking": "Senda bókunarbeiðni",
+    "sendMessage": "Senda skilaboð",
+    "bookingSuccess": "Bókunarbeiðni var send.",
+    "contactSuccess": "Skilaboð voru send.",
+    "sendError": "Ekki er hægt að senda núna. Reyndu aftur eða notaðu WhatsApp.",
+    "bookingIntro": "Netgreiðsla er ekki nauðsynleg. Sendu upplýsingar og staðfestu lokaáætlun beint við teymið.",
+    "contactIntro": "Spyrðu um ferð, akstur, framboð eða annað áður en þú bókar."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Dagleg fyrirspurn",
+    "from": "Frá",
+    "priceOnRequest": "Verð samkvæmt beiðni",
+    "bookTrip": "Bóka þessa ferð",
+    "viewItinerary": "Sjá dagskrá",
+    "gallery": "Myndasafn",
+    "highlights": "Hápunktar",
+    "itinerary": "Dagskrá",
+    "included": "Innifalið",
+    "notIncluded": "Ekki innifalið",
+    "whatToBring": "Hvað á að taka með",
+    "bookNow": "Bóka núna",
+    "sendEnquiry": "Senda fyrirspurn",
+    "contact": "Hafa samband",
+    "galleryTitle": "Forskoðun á upplifuninni",
+    "galleryCopy": "Hægt er að skipta um forskoðunarmyndir í myndasafni stjórnanda.",
+    "highlightsTitle": "Staðirnir sem móta daginn",
+    "itineraryTitle": "Dagurinn þinn, skref fyrir skref",
+    "itineraryCopy": "Nákvæm röð getur breyst af rekstrarástæðum. Lokaupplýsingar um akstur og staðfest dagskrá fylgja bókun.",
+    "knowBefore": "Gott að vita fyrir bókun",
+    "includedTitle": "Innifalið og ekki innifalið",
+    "bringTitle": "Nokkrir nauðsynlegir hlutir fyrir þægilegan dag",
+    "ready": "Við erum tilbúin þegar þú ert það",
+    "askAbout": "Spyrja um {trip}",
+    "bookingCopy": "Segðu okkur dagsetningu, hótel og fjölda gesta. Netgreiðsla er ekki nauðsynleg á þessu stigi.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Ferðastu með skýrar upplýsingar",
+    "title": "Allt mikilvægt auðvelt að finna.",
+    "description": "Síðan svarar spurningum sem ferðamenn vilja oft skýra áður en bókunarbeiðni er send.",
+    "pickup": "Sótt á hótel",
+    "guides": "Faglegir leiðsögumenn",
+    "booking": "Einföld bókun",
+    "direct": "Beint samband",
+    "clear": "Skýrar upplýsingar"
+  },
+  "how": {
+    "kicker": "Einfalt að hönnun",
+    "title": "Frá skoðun að fyrirspurn á nokkrum mínútum.",
+    "description": "Enginn reikningur, flókið greiðsluferli eða netgreiðsla í fyrstu útgáfu. Fyrst velur þú ferðina.",
+    "choose": "Veldu ferð",
+    "date": "Veldu dagsetningu",
+    "confirm": "Staðfestu upplýsingar"
+  },
+  "contact": {
+    "kicker": "Samband og bókun",
+    "title": "Tilbúin að skipuleggja næstu upplifun í Hurghada?",
+    "description": "Sendu bókunarbeiðni, hafðu beint samband eða notaðu WhatsApp fyrir stutta spurningu.",
+    "choose": "Veldu ferð",
+    "whatsapp": "WhatsApp í boði",
+    "message": "Senda skilaboð"
+  },
+  "trips": {
+    "kicker": "Ferðir frá Hurghada",
+    "title": "Finndu ferðina án þess að týnast í valkostum.",
+    "description": "Veldu flokk og opnaðu ferðina sem vekur áhuga. USD-verð í þróunarútgáfunni eru sýnidæmi og hægt að breyta í stjórnborði.",
+    "samplePrice": "Sýniverð",
+    "viewTrip": "Skoða ferð",
+    "bookNow": "Bóka núna",
+    "empty": "Engar ferðir eru í boði núna. Athugaðu aftur síðar."
+  },
+  "footer": {
+    "trips": "Ferðir",
+    "information": "Upplýsingar",
+    "privacy": "Persónuvernd",
+    "terms": "Skilmálar",
+    "fromHurghada": "Frá Hurghada",
+    "rights": "Öll réttindi áskilin.",
+    "fast": "Hannað fyrir hraða leit að ferðum í farsíma.",
+    "redSea": "Upplifanir við Rauðahafið og í Egyptalandi"
+  },
+  "categories": {
+    "culture": {
+      "label": "Menning og saga",
+      "description": "Dagsferðir til Kaíró og Luxor."
+    },
+    "islands": {
+      "label": "Eyjar og snorkl",
+      "description": "Bátsferðir, strendur og rif í Rauðahafinu."
+    },
+    "diving": {
+      "label": "Köfun og sjór",
+      "description": "Köfun, snorkl og vatnaíþróttir."
+    },
+    "desert": {
+      "label": "Eyðimörk og ævintýri",
+      "description": "Fjórhjól, safari og eyðimerkurupplifanir."
+    },
+    "family": {
+      "label": "Fjölskylda og borg",
+      "description": "Auðveldar afþreyingar, borgarferðir og fjölskyldukostir."
+    },
+    "private": {
+      "label": "Einkaferðir",
+      "description": "Sveigjanlegar einkaferðir fyrir hópinn þinn."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Persónuverndarstefna",
+    "privacyIntro": "Við söfnum aðeins upplýsingum sem þú velur að senda með fyrirspurn eða bókunarbeiðni.",
+    "privacyData": "Þær geta verið nafn, tengiliðir, land, hótel, herbergi, valin ferð, dagsetning, hópstærð og skilaboð.",
+    "privacyUse": "Við notum upplýsingarnar til að svara, skipuleggja þjónustu, eiga samskipti um bókanir og reka síðuna örugglega.",
+    "privacySharing": "Við seljum ekki gögn. Þeim er aðeins deilt þegar það er nauðsynlegt fyrir þjónustu eða samkvæmt lögum.",
+    "privacyRetention": "Gögn eru aðeins geymd eins lengi og eðlilega þarf fyrir fyrirspurnir, bókanir, rekstur og lagaskyldur.",
+    "privacyRights": "Þú getur óskað eftir aðgangi, leiðréttingu eða eyðingu persónuupplýsinga samkvæmt gildandi lögum.",
+    "termsTitle": "Skilmálar",
+    "termsIntro": "Síðan veitir ferðaupplýsingar og leið til að senda fyrirspurnir og bókunarbeiðnir frá Hurghada.",
+    "termsBooking": "Að senda eyðublað staðfestir ekki sjálfkrafa bókun. Hún er staðfest þegar lokaupplýsingar og framboð hafa verið samþykkt.",
+    "termsPrices": "Verð, innifalið, tímar og valfrjáls afþreying geta breyst. Lokaverð er gefið upp fyrir samþykki.",
+    "termsChanges": "Röð, aksturstímar eða hlutar dagskrár geta breyst vegna rekstrar, veðurs, öryggis eða birgja.",
+    "termsGuest": "Gestir bera ábyrgð á réttum upplýsingum, öryggisleiðbeiningum og nauðsynlegum skjölum.",
+    "termsContact": "Ef eitthvað er óljóst skaltu hafa samband fyrir staðfestingu svo hægt sé að samþykkja lokaáætlun skriflega."
+  },
+  "reviews": {
+    "kicker": "Umsagn gesta",
+    "title": "Raunveruleg viðbrögð ferðalanga",
+    "tripTitle": "Umsagnir um þessa ferð",
+    "description": "Hér birtast aðeins umsagnir sem byggja á raunverulegri endurgjöf viðskiptavina og eru birtar af umsjónarmanni vefsins."
+  },
+  "search": {
+    "label": "Leita að ferðum",
+    "placeholder": "Leita eftir ferð, afþreyingu eða stað",
+    "clear": "Hreinsa leit",
+    "noResults": "Engar ferðir passa við leitina.",
+    "results": "{count} ferðir fundust"
+  }
+}

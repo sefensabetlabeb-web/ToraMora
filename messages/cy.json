@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Hafan",
+    "trips": "Teithiau",
+    "contact": "Cyswllt",
+    "book": "Archebu nawr",
+    "language": "Iaith",
+    "cairo": "Cairo",
+    "luxor": "Luxor",
+    "openMenu": "Agor y ddewislen",
+    "closeMenu": "Cau’r ddewislen"
+  },
+  "hero": {
+    "title1": "Darganfyddwch yr Aifft",
+    "title2": "o Hurghada.",
+    "badge": "Teithiau o Hurghada",
+    "description": "Darganfyddwch Cairo, Luxor a phrofiadau’r Môr Coch gyda manylion clir, ceisiadau archebu syml a chyswllt uniongyrchol i deithwyr.",
+    "cairo": "Archwilio Cairo",
+    "luxor": "Archwilio Luxor",
+    "contact": "Cysylltwch â ni",
+    "easy": "Ymholiadau hawdd",
+    "mobile": "Dyluniad ar gyfer ffôn",
+    "local": "Ffocws ar deithiau lleol",
+    "featured": "Taith dan sylw",
+    "cairoDay": "Cairo mewn un diwrnod",
+    "cairoPlaces": "Pyramidiau · Sffincs · Amgueddfa",
+    "destination": "Cyrchfan",
+    "fromHurghada": "O Hurghada"
+  },
+  "home": {
+    "popular": "Teithiau poblogaidd",
+    "allTrips": "Gweld pob taith",
+    "title": "Y ffordd hawsaf i ddechrau archwilio o Hurghada.",
+    "description": "Dechreuwch gyda’r dewisiadau mwyaf poblogaidd. Os ydych eisiau mwy, mae’r dudalen teithiau lawn wedi’i threfnu mewn categorïau syml."
+  },
+  "language": {
+    "title": "Iaith",
+    "search": "Chwilio ieithoedd",
+    "all": "Pob iaith",
+    "current": "Iaith gyfredol",
+    "close": "Cau"
+  },
+  "forms": {
+    "trip": "Taith",
+    "selectTrip": "Dewiswch daith",
+    "preferredDate": "Dyddiad dewisol",
+    "adults": "Oedolion",
+    "children": "Plant",
+    "hotel": "Enw’r gwesty",
+    "roomOptional": "Rhif ystafell — dewisol",
+    "name": "Enw",
+    "phone": "Ffôn",
+    "email": "E-bost",
+    "country": "Gwlad",
+    "specialRequest": "Cais arbennig",
+    "message": "Neges",
+    "generalEnquiry": "Ymholiad cyffredinol",
+    "sending": "Anfon…",
+    "sendBooking": "Anfon cais archebu",
+    "sendMessage": "Anfon neges",
+    "bookingSuccess": "Anfonwyd y cais archebu yn llwyddiannus.",
+    "contactSuccess": "Anfonwyd y neges yn llwyddiannus.",
+    "sendError": "Methu anfon ar hyn o bryd. Ceisiwch eto neu defnyddiwch WhatsApp.",
+    "bookingIntro": "Nid oes angen taliad ar-lein. Anfonwch eich manylion dewisol a chadarnhewch y rhaglen derfynol yn uniongyrchol gyda’r tîm.",
+    "contactIntro": "Gofynnwch am daith, casglu, argaeledd neu unrhyw beth sydd ei angen arnoch cyn archebu."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Ymholiad dyddiol",
+    "from": "O",
+    "priceOnRequest": "Pris ar gais",
+    "bookTrip": "Archebu’r daith hon",
+    "viewItinerary": "Gweld y rhaglen",
+    "gallery": "Oriel",
+    "highlights": "Uchafbwyntiau",
+    "itinerary": "Rhaglen",
+    "included": "Wedi’i gynnwys",
+    "notIncluded": "Heb ei gynnwys",
+    "whatToBring": "Beth i ddod gyda chi",
+    "bookNow": "Archebu nawr",
+    "sendEnquiry": "Anfon ymholiad",
+    "contact": "Cyswllt",
+    "galleryTitle": "Rhagolwg o’r profiad",
+    "galleryCopy": "Gellir disodli’r delweddau rhagolwg o lyfrgell delweddau’r gweinyddwr.",
+    "highlightsTitle": "Y llefydd sy’n siapio eich diwrnod",
+    "itineraryTitle": "Eich diwrnod, gam wrth gam",
+    "itineraryCopy": "Gall yr union drefn newid am resymau gweithredol. Darperir manylion casglu terfynol a’r rhaglen wedi’i chadarnhau gyda’ch archeb.",
+    "knowBefore": "Gwybod cyn archebu",
+    "includedTitle": "Wedi’i gynnwys a heb ei gynnwys",
+    "bringTitle": "Ychydig o hanfodion ar gyfer diwrnod cyfforddus",
+    "ready": "Pan fyddwch yn barod",
+    "askAbout": "Gofynnwch am {trip}",
+    "bookingCopy": "Dywedwch wrthym eich dyddiad dewisol, gwesty a nifer y gwesteion. Nid oes angen taliad ar-lein ar hyn o bryd.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Teithio gyda eglurder",
+    "title": "Popeth pwysig, yn hawdd ei ganfod.",
+    "description": "Mae’r profiad wedi’i gynllunio o amgylch y cwestiynau sydd gan deithwyr cyn anfon cais archebu.",
+    "pickup": "Casglu o’r gwesty",
+    "guides": "Tywyswyr proffesiynol",
+    "booking": "Archebu hawdd",
+    "direct": "Cyswllt uniongyrchol",
+    "clear": "Gwybodaeth glir"
+  },
+  "how": {
+    "kicker": "Syml wrth ddylunio",
+    "title": "O bori i ymholi mewn munudau.",
+    "description": "Dim cyfrif, dim proses dalu gymhleth a dim taliad ar-lein yn y fersiwn gyntaf. Dewiswch y daith yn gyntaf.",
+    "choose": "Dewiswch eich taith",
+    "date": "Dewiswch eich dyddiad",
+    "confirm": "Cadarnhewch y manylion"
+  },
+  "contact": {
+    "kicker": "Cyswllt ac archebu",
+    "title": "Yn barod i gynllunio eich profiad nesaf yn Hurghada?",
+    "description": "Anfonwch gais archebu, cysylltwch â ni’n uniongyrchol neu gofynnwch gwestiwn cyflym ar WhatsApp.",
+    "choose": "Dewiswch daith",
+    "whatsapp": "WhatsApp ar gael",
+    "message": "Anfon neges"
+  },
+  "trips": {
+    "kicker": "Teithiau o Hurghada",
+    "title": "Dewch o hyd i’ch taith heb fynd ar goll ymhlith y dewisiadau.",
+    "description": "Dewiswch gategori syml ac agorwch y daith sydd o ddiddordeb i chi. Prisiau enghreifftiol mewn USD yw’r prisiau yn y fersiwn ddatblygu hon a gellir eu golygu yn y panel gweinyddol.",
+    "samplePrice": "Pris enghreifftiol",
+    "viewTrip": "Gweld y daith",
+    "bookNow": "Archebu nawr",
+    "empty": "Nid oes teithiau ar gael ar hyn o bryd. Gwiriwch eto yn nes ymlaen."
+  },
+  "footer": {
+    "trips": "Teithiau",
+    "information": "Gwybodaeth",
+    "privacy": "Polisi preifatrwydd",
+    "terms": "Telerau",
+    "fromHurghada": "O Hurghada",
+    "rights": "Cedwir pob hawl.",
+    "fast": "Wedi’i adeiladu ar gyfer darganfod teithiau cyflym ar ffôn.",
+    "redSea": "Profiadau’r Môr Coch a’r Aifft"
+  },
+  "categories": {
+    "culture": {
+      "label": "Diwylliant a hanes",
+      "description": "Teithiau dydd i Cairo a Luxor."
+    },
+    "islands": {
+      "label": "Ynysoedd a snorkelu",
+      "description": "Dyddiau cwch, traethau a riffiau’r Môr Coch."
+    },
+    "diving": {
+      "label": "Deifio a’r môr",
+      "description": "Deifio, snorkelu a gweithgareddau dŵr."
+    },
+    "desert": {
+      "label": "Anialwch ac antur",
+      "description": "Beiciau cwad, saffari a phrofiadau anialwch."
+    },
+    "family": {
+      "label": "Teulu a dinas",
+      "description": "Gweithgareddau hawdd, ymweliadau dinas ac opsiynau teuluol."
+    },
+    "private": {
+      "label": "Teithiau preifat",
+      "description": "Profiadau preifat hyblyg i’ch grŵp."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Polisi preifatrwydd",
+    "privacyIntro": "Dim ond y wybodaeth rydych yn dewis ei hanfon pan fyddwch yn gofyn cwestiwn neu’n cyflwyno cais archebu rydym yn ei chasglu.",
+    "privacyData": "Gall hyn gynnwys eich enw, manylion cyswllt, gwlad, gwesty, rhif ystafell os caiff ei ddarparu, y daith a ddewiswyd, dyddiad dewisol, maint y grŵp a’ch neges.",
+    "privacyUse": "Rydym yn defnyddio’r wybodaeth hon i ateb ymholiadau, trefnu manylion y daith, cyfathrebu am archebion a gweithredu’r wefan yn ddiogel.",
+    "privacySharing": "Nid ydym yn gwerthu data ymholiadau. Dim ond pan fo’n rhesymol angenrheidiol i ddarparu’r gwasanaeth neu pan fo’r gyfraith yn ei gwneud yn ofynnol y caiff gwybodaeth ei rhannu.",
+    "privacyRetention": "Cedwir cofnodion dim ond cyhyd ag sy’n rhesymol angenrheidiol ar gyfer ymholiadau, archebion, cofnodion gweithredol a rhwymedigaethau cyfreithiol perthnasol.",
+    "privacyRights": "Gallwch gysylltu â ni i ofyn am, cywiro neu wneud cais i ddileu gwybodaeth bersonol sydd gennym, yn amodol ar ofynion cyfreithiol perthnasol.",
+    "termsTitle": "Telerau",
+    "termsIntro": "Mae’r wefan hon yn darparu gwybodaeth am deithiau a ffordd o anfon ymholiadau a cheisiadau archebu o Hurghada.",
+    "termsBooking": "Nid yw cyflwyno ffurflen ynddo’i hun yn creu archeb wedi’i chadarnhau. Dim ond ar ôl cadarnhau argaeledd, manylion terfynol a threfniadau y caiff archeb ei chadarnhau.",
+    "termsPrices": "Gall prisiau, cynnwys, amserlenni a gweithgareddau dewisol newid. Darperir y pris terfynol a’r hyn sydd wedi’i gynnwys cyn i chi dderbyn yr archeb.",
+    "termsChanges": "Gall trefn y daith, amseroedd casglu neu rannau o’r amserlen newid am resymau gweithredol, tywydd, diogelwch neu gyflenwyr. Dylid cyfathrebu newidiadau sylweddol pan fyddant yn hysbys.",
+    "termsGuest": "Mae gwesteion yn gyfrifol am ddarparu gwybodaeth archebu gywir, dilyn cyfarwyddiadau diogelwch a chario unrhyw ddogfennau sydd eu hangen ar gyfer eu taith.",
+    "termsContact": "Os nad yw rhywbeth yn glir, cysylltwch â ni cyn cadarnhau fel y gellir cytuno ar y rhaglen derfynol yn ysgrifenedig."
+  },
+  "reviews": {
+    "kicker": "Adolygiadau gwesteion",
+    "title": "Adborth go iawn gan deithwyr",
+    "tripTitle": "Adolygiadau ar gyfer y daith hon",
+    "description": "Dim ond adolygiadau go iawn gan gwsmeriaid, wedi’u hychwanegu a’u cyhoeddi gan weinyddwr y wefan, sy’n cael eu dangos yma."
+  },
+  "search": {
+    "label": "Chwilio teithiau",
+    "placeholder": "Chwilio yn ôl taith, gweithgaredd neu le",
+    "clear": "Clirio chwiliad",
+    "noResults": "Nid oes teithiau sy’n cyfateb i’ch chwiliad.",
+    "results": "Canfuwyd {count} o deithiau"
+  }
+}

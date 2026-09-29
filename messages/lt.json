@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Pradžia",
+    "trips": "Ekskursijos",
+    "contact": "Kontaktai",
+    "book": "Rezervuoti",
+    "language": "Kalba",
+    "cairo": "Kairas",
+    "luxor": "Luksoras",
+    "openMenu": "Atidaryti meniu",
+    "closeMenu": "Uždaryti meniu"
+  },
+  "hero": {
+    "title1": "Atraskite Egiptą",
+    "title2": "iš Hurgados.",
+    "badge": "Ekskursijos iš Hurgados",
+    "description": "Atraskite Kairą, Luksorą ir Raudonosios jūros patirtis su aiškia kelionių informacija, paprastomis rezervacijos užklausomis ir tiesioginiu bendravimu.",
+    "cairo": "Atraskite Kairą",
+    "luxor": "Atraskite Luksorą",
+    "contact": "Susisiekite su mumis",
+    "easy": "Paprastos užklausos",
+    "mobile": "Pritaikyta mobiliesiems",
+    "local": "Vietinės kelionės",
+    "featured": "Rekomenduojama kelionė",
+    "cairoDay": "Kairas per vieną dieną",
+    "cairoPlaces": "Piramidės · Sfinksas · Muziejus",
+    "destination": "Kryptis",
+    "fromHurghada": "Iš Hurgados"
+  },
+  "home": {
+    "popular": "Populiarios ekskursijos",
+    "allTrips": "Visos ekskursijos",
+    "title": "Paprasčiausias būdas pradėti pažinti Egiptą iš Hurgados.",
+    "description": "Pradėkite nuo populiariausių variantų. Daugiau ekskursijų rasite visų kelionių puslapyje, suskirstytame į paprastas kategorijas."
+  },
+  "language": {
+    "title": "Kalba",
+    "search": "Ieškoti kalbų",
+    "all": "Visos kalbos",
+    "current": "Dabartinė kalba",
+    "close": "Uždaryti"
+  },
+  "forms": {
+    "trip": "Ekskursija",
+    "selectTrip": "Pasirinkite ekskursiją",
+    "preferredDate": "Pageidaujama data",
+    "adults": "Suaugusieji",
+    "children": "Vaikai",
+    "hotel": "Viešbučio pavadinimas",
+    "roomOptional": "Kambario numeris — neprivaloma",
+    "name": "Vardas",
+    "phone": "Telefonas",
+    "email": "El. paštas",
+    "country": "Šalis",
+    "specialRequest": "Specialus prašymas",
+    "message": "Žinutė",
+    "generalEnquiry": "Bendra užklausa",
+    "sending": "Siunčiama…",
+    "sendBooking": "Siųsti rezervacijos užklausą",
+    "sendMessage": "Siųsti žinutę",
+    "bookingSuccess": "Rezervacijos užklausa sėkmingai išsiųsta.",
+    "contactSuccess": "Žinutė sėkmingai išsiųsta.",
+    "sendError": "Dabar išsiųsti nepavyksta. Bandykite dar kartą arba naudokite WhatsApp.",
+    "bookingIntro": "Internetinio mokėjimo nereikia. Siųskite pageidaujamą informaciją ir galutinę programą patvirtinkite tiesiogiai su komanda.",
+    "contactIntro": "Klauskite apie kelionę, paėmimą, vietų prieinamumą ar kitus dalykus prieš rezervuodami."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Kasdienė užklausa",
+    "from": "Nuo",
+    "priceOnRequest": "Kaina pagal užklausą",
+    "bookTrip": "Rezervuoti ekskursiją",
+    "viewItinerary": "Peržiūrėti programą",
+    "gallery": "Galerija",
+    "highlights": "Svarbiausia",
+    "itinerary": "Programa",
+    "included": "Įskaičiuota",
+    "notIncluded": "Neįskaičiuota",
+    "whatToBring": "Ką pasiimti",
+    "bookNow": "Rezervuoti",
+    "sendEnquiry": "Siųsti užklausą",
+    "contact": "Kontaktai",
+    "galleryTitle": "Patirties peržiūra",
+    "galleryCopy": "Peržiūros nuotraukas galima pakeisti administratoriaus vaizdų bibliotekoje.",
+    "highlightsTitle": "Vietos, kurios kuria jūsų dieną",
+    "itineraryTitle": "Jūsų diena žingsnis po žingsnio",
+    "itineraryCopy": "Tiksli tvarka gali keistis dėl organizacinių priežasčių. Galutinis paėmimo laikas ir patvirtinta programa pateikiami kartu su rezervacija.",
+    "knowBefore": "Ką žinoti prieš rezervuojant",
+    "includedTitle": "Įskaičiuota ir neįskaičiuota",
+    "bringTitle": "Keli būtini daiktai patogiai dienai",
+    "ready": "Kai būsite pasiruošę",
+    "askAbout": "Paklausti apie {trip}",
+    "bookingCopy": "Nurodykite pageidaujamą datą, viešbutį ir svečių skaičių. Šiame etape internetinio mokėjimo nereikia.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Keliaukite aiškiai",
+    "title": "Visa svarbiausia informacija lengvai randama.",
+    "description": "Puslapis sukurtas pagal klausimus, kuriuos keliautojai dažniausiai užduoda prieš siųsdami rezervacijos užklausą.",
+    "pickup": "Paėmimas iš viešbučio",
+    "guides": "Profesionalūs gidai",
+    "booking": "Paprastas rezervavimas",
+    "direct": "Tiesioginis kontaktas",
+    "clear": "Aiški informacija"
+  },
+  "how": {
+    "kicker": "Sąmoningai paprasta",
+    "title": "Nuo peržiūros iki užklausos per kelias minutes.",
+    "description": "Pirmojoje versijoje nereikia paskyros, sudėtingo atsiskaitymo ar internetinio mokėjimo. Pirmiausia pasirinkite kelionę.",
+    "choose": "Pasirinkite kelionę",
+    "date": "Pasirinkite datą",
+    "confirm": "Patvirtinkite informaciją"
+  },
+  "contact": {
+    "kicker": "Kontaktai ir rezervavimas",
+    "title": "Pasiruošę planuoti kitą patirtį Hurgadoje?",
+    "description": "Siųskite rezervacijos užklausą, susisiekite tiesiogiai arba greitai paklauskite per WhatsApp.",
+    "choose": "Pasirinkite kelionę",
+    "whatsapp": "WhatsApp pasiekiamas",
+    "message": "Siųsti žinutę"
+  },
+  "trips": {
+    "kicker": "Ekskursijos iš Hurgados",
+    "title": "Raskite savo kelionę nepasiklysdami tarp pasirinkimų.",
+    "description": "Pasirinkite kategoriją ir atidarykite dominančią kelionę. Šios bandomosios versijos kainos yra pavyzdinės USD kainos ir jas galima redaguoti administravimo skydelyje.",
+    "samplePrice": "Pavyzdinė kaina",
+    "viewTrip": "Peržiūrėti kelionę",
+    "bookNow": "Rezervuoti",
+    "empty": "Šiuo metu kelionių nėra. Patikrinkite vėliau."
+  },
+  "footer": {
+    "trips": "Ekskursijos",
+    "information": "Informacija",
+    "privacy": "Privatumo politika",
+    "terms": "Sąlygos",
+    "fromHurghada": "Iš Hurgados",
+    "rights": "Visos teisės saugomos.",
+    "fast": "Sukurta greitam kelionių pasirinkimui mobiliuosiuose įrenginiuose.",
+    "redSea": "Raudonosios jūros ir Egipto patirtys"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultūra ir istorija",
+      "description": "Vienos dienos kelionės į Kairą ir Luksorą."
+    },
+    "islands": {
+      "label": "Salos ir nardymas su kauke",
+      "description": "Dienos laive, paplūdimiai ir Raudonosios jūros rifai."
+    },
+    "diving": {
+      "label": "Nardymas ir jūra",
+      "description": "Nardymas, snorkeliavimas ir vandens pramogos."
+    },
+    "desert": {
+      "label": "Dykuma ir nuotykiai",
+      "description": "Keturračiai, safariai ir dykumos patirtys."
+    },
+    "family": {
+      "label": "Šeimai ir miestui",
+      "description": "Lengvos veiklos, miesto lankymas ir šeimos pasirinkimai."
+    },
+    "private": {
+      "label": "Privačios kelionės",
+      "description": "Lanksčios privačios patirtys jūsų grupei."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Privatumo politika",
+    "privacyIntro": "Renkame tik informaciją, kurią patys nusprendžiate pateikti užduodami klausimą ar siųsdami rezervacijos užklausą.",
+    "privacyData": "Tai gali būti vardas, kontaktiniai duomenys, šalis, viešbutis, kambario numeris jei pateiktas, pasirinkta kelionė, pageidaujama data, grupės dydis ir žinutė.",
+    "privacyUse": "Šią informaciją naudojame atsakydami į užklausas, organizuodami pageidaujamą kelionę, bendraudami dėl rezervacijų ir saugiai valdydami svetainę.",
+    "privacySharing": "Užklausų duomenų neparduodame. Informacija dalijamasi tik tada, kai tai pagrįstai būtina paslaugai suteikti arba to reikalauja įstatymai.",
+    "privacyRetention": "Duomenys saugomi tik tiek, kiek pagrįstai reikia užklausoms, rezervacijoms, veiklos įrašams ir teisiniams įsipareigojimams.",
+    "privacyRights": "Galite su mumis susisiekti ir paprašyti informacijos apie turimus asmens duomenis, juos pataisyti arba ištrinti pagal taikomus teisės aktus.",
+    "termsTitle": "Sąlygos",
+    "termsIntro": "Šioje svetainėje pateikiama kelionių informacija ir galima siųsti užklausas bei rezervacijos prašymus iš Hurgados.",
+    "termsBooking": "Formos pateikimas savaime nereiškia patvirtintos rezervacijos. Ji patvirtinama tik suderinus galutinę informaciją, prieinamumą ir organizavimą.",
+    "termsPrices": "Kainos, įtrauktos paslaugos, tvarkaraščiai ir papildomos veiklos gali keistis. Galutinė kaina ir patvirtintos paslaugos pateikiamos prieš jums priimant rezervaciją.",
+    "termsChanges": "Kelionės tvarka, paėmimo laikas ar maršruto dalys gali keistis dėl organizacinių, oro, saugumo ar tiekėjų priežasčių. Apie reikšmingus pakeitimus pranešama, kai jie žinomi.",
+    "termsGuest": "Svečiai atsako už tikslius rezervacijos duomenis, saugumo nurodymų laikymąsi ir reikiamų dokumentų turėjimą.",
+    "termsContact": "Jei kas nors neaišku, susisiekite prieš patvirtindami, kad galutinė programa būtų suderinta raštu."
+  },
+  "reviews": {
+    "kicker": "Svečių atsiliepimai",
+    "title": "Tikri keliautojų atsiliepimai",
+    "tripTitle": "Atsiliepimai apie šią kelionę",
+    "description": "Čia rodomi tik tikrų klientų atsiliepimai, kuriuos pridėjo ir paskelbė svetainės administratorius."
+  },
+  "search": {
+    "label": "Ieškoti ekskursijų",
+    "placeholder": "Ieškokite pagal ekskursiją, veiklą ar vietą",
+    "clear": "Išvalyti paiešką",
+    "noResults": "Nėra ekskursijų, atitinkančių paiešką.",
+    "results": "Rasta ekskursijų: {count}"
+  }
+}

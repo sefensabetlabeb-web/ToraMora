@@ -1,0 +1,25 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+!.env.production.example
+*.log
+.DS_Store
+Thumbs.db
+prisma/dev.db
+
+# Production secrets and database backups
+.env.production
+.env.production.local
+backups/
+*.dump
+ 
+Hurghada_Journeys_*_Apply/ 
+playwright-report/ 
+test-results/ 
+src/generated/prisma/
+tsconfig.tsbuildinfo

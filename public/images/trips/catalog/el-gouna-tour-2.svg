@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+<title id="title">El Gouna Tour</title><desc id="desc">Travel illustration for El Gouna Tour.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c8fb5"/><stop offset="1" stop-color="#334155"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#g)"/><circle cx="980" cy="135" r="78" fill="#fff" opacity=".78"/>
+<path d="M0 560 C190 500 330 625 520 555 S860 470 1200 560 V750 H0Z" fill="#fff" opacity=".18"/>
+<path d="M0 615 C210 560 380 675 610 610 S930 545 1200 620 V750 H0Z" fill="#fff" opacity=".12"/>
+<rect x="75" y="78" width="170" height="44" rx="22" fill="#fff" opacity=".92"/><text x="160" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">HURGHADA</text>
+<text x="75" y="420" font-family="Arial,sans-serif" font-size="64" font-weight="800" fill="#fff">El Gouna Tour</text>
+<text x="75" y="475" font-family="Arial,sans-serif" font-size="28" fill="#fff" opacity=".9">Hurghada • Red Sea • Egypt</text>
+</svg>

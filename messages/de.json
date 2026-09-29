@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "trips": "Ausflüge",
+    "contact": "Kontakt",
+    "book": "Jetzt buchen",
+    "language": "Sprache",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "hero": {
+    "title1": "Ägypten entdecken",
+    "title2": "ab Hurghada.",
+    "badge": "Ausflüge ab Hurghada",
+    "description": "Entdecken Sie Kairo, Luxor und Erlebnisse am Roten Meer mit klaren Reiseinformationen, einfachen Buchungsanfragen und direktem Kontakt – ideal für Reisende unterwegs.",
+    "cairo": "Kairo entdecken",
+    "luxor": "Luxor entdecken",
+    "contact": "Kontaktieren Sie uns",
+    "easy": "Einfache Anfragen",
+    "mobile": "Für Mobilgeräte optimiert",
+    "local": "Fokus auf lokale Ausflüge",
+    "featured": "Empfohlene Reise",
+    "cairoDay": "Kairo an einem Tag",
+    "cairoPlaces": "Pyramiden · Sphinx · Museum",
+    "destination": "Reiseziel",
+    "fromHurghada": "Ab Hurghada"
+  },
+  "home": {
+    "popular": "Beliebte Ausflüge",
+    "allTrips": "Alle Ausflüge anzeigen",
+    "title": "Der einfachste Weg, Hurghada und Ägypten zu entdecken.",
+    "description": "Beginnen Sie mit den beliebtesten Optionen. Weitere Ausflüge finden Sie übersichtlich nach Kategorien auf der Seite mit allen Touren."
+  },
+  "language": {
+    "title": "Sprache",
+    "search": "Sprachen suchen",
+    "all": "Alle Sprachen",
+    "current": "Aktuelle Sprache",
+    "close": "Schließen"
+  },
+  "forms": {
+    "trip": "Ausflug",
+    "selectTrip": "Ausflug auswählen",
+    "preferredDate": "Wunschdatum",
+    "adults": "Erwachsene",
+    "children": "Kinder",
+    "hotel": "Hotelname",
+    "roomOptional": "Zimmernummer — optional",
+    "name": "Name",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "country": "Land",
+    "specialRequest": "Sonderwunsch",
+    "message": "Nachricht",
+    "generalEnquiry": "Allgemeine Anfrage",
+    "sending": "Wird gesendet…",
+    "sendBooking": "Buchungsanfrage senden",
+    "sendMessage": "Nachricht senden",
+    "bookingSuccess": "Buchungsanfrage erfolgreich gesendet.",
+    "contactSuccess": "Nachricht erfolgreich gesendet.",
+    "sendError": "Senden derzeit nicht möglich. Bitte erneut versuchen oder WhatsApp nutzen.",
+    "bookingIntro": "Keine Online-Zahlung erforderlich. Senden Sie Ihre gewünschten Angaben und bestätigen Sie das endgültige Programm direkt mit dem Team.",
+    "contactIntro": "Fragen Sie nach einem Ausflug, Abholung, Verfügbarkeit oder allem, was Sie vor der Buchung wissen möchten."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Tägliche Anfrage",
+    "from": "Ab",
+    "priceOnRequest": "Preis auf Anfrage",
+    "bookTrip": "Diesen Ausflug buchen",
+    "viewItinerary": "Reiseplan ansehen",
+    "gallery": "Galerie",
+    "highlights": "Höhepunkte",
+    "itinerary": "Reiseplan",
+    "included": "Inklusive",
+    "notIncluded": "Nicht inklusive",
+    "whatToBring": "Was mitbringen",
+    "bookNow": "Jetzt buchen",
+    "sendEnquiry": "Anfrage senden",
+    "contact": "Kontakt",
+    "galleryTitle": "Ein Vorgeschmack auf das Erlebnis",
+    "galleryCopy": "Vorschaubilder können in der Admin-Bildbibliothek ersetzt werden.",
+    "highlightsTitle": "Die Orte, die Ihren Tag prägen",
+    "itineraryTitle": "Ihr Tag, Schritt für Schritt",
+    "itineraryCopy": "Die genaue Reihenfolge kann sich aus betrieblichen Gründen ändern. Endgültige Abholzeiten und das bestätigte Programm erhalten Sie mit Ihrer Buchung.",
+    "knowBefore": "Vor der Buchung wissen",
+    "includedTitle": "Inklusive und nicht inklusive",
+    "bringTitle": "Ein paar Dinge für einen angenehmen Tag",
+    "ready": "Bereit, wenn Sie es sind",
+    "askAbout": "Fragen zu {trip}",
+    "bookingCopy": "Teilen Sie uns Wunschdatum, Hotel und Gästezahl mit. In dieser Phase ist keine Online-Zahlung erforderlich.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Reisen mit Klarheit",
+    "title": "Alles Wichtige auf einen Blick.",
+    "description": "Die Seite beantwortet die wichtigsten Fragen, die Reisende normalerweise vor einer Buchungsanfrage haben.",
+    "pickup": "Hotelabholung",
+    "guides": "Professionelle Reiseleiter",
+    "booking": "Einfache Buchung",
+    "direct": "Direkter Kontakt",
+    "clear": "Klare Informationen"
+  },
+  "how": {
+    "kicker": "Bewusst einfach",
+    "title": "Vom Stöbern zur Anfrage in wenigen Minuten.",
+    "description": "Kein Konto, kein komplizierter Checkout und in der ersten Version keine Online-Zahlung. Zuerst steht der Ausflug im Mittelpunkt.",
+    "choose": "Ausflug auswählen",
+    "date": "Datum wählen",
+    "confirm": "Details bestätigen"
+  },
+  "contact": {
+    "kicker": "Kontakt & Buchung",
+    "title": "Bereit für Ihr nächstes Hurghada-Erlebnis?",
+    "description": "Senden Sie eine Buchungsanfrage, kontaktieren Sie uns direkt oder nutzen Sie WhatsApp für eine kurze Frage.",
+    "choose": "Ausflug auswählen",
+    "whatsapp": "WhatsApp verfügbar",
+    "message": "Nachricht senden"
+  },
+  "trips": {
+    "kicker": "Ausflüge ab Hurghada",
+    "title": "Finden Sie Ihren Ausflug, ohne sich in Optionen zu verlieren.",
+    "description": "Wählen Sie eine einfache Kategorie und öffnen Sie den gewünschten Ausflug. Die in dieser Entwicklungsversion angezeigten USD-Preise sind Beispielpreise und können im Admin-Dashboard geändert werden.",
+    "samplePrice": "Beispielpreis",
+    "viewTrip": "Ausflug ansehen",
+    "bookNow": "Jetzt buchen",
+    "empty": "Derzeit sind keine Ausflüge verfügbar. Bitte versuchen Sie es später erneut."
+  },
+  "footer": {
+    "trips": "Ausflüge",
+    "information": "Informationen",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen",
+    "fromHurghada": "Ab Hurghada",
+    "rights": "Alle Rechte vorbehalten.",
+    "fast": "Für schnelle, mobile Ausflugssuche entwickelt.",
+    "redSea": "Erlebnisse am Roten Meer & in Ägypten"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultur & Geschichte",
+      "description": "Tagesausflüge nach Kairo und Luxor."
+    },
+    "islands": {
+      "label": "Inseln & Schnorcheln",
+      "description": "Bootstage, Strände und Riffe im Roten Meer."
+    },
+    "diving": {
+      "label": "Tauchen & Meer",
+      "description": "Tauchen, Schnorcheln und Wassersport."
+    },
+    "desert": {
+      "label": "Wüste & Abenteuer",
+      "description": "Quad-, Safari- und Wüstenerlebnisse."
+    },
+    "family": {
+      "label": "Familie & Stadt",
+      "description": "Einfache Aktivitäten, Stadtbesuche und Familienoptionen."
+    },
+    "private": {
+      "label": "Private Ausflüge",
+      "description": "Flexible private Erlebnisse für Ihre Gruppe."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Datenschutzerklärung",
+    "privacyIntro": "Wir erfassen nur Informationen, die Sie freiwillig senden, wenn Sie eine Frage stellen oder eine Buchungsanfrage absenden.",
+    "privacyData": "Dazu können Name, Kontaktdaten, Land, Hotel, gegebenenfalls Zimmernummer, gewählter Ausflug, Wunschdatum, Gruppengröße und Nachricht gehören.",
+    "privacyUse": "Wir verwenden diese Angaben, um Anfragen zu beantworten, gewünschte Ausflugsdetails zu organisieren, zu Buchungen zu kommunizieren und die Website sicher zu betreiben.",
+    "privacySharing": "Wir verkaufen keine Anfragedaten. Informationen werden nur weitergegeben, wenn dies zur Erbringung der gewünschten Leistung vernünftigerweise erforderlich oder gesetzlich vorgeschrieben ist.",
+    "privacyRetention": "Daten werden nur so lange aufbewahrt, wie dies für Anfragen, Buchungen, betriebliche Unterlagen und geltende gesetzliche Pflichten erforderlich ist.",
+    "privacyRights": "Sie können uns kontaktieren, um Auskunft, Berichtigung oder Löschung Ihrer personenbezogenen Daten zu verlangen, vorbehaltlich geltender gesetzlicher Anforderungen.",
+    "termsTitle": "Bedingungen",
+    "termsIntro": "Diese Website bietet Informationen zu Ausflügen und ermöglicht Anfragen und Buchungswünsche ab Hurghada.",
+    "termsBooking": "Das Absenden eines Formulars allein stellt keine bestätigte Buchung dar. Eine Buchung gilt erst als bestätigt, nachdem endgültige Reisedetails, Verfügbarkeit und Vereinbarungen direkt mit Ihnen bestätigt wurden.",
+    "termsPrices": "Preise, Leistungen, Zeitpläne und optionale Aktivitäten können sich ändern. Endpreis und bestätigte Leistungen werden mitgeteilt, bevor Sie die Buchung annehmen.",
+    "termsChanges": "Reihenfolge, Abholzeiten oder Teile des Programms können sich aus betrieblichen, wetterbedingten, sicherheitsbezogenen oder lieferantenbedingten Gründen ändern. Wesentliche Änderungen werden nach Möglichkeit mitgeteilt.",
+    "termsGuest": "Gäste sind dafür verantwortlich, korrekte Buchungsdaten anzugeben, Sicherheitsanweisungen zu befolgen und erforderliche Dokumente mitzuführen.",
+    "termsContact": "Wenn etwas unklar ist, kontaktieren Sie uns vor der Bestätigung, damit das endgültige Programm schriftlich vereinbart werden kann."
+  },
+  "reviews": {
+    "kicker": "Gästebewertungen",
+    "title": "Echtes Feedback von Reisenden",
+    "tripTitle": "Bewertungen zu dieser Reise",
+    "description": "Hier werden nur Bewertungen aus echtem Kundenfeedback angezeigt, die vom Website-Administrator veröffentlicht wurden."
+  },
+  "search": {
+    "label": "Ausflüge suchen",
+    "placeholder": "Nach Ausflug, Aktivität oder Ort suchen",
+    "clear": "Suche löschen",
+    "noResults": "Keine Ausflüge passen zu Ihrer Suche.",
+    "results": "{count} Ausflüge gefunden"
+  }
+}

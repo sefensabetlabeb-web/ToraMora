@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Hem",
+    "trips": "Utflykter",
+    "contact": "Kontakt",
+    "book": "Boka nu",
+    "language": "Språk",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Öppna meny",
+    "closeMenu": "Stäng meny"
+  },
+  "hero": {
+    "title1": "Upptäck Egypten",
+    "title2": "från Hurghada.",
+    "badge": "Utflykter från Hurghada",
+    "description": "Upptäck Kairo, Luxor och Röda havet med tydlig reseinformation, enkla bokningsförfrågningar och direkt kontakt.",
+    "cairo": "Upptäck Kairo",
+    "luxor": "Upptäck Luxor",
+    "contact": "Kontakta oss",
+    "easy": "Enkla förfrågningar",
+    "mobile": "Mobilanpassad design",
+    "local": "Lokala utflykter",
+    "featured": "Utvald resa",
+    "cairoDay": "Kairo på en dag",
+    "cairoPlaces": "Pyramider · Sfinxen · Museum",
+    "destination": "Destination",
+    "fromHurghada": "Från Hurghada"
+  },
+  "home": {
+    "popular": "Populära utflykter",
+    "allTrips": "Visa alla utflykter",
+    "title": "Det enklaste sättet att börja upptäcka från Hurghada.",
+    "description": "Börja med de mest efterfrågade alternativen. Fler utflykter finns ordnade i enkla kategorier."
+  },
+  "language": {
+    "title": "Språk",
+    "search": "Sök språk",
+    "all": "Alla språk",
+    "current": "Aktuellt språk",
+    "close": "Stäng"
+  },
+  "forms": {
+    "trip": "Utflykt",
+    "selectTrip": "Välj utflykt",
+    "preferredDate": "Önskat datum",
+    "adults": "Vuxna",
+    "children": "Barn",
+    "hotel": "Hotellets namn",
+    "roomOptional": "Rumsnummer — valfritt",
+    "name": "Namn",
+    "phone": "Telefon",
+    "email": "E-post",
+    "country": "Land",
+    "specialRequest": "Särskild önskan",
+    "message": "Meddelande",
+    "generalEnquiry": "Allmän förfrågan",
+    "sending": "Skickar…",
+    "sendBooking": "Skicka bokningsförfrågan",
+    "sendMessage": "Skicka meddelande",
+    "bookingSuccess": "Bokningsförfrågan skickades.",
+    "contactSuccess": "Meddelandet skickades.",
+    "sendError": "Det går inte att skicka just nu. Försök igen eller använd WhatsApp.",
+    "bookingIntro": "Ingen onlinebetalning krävs. Skicka dina önskade uppgifter och bekräfta slutprogrammet direkt med teamet.",
+    "contactIntro": "Fråga om utflykt, hämtning, tillgänglighet eller annat före bokning."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Daglig förfrågan",
+    "from": "Från",
+    "priceOnRequest": "Pris på begäran",
+    "bookTrip": "Boka denna utflykt",
+    "viewItinerary": "Visa program",
+    "gallery": "Galleri",
+    "highlights": "Höjdpunkter",
+    "itinerary": "Program",
+    "included": "Ingår",
+    "notIncluded": "Ingår inte",
+    "whatToBring": "Vad du ska ta med",
+    "bookNow": "Boka nu",
+    "sendEnquiry": "Skicka förfrågan",
+    "contact": "Kontakt",
+    "galleryTitle": "En förhandsvisning av upplevelsen",
+    "galleryCopy": "Förhandsbilder kan bytas i administratörens bildbibliotek.",
+    "highlightsTitle": "Platserna som formar din dag",
+    "itineraryTitle": "Din dag, steg för steg",
+    "itineraryCopy": "Den exakta ordningen kan ändras av operativa skäl. Slutliga hämtningsdetaljer och bekräftat program lämnas med bokningen.",
+    "knowBefore": "Bra att veta före bokning",
+    "includedTitle": "Ingår och ingår inte",
+    "bringTitle": "Några saker för en bekväm dag",
+    "ready": "Vi är redo när du är",
+    "askAbout": "Fråga om {trip}",
+    "bookingCopy": "Ange önskat datum, hotell och antal gäster. Ingen onlinebetalning krävs i detta skede.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Res med tydlighet",
+    "title": "Allt viktigt, lätt att hitta.",
+    "description": "Upplevelsen är byggd kring de frågor resenärer vanligtvis vill få svar på före en bokningsförfrågan.",
+    "pickup": "Hämtning vid hotellet",
+    "guides": "Professionella guider",
+    "booking": "Enkel bokning",
+    "direct": "Direkt kontakt",
+    "clear": "Tydlig information"
+  },
+  "how": {
+    "kicker": "Enkelt med avsikt",
+    "title": "Från sökning till förfrågan på några minuter.",
+    "description": "Inget konto, ingen komplicerad checkout och ingen onlinebetalning i första versionen. Fokusera först på utflykten.",
+    "choose": "Välj utflykt",
+    "date": "Välj datum",
+    "confirm": "Bekräfta detaljer"
+  },
+  "contact": {
+    "kicker": "Kontakt och bokning",
+    "title": "Redo att planera nästa upplevelse i Hurghada?",
+    "description": "Skicka en bokningsförfrågan, kontakta oss direkt eller använd WhatsApp för en snabb fråga.",
+    "choose": "Välj utflykt",
+    "whatsapp": "WhatsApp tillgängligt",
+    "message": "Skicka meddelande"
+  },
+  "trips": {
+    "kicker": "Utflykter från Hurghada",
+    "title": "Hitta din utflykt utan att gå vilse bland valen.",
+    "description": "Välj en kategori och öppna utflykten du är intresserad av. USD-priserna i utvecklingsversionen är exempel och kan ändras i adminpanelen.",
+    "samplePrice": "Exempelpris",
+    "viewTrip": "Visa utflykt",
+    "bookNow": "Boka nu",
+    "empty": "Inga utflykter är tillgängliga just nu. Kontrollera igen senare."
+  },
+  "footer": {
+    "trips": "Utflykter",
+    "information": "Information",
+    "privacy": "Integritetspolicy",
+    "terms": "Villkor",
+    "fromHurghada": "Från Hurghada",
+    "rights": "Alla rättigheter förbehållna.",
+    "fast": "Byggd för snabb, mobil upptäckt av utflykter.",
+    "redSea": "Upplevelser vid Röda havet och i Egypten"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultur och historia",
+      "description": "Dagsutflykter till Kairo och Luxor."
+    },
+    "islands": {
+      "label": "Öar och snorkling",
+      "description": "Båtdagar, stränder och rev i Röda havet."
+    },
+    "diving": {
+      "label": "Dykning och hav",
+      "description": "Dykning, snorkling och vattenaktiviteter."
+    },
+    "desert": {
+      "label": "Öken och äventyr",
+      "description": "Fyrhjuling, safari och ökenupplevelser."
+    },
+    "family": {
+      "label": "Familj och stad",
+      "description": "Enkla aktiviteter, stadsbesök och familjealternativ."
+    },
+    "private": {
+      "label": "Privata utflykter",
+      "description": "Flexibla privata upplevelser för din grupp."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Integritetspolicy",
+    "privacyIntro": "Vi samlar endast in information som du väljer att skicka vid frågor eller bokningsförfrågningar.",
+    "privacyData": "Det kan omfatta namn, kontaktuppgifter, land, hotell, rum, vald utflykt, datum, gruppstorlek och meddelande.",
+    "privacyUse": "Vi använder uppgifterna för svar, serviceplanering, bokningskommunikation och säker drift av webbplatsen.",
+    "privacySharing": "Vi säljer inte förfrågningsdata. Uppgifter delas endast när det behövs för tjänsten eller krävs enligt lag.",
+    "privacyRetention": "Uppgifter sparas bara så länge det rimligen behövs för förfrågningar, bokningar, drift och lagkrav.",
+    "privacyRights": "Du kan kontakta oss för tillgång, rättelse eller radering av personuppgifter enligt tillämplig lag.",
+    "termsTitle": "Villkor",
+    "termsIntro": "Webbplatsen ger information om utflykter och möjlighet att skicka frågor och bokningsförfrågningar från Hurghada.",
+    "termsBooking": "Att skicka formuläret innebär inte i sig en bekräftad bokning. Bokningen bekräftas efter att slutliga detaljer och tillgänglighet avtalats.",
+    "termsPrices": "Priser, innehåll, tider och tillval kan ändras. Slutligt pris meddelas innan bokningen accepteras.",
+    "termsChanges": "Ordning, hämtningstider eller delar av programmet kan ändras av operativa, väder-, säkerhets- eller leverantörsskäl.",
+    "termsGuest": "Gäster ansvarar för korrekta uppgifter, säkerhetsinstruktioner och nödvändiga dokument.",
+    "termsContact": "Om något är oklart, kontakta oss före bekräftelse så att slutprogrammet kan avtalas skriftligt."
+  },
+  "reviews": {
+    "kicker": "Gästrecensioner",
+    "title": "Äkta omdömen från resenärer",
+    "tripTitle": "Recensioner för den här utflykten",
+    "description": "Här visas endast recensioner som bygger på äkta kundfeedback och som har publicerats av webbplatsens administratör."
+  },
+  "search": {
+    "label": "Sök utflykter",
+    "placeholder": "Sök efter utflykt, aktivitet eller plats",
+    "clear": "Rensa sökning",
+    "noResults": "Inga utflykter matchar din sökning.",
+    "results": "{count} utflykter hittades"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "trips": "Utflukter",
+    "contact": "Kontakt",
+    "book": "Bestill nå",
+    "language": "Språk",
+    "cairo": "Kairo",
+    "luxor": "Luxor",
+    "openMenu": "Åpne meny",
+    "closeMenu": "Lukk meny"
+  },
+  "hero": {
+    "title1": "Opplev Egypt",
+    "title2": "fra Hurghada.",
+    "badge": "Utflukter fra Hurghada",
+    "description": "Oppdag Kairo, Luxor og Rødehavet med tydelig turinformasjon, enkle bestillingsforespørsler og direkte kontakt.",
+    "cairo": "Oppdag Kairo",
+    "luxor": "Oppdag Luxor",
+    "contact": "Kontakt oss",
+    "easy": "Enkle forespørsler",
+    "mobile": "Mobilvennlig design",
+    "local": "Lokale utflukter",
+    "featured": "Utvalgt tur",
+    "cairoDay": "Kairo på én dag",
+    "cairoPlaces": "Pyramider · Sfinksen · Museum",
+    "destination": "Reisemål",
+    "fromHurghada": "Fra Hurghada"
+  },
+  "home": {
+    "popular": "Populære utflukter",
+    "allTrips": "Se alle utflukter",
+    "title": "Den enkleste måten å starte oppdagelsen fra Hurghada.",
+    "description": "Start med de mest populære valgene. Flere turer er organisert i enkle kategorier."
+  },
+  "language": {
+    "title": "Språk",
+    "search": "Søk språk",
+    "all": "Alle språk",
+    "current": "Nåværende språk",
+    "close": "Lukk"
+  },
+  "forms": {
+    "trip": "Utflukt",
+    "selectTrip": "Velg utflukt",
+    "preferredDate": "Ønsket dato",
+    "adults": "Voksne",
+    "children": "Barn",
+    "hotel": "Hotellnavn",
+    "roomOptional": "Romnummer — valgfritt",
+    "name": "Navn",
+    "phone": "Telefon",
+    "email": "E-post",
+    "country": "Land",
+    "specialRequest": "Spesiell forespørsel",
+    "message": "Melding",
+    "generalEnquiry": "Generell forespørsel",
+    "sending": "Sender…",
+    "sendBooking": "Send bestillingsforespørsel",
+    "sendMessage": "Send melding",
+    "bookingSuccess": "Bestillingsforespørselen ble sendt.",
+    "contactSuccess": "Meldingen ble sendt.",
+    "sendError": "Kan ikke sende nå. Prøv igjen eller bruk WhatsApp.",
+    "bookingIntro": "Nettbetaling er ikke nødvendig. Send ønskede detaljer og bekreft sluttprogrammet direkte med teamet.",
+    "contactIntro": "Spør om tur, henting, tilgjengelighet eller annet du trenger før bestilling."
+  },
+  "tripDetail": {
+    "dailyEnquiry": "Daglig forespørsel",
+    "from": "Fra",
+    "priceOnRequest": "Pris på forespørsel",
+    "bookTrip": "Bestill denne utflukten",
+    "viewItinerary": "Se program",
+    "gallery": "Galleri",
+    "highlights": "Høydepunkter",
+    "itinerary": "Program",
+    "included": "Inkludert",
+    "notIncluded": "Ikke inkludert",
+    "whatToBring": "Hva du bør ta med",
+    "bookNow": "Bestill nå",
+    "sendEnquiry": "Send forespørsel",
+    "contact": "Kontakt",
+    "galleryTitle": "En forhåndsvisning av opplevelsen",
+    "galleryCopy": "Forhåndsbilder kan byttes i adminens bildebibliotek.",
+    "highlightsTitle": "Stedene som former dagen din",
+    "itineraryTitle": "Dagen din, steg for steg",
+    "itineraryCopy": "Den nøyaktige rekkefølgen kan endres av driftsmessige årsaker. Endelige hentedetaljer og bekreftet program gis med bestillingen.",
+    "knowBefore": "Greit å vite før bestilling",
+    "includedTitle": "Inkludert og ikke inkludert",
+    "bringTitle": "Noen nødvendigheter for en komfortabel dag",
+    "ready": "Vi er klare når du er",
+    "askAbout": "Spør om {trip}",
+    "bookingCopy": "Oppgi ønsket dato, hotell og antall gjester. Nettbetaling er ikke nødvendig på dette stadiet.",
+    "whatsapp": "WhatsApp"
+  },
+  "trust": {
+    "kicker": "Reis med klarhet",
+    "title": "Alt viktig er lett å finne.",
+    "description": "Opplevelsen er bygget rundt spørsmålene reisende vanligvis vil ha svar på før de sender en bestillingsforespørsel.",
+    "pickup": "Henting på hotellet",
+    "guides": "Profesjonelle guider",
+    "booking": "Enkel bestilling",
+    "direct": "Direkte kontakt",
+    "clear": "Tydelig informasjon"
+  },
+  "how": {
+    "kicker": "Bevisst enkelt",
+    "title": "Fra surfing til forespørsel på få minutter.",
+    "description": "Ingen konto, komplisert checkout eller nettbetaling i første versjon. Fokuser først på turen.",
+    "choose": "Velg tur",
+    "date": "Velg dato",
+    "confirm": "Bekreft detaljer"
+  },
+  "contact": {
+    "kicker": "Kontakt og bestilling",
+    "title": "Klar til å planlegge neste opplevelse i Hurghada?",
+    "description": "Send en bestillingsforespørsel, kontakt oss direkte eller bruk WhatsApp for et raskt spørsmål.",
+    "choose": "Velg tur",
+    "whatsapp": "WhatsApp tilgjengelig",
+    "message": "Send melding"
+  },
+  "trips": {
+    "kicker": "Utflukter fra Hurghada",
+    "title": "Finn turen din uten å gå deg vill i valgene.",
+    "description": "Velg en enkel kategori og åpne turen som interesserer deg. USD-prisene i utviklingsversjonen er eksempler og kan redigeres i adminpanelet.",
+    "samplePrice": "Eksempelpris",
+    "viewTrip": "Se tur",
+    "bookNow": "Bestill nå",
+    "empty": "Ingen turer er tilgjengelige akkurat nå. Sjekk igjen senere."
+  },
+  "footer": {
+    "trips": "Utflukter",
+    "information": "Informasjon",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "fromHurghada": "Fra Hurghada",
+    "rights": "Alle rettigheter forbeholdt.",
+    "fast": "Bygget for rask, mobil oppdagelse av utflukter.",
+    "redSea": "Opplevelser ved Rødehavet og i Egypt"
+  },
+  "categories": {
+    "culture": {
+      "label": "Kultur og historie",
+      "description": "Dagsturer til Kairo og Luxor."
+    },
+    "islands": {
+      "label": "Øyer og snorkling",
+      "description": "Båtturer, strender og rev i Rødehavet."
+    },
+    "diving": {
+      "label": "Dykking og hav",
+      "description": "Dykking, snorkling og vannaktiviteter."
+    },
+    "desert": {
+      "label": "Ørken og eventyr",
+      "description": "Firhjuling, safari og ørkenopplevelser."
+    },
+    "family": {
+      "label": "Familie og by",
+      "description": "Enkle aktiviteter, bybesøk og familiealternativer."
+    },
+    "private": {
+      "label": "Private turer",
+      "description": "Fleksible private opplevelser for gruppen din."
+    }
+  },
+  "legal": {
+    "privacyTitle": "Personvern",
+    "privacyIntro": "Vi samler bare inn informasjon du velger å sende ved spørsmål eller bestillingsforespørsel.",
+    "privacyData": "Dette kan omfatte navn, kontaktopplysninger, land, hotell, rom, valgt tur, dato, gruppestørrelse og melding.",
+    "privacyUse": "Vi bruker informasjonen til svar, organisering av tjenesten, bestillingskommunikasjon og sikker drift.",
+    "privacySharing": "Vi selger ikke forespørselsdata. Informasjon deles bare når det er nødvendig for tjenesten eller påkrevd ved lov.",
+    "privacyRetention": "Opplysninger lagres bare så lenge det er rimelig nødvendig for forespørsler, bestillinger, drift og juridiske plikter.",
+    "privacyRights": "Du kan kontakte oss for innsyn, retting eller sletting av personopplysninger i henhold til gjeldende lov.",
+    "termsTitle": "Vilkår",
+    "termsIntro": "Nettstedet gir turinformasjon og lar deg sende spørsmål og bestillingsforespørsler fra Hurghada.",
+    "termsBooking": "Innsending av skjema bekrefter ikke alene en bestilling. Den bekreftes etter at endelige detaljer og tilgjengelighet er avtalt.",
+    "termsPrices": "Priser, innhold, tider og valgfrie aktiviteter kan endres. Endelig pris oppgis før godkjenning.",
+    "termsChanges": "Rekkefølge, hentetider eller deler av programmet kan endres av drifts-, vær-, sikkerhets- eller leverandørårsaker.",
+    "termsGuest": "Gjester har ansvar for korrekte opplysninger, sikkerhetsinstruksjoner og nødvendige dokumenter.",
+    "termsContact": "Hvis noe er uklart, kontakt oss før bekreftelse slik at sluttprogrammet kan avtales skriftlig."
+  },
+  "reviews": {
+    "kicker": "Gjesteanmeldelser",
+    "title": "Ekte tilbakemeldinger fra reisende",
+    "tripTitle": "Anmeldelser av denne turen",
+    "description": "Her vises bare anmeldelser basert på ekte kundetilbakemeldinger og publisert av nettstedets administrator."
+  },
+  "search": {
+    "label": "Søk etter utflukter",
+    "placeholder": "Søk etter tur, aktivitet eller sted",
+    "clear": "Tøm søk",
+    "noResults": "Ingen utflukter samsvarer med søket.",
+    "results": "{count} utflukter funnet"
+  }
+}
