@@ -4,7 +4,7 @@ import {setRequestLocale} from 'next-intl/server';
 import {TripDetailPage} from '@/components/trips/detail/TripDetailPage';
 import {JsonLd} from '@/components/seo/JsonLd';
 import {siteConfig} from '@/config/site';
-import {getPublishedTripSlugs, getTripBySlug} from '@/features/trips/trip-service';
+import {getTripBySlug} from '@/features/trips/trip-service';
 import {localizeTrip} from '@/features/trips/trip-localization';
 import {locales,type Locale} from '@/i18n/locales';
 import {touristTripJsonLd} from '@/lib/seo/jsonld';
@@ -12,11 +12,6 @@ import {localizedPath} from '@/lib/seo/urls';
 import {getPublicSiteSettings} from '@/lib/site-settings';
 
 type TripPageProps = {params: Promise<{locale:string;slug:string}>};
-
-export async function generateStaticParams() {
-  const slugs=await getPublishedTripSlugs();
-  return locales.flatMap((locale)=>slugs.map((slug)=>({locale,slug})));
-}
 
 export async function generateMetadata({params}:TripPageProps):Promise<Metadata>{
   const {slug,locale}=await params;
