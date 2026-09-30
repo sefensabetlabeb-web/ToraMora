@@ -17,7 +17,19 @@ export function validateRequestOrigin(request: Request) {
   const origin = request.headers.get('origin');
   if (!origin) return process.env.NODE_ENV !== 'production';
   try {
-    return origin === new URL(request.url).origin;
+    const requestOrigin = new URL(request.url).origin;
+    if (origin === requestOrigin) return true;
+
+    if (process.env.TRUST_PROXY_HEADERS !== 'true') return false;
+
+    const proto = request.headers.get('x-forwarded-proto')?.split(',')[0]?.trim();
+    const host =
+      request.headers.get('x-forwarded-host')?.split(',')[0]?.trim() ||
+      request.headers.get('host')?.trim();
+
+    if (!proto || !host || !['http', 'https'].includes(proto)) return false;
+
+    return origin === `${proto}://${host}`;
   } catch {
     return false;
   }
