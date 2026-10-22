@@ -107,7 +107,6 @@ export function TripGallery({images}: {images: TripImage[]}) {
                   src={image.src}
                   alt={image.alt}
                   fill
-                  priority={index === 0}
                   loading={index === 0 ? 'eager' : 'lazy'}
                   sizes="(max-width: 768px) 100vw, (max-width: 1280px) 92vw, 1180px"
                   className="object-cover"
