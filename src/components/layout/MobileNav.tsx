@@ -102,14 +102,7 @@ export function MobileNav() {
             </div>
 
             <div className="border-t border-slate-200 bg-white p-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-              <Link
-                href="/book"
-                onClick={close}
-                className="flex min-h-14 w-full items-center justify-center gap-2 rounded-2xl bg-[var(--brand)] px-5 text-base font-extrabold text-white shadow-lg shadow-teal-900/10 transition hover:bg-[var(--brand-dark)]"
-              >
-                <BookOpen size={20} />
-                <span>{t('book')}</span>
-              </Link>
+
             </div>
           </aside>
         </div>,

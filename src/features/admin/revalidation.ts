@@ -1,4 +1,4 @@
-import {revalidatePath} from 'next/cache';
+import {revalidatePath, updateTag} from 'next/cache';
 import {locales} from '@/i18n/locales';
 
 function localized(path: string, locale: string) {
@@ -8,6 +8,7 @@ function localized(path: string, locale: string) {
 }
 
 export function revalidatePublicSite() {
+  updateTag('site-settings');
   revalidatePath('/', 'layout');
   for (const locale of locales) {
     revalidatePath(localized('/', locale));
@@ -18,6 +19,7 @@ export function revalidatePublicSite() {
 }
 
 export function revalidatePublicTrip(slug: string) {
+  updateTag('trip:' + slug);
   revalidatePath('/', 'layout');
   for (const locale of locales) {
     revalidatePath(localized('/', locale));

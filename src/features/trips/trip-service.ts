@@ -1,3 +1,4 @@
+import {unstable_cache} from 'next/cache';
 import {localTripRepository} from '@/features/trips/local-trip-repository';
 import {prismaTripRepository} from '@/features/trips/prisma-trip-repository';
 import type {TripRepository} from '@/features/trips/trip-repository';
@@ -31,7 +32,15 @@ export async function getTripsByCategory(category: TripCategory): Promise<Trip[]
 }
 
 export async function getTripBySlug(slug: string): Promise<Trip | null> {
-  return readWithFallback((repository) => repository.findPublishedBySlug(slug));
+  if (!process.env.DATABASE_URL) return localTripRepository.findPublishedBySlug(slug);
+
+  const readCachedTrip = unstable_cache(
+    async () => readWithFallback((repository) => repository.findPublishedBySlug(slug)),
+    ['published-trip', slug],
+    {tags: ['trip:' + slug]}
+  );
+
+  return readCachedTrip();
 }
 
 export async function getPublishedTripSlugs(): Promise<string[]> {

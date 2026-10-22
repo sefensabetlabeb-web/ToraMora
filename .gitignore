@@ -23,3 +23,10 @@ playwright-report/
 test-results/ 
 src/generated/prisma/
 tsconfig.tsbuildinfo
+### Local backup / temporary artifacts ###
+*.bak
+*.bak-*
+*.backup
+playwright-report/
+test-results/
+*.tsbuildinfo

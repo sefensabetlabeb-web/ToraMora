@@ -31,7 +31,6 @@ export function SiteHeader({websiteName,tagline,logoPath}: {websiteName?: string
             <Search size={19}/>
           </Link>
           <div className="block"><LanguageSelector compact/></div>
-          <Link href="/book" className="hidden min-h-11 items-center rounded-full bg-[var(--brand)] px-5 text-sm font-bold text-white shadow-sm transition hover:bg-[var(--brand-dark)] sm:inline-flex">{t('book')}</Link>
         </div>
       </div>
     </header>

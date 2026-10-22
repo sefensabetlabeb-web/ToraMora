@@ -4,6 +4,7 @@ import {z} from 'zod';
 import {prisma} from '@/lib/database/prisma';
 import {requireAdmin} from '@/lib/auth/session';
 import {locales} from '@/i18n/locales';
+import {translateTripFromEnglish} from '@/lib/translation/azure-translator';
 import {revalidatePublicSite, revalidatePublicTrip} from '@/features/admin/revalidation';
 
 const localAssetPathSchema = z.string().regex(/^\/(?:brand|images)\/(?!.*(?:^|\/)\.\.(?:\/|$))[A-Za-z0-9_./-]+$/);
@@ -49,6 +50,105 @@ export async function upsertTripTranslation(tripId:string,formData:FormData){
   revalidatePath(`/admin/trips/${tripId}/translations`);const trip=await prisma.trip.findUnique({where:{id:tripId},select:{slug:true}});if(trip?.slug)revalidatePublicTrip(trip.slug);
 }
 
+
+export async function translateTripToAllLanguages(tripId:string){
+  await requireAdmin();
+
+  const trip=await prisma.trip.findUnique({
+    where:{id:tripId},
+    include:{
+      translations:{
+        select:{
+          locale:true,
+          isReviewed:true
+        }
+      }
+    }
+  });
+
+  if(!trip){
+    throw new Error('Trip not found.');
+  }
+
+  const reviewedLocales=new Set(
+    trip.translations
+      .filter((translation)=>translation.isReviewed)
+      .map((translation)=>translation.locale)
+  );
+
+  const targetLocales=locales.filter(
+    (locale)=>locale!=='en'&&!reviewedLocales.has(locale)
+  );
+
+  const failures:Array<{locale:string;message:string}>=[];
+  let translatedCount=0;
+  let skippedReviewed=0;
+
+  for(const locale of locales){
+    if(locale!=='en'&&reviewedLocales.has(locale)){
+      skippedReviewed++;
+    }
+  }
+
+  for(const locale of targetLocales){
+    try{
+      const translated=await translateTripFromEnglish(
+        {
+          title:trip.title,
+          eyebrow:trip.eyebrow,
+          shortDescription:trip.shortDescription,
+          duration:trip.duration,
+          highlights:trip.highlights,
+          itinerary:trip.itinerary,
+          included:trip.included,
+          excluded:trip.excluded,
+          whatToBring:trip.whatToBring,
+          whatsappMessage:trip.whatsappMessage,
+          seoTitle:trip.seoTitle,
+          seoDescription:trip.seoDescription
+        },
+        locale
+      );
+
+      await prisma.tripTranslation.upsert({
+        where:{
+          tripId_locale:{
+            tripId,
+            locale
+          }
+        },
+        create:{
+          tripId,
+          locale,
+          ...translated,
+          isReviewed:false
+        },
+        update:{
+          ...translated,
+          isReviewed:false
+        }
+      });
+
+      translatedCount++;
+    }catch(error){
+      failures.push({
+        locale,
+        message:error instanceof Error?error.message:'Unknown translation error.'
+      });
+    }
+  }
+
+  revalidatePath(`/admin/trips/${tripId}/translations`);
+  revalidatePublicTrip(trip.slug);
+
+  if(failures.length>0){
+    console.error('Azure trip translation failures',{
+      tripId,
+      failures
+    });
+  }
+
+}
 const reviewSchema = z.object({
   name: z.string().trim().min(2).max(100),
   country: z.string().trim().max(100).optional(),

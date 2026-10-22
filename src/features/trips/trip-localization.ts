@@ -1,3 +1,4 @@
+import {unstable_cache} from 'next/cache';
 import type {Locale} from '@/i18n/locales';
 import type {Trip} from '@/types/trip';
 import {prisma} from '@/lib/database/prisma';
@@ -67,10 +68,15 @@ export async function localizeTrip(base: Trip, locale: Locale): Promise<Trip> {
   if (!process.env.DATABASE_URL) return fallback;
 
   try {
-    const row = await prisma.trip.findUnique({
-      where: {slug: base.slug},
-      select: {translations: {where: {locale}, take: 1}}
-    });
+    const readCachedTranslation = unstable_cache(
+      async () => prisma.trip.findUnique({
+        where: {slug: base.slug},
+        select: {translations: {where: {locale}, take: 1}}
+      }),
+      ['trip-translation', base.slug, locale],
+      {tags: ['trip:' + base.slug]}
+    );
+    const row = await readCachedTranslation();
     const translation = row?.translations[0];
     if (!translation) return fallback;
 

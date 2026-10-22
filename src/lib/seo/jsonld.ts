@@ -1,10 +1,12 @@
-import {siteConfig} from '@/config/site';
-import type {Trip} from '@/types/trip';
-import {absoluteUrl, localizedPath} from './urls';
-import type {PublicSiteSettings} from '@/lib/site-settings';
+import { siteConfig } from '@/config/site';
+import type { Trip } from '@/types/trip';
+import { absoluteUrl, localizedPath } from './urls';
+import type { PublicSiteSettings } from '@/lib/site-settings';
 
 function compact<T extends Record<string, unknown>>(value: T): T {
-  return Object.fromEntries(Object.entries(value).filter(([, item]) => item !== '' && item != null)) as T;
+  return Object.fromEntries(
+    Object.entries(value).filter(([, item]) => item !== '' && item != null)
+  ) as T;
 }
 
 export function travelAgencyJsonLd(locale: string, settings?: PublicSiteSettings) {
@@ -29,7 +31,10 @@ export function travelAgencyJsonLd(locale: string, settings?: PublicSiteSettings
     },
     telephone: settings?.phone || siteConfig.contact.phone,
     email: settings?.email || siteConfig.contact.email,
-    sameAs: [settings?.facebook || siteConfig.social.facebook, settings?.instagram || siteConfig.social.instagram].filter(Boolean)
+    sameAs: [
+      settings?.facebook || siteConfig.social.facebook,
+      settings?.instagram || siteConfig.social.instagram
+    ].filter(Boolean)
   });
 }
 
@@ -68,4 +73,19 @@ export function touristTripJsonLd(trip: Trip, locale: string, settings?: PublicS
       }))
     }
   });
+}
+
+export function tripBreadcrumbJsonLd(trip: Trip, locale: string) {
+  const homeUrl = absoluteUrl(localizedPath(locale, '/'));
+  const tripsUrl = absoluteUrl(localizedPath(locale, '/trips'));
+  const tripUrl = absoluteUrl(localizedPath(locale, '/trips/' + trip.slug));
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: homeUrl },
+      { '@type': 'ListItem', position: 2, name: 'Trips', item: tripsUrl },
+      { '@type': 'ListItem', position: 3, name: trip.title, item: tripUrl }
+    ]
+  };
 }

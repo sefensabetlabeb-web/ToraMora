@@ -1,3 +1,4 @@
+import {unstable_cache} from 'next/cache';
 import {siteConfig} from '@/config/site';
 import {prisma} from '@/lib/database/prisma';
 import {normalizeWhatsAppNumber} from '@/lib/whatsapp';
@@ -28,11 +29,20 @@ const fallback: PublicSiteSettings = {
   instagram: siteConfig.social.instagram
 };
 
+const getCachedSiteSetting = unstable_cache(
+  async () => prisma.siteSetting.findUnique({where: {id: 'global'}}),
+  ['public-site-settings'],
+  {tags: ['site-settings']}
+);
+
 export async function getPublicSiteSettings(): Promise<PublicSiteSettings> {
   if (!process.env.DATABASE_URL) return fallback;
+
   try {
-    const row = await prisma.siteSetting.findUnique({where: {id: 'global'}});
+    const row = await getCachedSiteSetting();
+
     if (!row) return fallback;
+
     return {
       websiteName: row.websiteName || fallback.websiteName,
       tagline: row.tagline || fallback.tagline,

@@ -117,6 +117,7 @@ export function LanguageSelector({compact = false}: {compact?: boolean}) {
             <input
               value={query}
               onChange={(event) => setQuery(event.target.value)}
+              aria-label={t('search')}
               placeholder={t('search')}
               className="w-full bg-transparent outline-none"
               autoFocus

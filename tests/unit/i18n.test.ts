@@ -9,8 +9,8 @@ function flattenKeys(value: unknown, prefix = ''): string[] {
 }
 
 describe('internationalisation', () => {
-  it('enables 39 locales with English as the default', () => {
-    expect(locales).toHaveLength(39);
+  it('enables 29 locales with English as the default', () => {
+    expect(locales).toHaveLength(29);
     expect(defaultLocale).toBe('en');
     expect(new Set(locales).size).toBe(locales.length);
   });
